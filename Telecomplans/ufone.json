@@ -1,0 +1,366 @@
+[
+    {
+        "name": "Daily Shoq Pack",
+        "price": "Rs. 60 (Load)",
+        "data": "1 GB (Free SHOQ subscription)",
+        "validity": "24 hours"
+    },
+    {
+        "name": "Mega Internet",
+        "price": "Rs. 22 (incl.tax)",
+        "data": "2 GB",
+        "validity": "12 AM - 12 PM",
+        "dial_code": "*550#"
+    },
+    {
+        "name": "Daily Off Peak Plus",
+        "price": "Rs. 20.00 (incl.tax)",
+        "data": "1.5 GB (6AM-6PM)",
+        "validity": "01 Day",
+        "dial_code": "*10#"
+    },
+    {
+        "name": "Daily Light",
+        "price": "Rs. 16.52 (incl.tax)",
+        "data": "40 MB\nSocial Networks: 1 GB",
+        "validity": "1 Day",
+        "dial_code": "*2256#"
+    },
+    {
+        "name": "Daily Free Fire Offer",
+        "price": "Rs. 12 (Load)",
+        "data": "750 MB (250MB Data + 500MB)",
+        "validity": "24 hours",
+        "dial_code": "*8080#"
+    },
+    {
+        "name": "Daily PUBGM Offer",
+        "price": "Rs. 12 (Load)",
+        "data": "750 MB (250MB Data+ 500MB)",
+        "validity": "24 hours",
+        "dial_code": "*8080#"
+    },
+    {
+        "name": "Best Morning Offer",
+        "price": "Rs. 8 (incl.tax)",
+        "data": "2GB (9AM – 12PM)",
+        "validity": "01 Day",
+        "dial_code": "*4200#"
+    },
+    {
+        "name": "Unlimited Whatsapp Offer",
+        "price": "Rs. 5 (Load)",
+        "data": "Social Networks: 500 MB",
+        "validity": "1 Day",
+        "dial_code": "*987#"
+    },
+    {
+        "name": "Unlimited Instagram & Threads Offer",
+        "price": "Rs. 5 (Load)",
+        "data": "500 MB",
+        "validity": "24 hours",
+        "dial_code": "*9898#"
+    },
+    {
+        "name": "SnapChat offer",
+        "price": "Free of Cost",
+        "data": "Free Internet: 100 MBs",
+        "validity": "1 Day",
+        "dial_code": "*7627#"
+    },
+    {
+        "name": "Monthly Heavy Internet",
+        "price": "Rs. 850 (Load)",
+        "data": "30GB (includes 15GB from 1am to 9am)",
+        "validity": "30 Days",
+        "dial_code": "*310#"
+    },
+    {
+        "name": "SUPER INTERNET PLUS",
+        "price": "Rs. 649 (Load)",
+        "data": "18GB (includes 9GB from 1am to 9am)",
+        "validity": "30 Days",
+        "dial_code": "*290#"
+    },
+    {
+        "name": "Social Plus Offer",
+        "price": "Rs. 450 (Load)",
+        "data": "15 GB",
+        "validity": "30 Days",
+        "dial_code": "*6373#",
+        "ufone_ptcl_mins": 500,
+        "off_net_mins": 100,
+        "sms": 500
+    },
+    {
+        "name": "Social Hero Offer",
+        "price": "Rs. 430 (Load)",
+        "data": "12 GB",
+        "validity": "30 Days",
+        "dial_code": "*4440#",
+        "ufone_ptcl_mins": 300,
+        "off_net_mins": 50,
+        "sms": 300
+    },
+    {
+        "name": "Social Champion Offer",
+        "price": "Rs. 250 (Load)",
+        "data": "6 GB",
+        "validity": "30 Days",
+        "dial_code": "*1818#",
+        "ufone_ptcl_mins": 150,
+        "sms": 150,
+        "off_net_mins": 20
+    },
+    {
+        "name": "MONTHLY FACEBOOK OFFER",
+        "price": "Rs. 250 (Load)",
+        "data": "6 GB Facebook",
+        "validity": "30 Days",
+        "dial_code": "*987#",
+        "ufone_ptcl_mins": 150,
+        "sms": 150,
+        "off_net_mins": 20
+    },
+    {
+        "name": "Monthly FreeFire",
+        "price": "Rs. 100 (Load)",
+        "data": "10 GB",
+        "validity": "30 Days",
+        "dial_code": "*8080#"
+    },
+    {
+        "name": "Monthly PUBG",
+        "price": "Rs. 100 (Load)",
+        "data": "10 GB",
+        "validity": "30 Days",
+        "dial_code": "*8080#"
+    },
+    {
+        "name": "MONTHLY WHATSAPP OFFER",
+        "price": "Rs. 99 (Load)",
+        "data": "6 GB",
+        "validity": "30 Days",
+        "dial_code": "*987#"
+    },
+    {
+        "name": "Monthly Snapchat Offer",
+        "price": "Rs. 50 (Load)",
+        "data": "6 GB",
+        "validity": "30 Days",
+        "dial_code": "*9694#"
+    },
+    {
+        "name": "Weekly Digital Offer",
+        "price": "Rs. 460 (Load)",
+        "data": "60 GB",
+        "validity": "7 Days",
+        "dial_code": "*7777#",
+        "ufone_ptcl_mins": 7000,
+        "off_net_mins": 600,
+        "sms": 7000,
+        "shoq_subscription": "Free Shoq Subscription"
+    },
+    {
+        "name": "SAB SE BARI PLUS OFFER",
+        "price": "Rs. 449 (Load)",
+        "data": "40 GB",
+        "validity": "7 Days",
+        "ufone_ptcl_mins": 5000,
+        "off_net_mins": 250,
+        "sms": 5000,
+        "shoq_subscription": "Free Shoq Subscription"
+    },
+    {
+        "name": "SAB SE BARI OFFER",
+        "price": "Rs. 420 (Load)",
+        "data": "25 GB",
+        "validity": "7 Days",
+        "dial_code": "*7777#",
+        "ufone_ptcl_mins": 5000,
+        "off_net_mins": 100
+    },
+    {
+        "name": "Weekly Max Offer",
+        "price": "Rs. 399 (Load)",
+        "data": "15 GB",
+        "validity": "7 Days",
+        "ufone_ptcl_mins": 5000,
+        "off_net_mins": 100
+    },
+    {
+        "name": "UPOWER INTERNET",
+        "price": "Rs. 330 (Load)",
+        "data": "16GB (includes 8GB from 2am to 2pm)",
+        "validity": "7 Days",
+        "dial_code": "*270#"
+    },
+    {
+        "name": "WEEKLY INTERNET PLUS",
+        "price": "Rs. 299 (Load)",
+        "data": "16GB (includes 8GB from 2am to 2pm)",
+        "validity": "7 Days",
+        "dial_code": "*260#"
+    },
+    {
+        "name": "Weekly Shoq Pack",
+        "price": "Rs. 200 (Load)",
+        "data": "3.5 GB (Free SHOQ subscription)",
+        "validity": "7 Days"
+    },
+    {
+        "name": "Weekly Video Offer",
+        "price": "Rs. 180 (Load)",
+        "data": "6 GB",
+        "validity": "7 Days",
+        "dial_code": "*4383#",
+        "ufone_ptcl_mins": 200,
+        "sms": 200,
+        "off_net_mins": 25
+    },
+    {
+        "name": "SUPER INTERNET",
+        "price": "Rs. 160 (Load)",
+        "data": "1.5 GB",
+        "validity": "7 Days",
+        "dial_code": "*220#"
+    },
+    {
+        "name": "Weekly Social Offer",
+        "price": "Rs. 150 (Load)",
+        "data": "6 GB",
+        "validity": "7 Days",
+        "dial_code": "*6660#",
+        "ufone_ptcl_mins": 200,
+        "off_net_mins": 25,
+        "sms": 200
+    },
+    {
+        "name": "YOUTUBE OFFER",
+        "price": "Rs. 150 (Load)",
+        "data": "5 GB",
+        "validity": "7 Days",
+        "dial_code": "*5883#"
+    },
+    {
+        "name": "INTERNET MAX OFFER",
+        "price": "Rs. 135 (Load)",
+        "data": "25 GB (1 AM till 9 AM)",
+        "validity": "7 Days",
+        "dial_code": "*2570#"
+    },
+    {
+        "name": "UFONE TIKTOK OFFER",
+        "price": "Rs. 80 (Load)",
+        "data": "4 GB",
+        "validity": "7 Days",
+        "dial_code": "*2345#"
+    },
+    {
+        "name": "WEEKLY SNACKVIDEO OFFER",
+        "price": "Rs. 70 (Load)",
+        "data": "4 GB",
+        "validity": "7 Days",
+        "dial_code": "*265#"
+    },
+    {
+        "name": "Weekly PUBGM Offer",
+        "price": "Rs. 60 (Load)",
+        "data": "5 GB (1GB Data + 4GB)",
+        "validity": "7 Days",
+        "dial_code": "*8080#"
+    },
+    {
+        "name": "Weekly Free Fire Offer",
+        "price": "Rs. 60 (Load)",
+        "data": "5 GB (1GB Data + 4GB)",
+        "validity": "7 Days",
+        "dial_code": "*8080#"
+    },
+    {
+        "name": "Digital Mega Offer (Free Golootlo + SHOQ Subscription + Waada Subscription + U Cloud)",
+        "price": "Rs. 1800",
+        "off_net_minutes": "1000",
+        "u_u_ptcl_minutes": "10000",
+        "internet": "200 GB",
+        "sms": "10000",
+        "validity": "30 Days",
+        "dial_code": "*9080#"
+    },
+    {
+        "name": "Digital Grand Offer (Free Golootlo + SHOQ Subscription)",
+        "price": "Rs. 1700",
+        "off_net_minutes": "1000",
+        "u_u_ptcl_minutes": "10000",
+        "internet": "100 GB",
+        "sms": "10000",
+        "validity": "30 Days",
+        "dial_code": "*900#"
+    },
+    {
+        "name": "Super Card Gold",
+        "price": "Rs. 1500",
+        "off_net_minutes": "600",
+        "u_u_ptcl_minutes": "Unlimited*",
+        "internet": "40 GB",
+        "sms": "Unlimited*",
+        "validity": "30 Days",
+        "dial_code": "*900#"
+    },
+    {
+        "name": "Super Card Premium",
+        "price": "Rs. 1300",
+        "off_net_minutes": "500",
+        "u_u_ptcl_minutes": "6000",
+        "internet": "30 GB",
+        "sms": "6000",
+        "validity": "30 Days",
+        "dial_code": ""
+    },
+    {
+        "name": "Super Card Grand (Free Shoq Subscription)",
+        "price": "Rs. 1050",
+        "on_net_minutes": "6000",
+        "off_net_minutes": "450",
+        "internet": "20 GB",
+        "sms": "6000",
+        "validity": "30 Days",
+        "dial_code": "*899#"
+    },
+    {
+        "name": "Super Card Max",
+        "price": "Rs. 999",
+        "off_net_minutes": "350",
+        "u_u_ptcl_minutes": "Unlimited*",
+        "internet": "10 GB",
+        "sms": "4500",
+        "validity": "30 Days",
+        "dial_code": "*629#"
+    },
+    {
+        "name": "Mini Super Card",
+        "price": "Rs. 420",
+        "off_net_minutes": "100",
+        "u_u_ptcl_minutes": "1000",
+        "internet": "3 GB",
+        "sms": "3500",
+        "validity": "15 Days",
+        "dial_code": "*230#"
+    },
+    {
+        "name": "Super Minutes",
+        "price": "Rs. 199",
+        "off_net_minutes": "170",
+        "validity": "7 Days",
+        "dial_code": "*210#"
+    },
+    {
+        "name": "Super Internet",
+        "price": "Rs. 180",
+        "internet": "1.5 GB",
+        "validity": "7 Days",
+        "dial_code": "*220#"
+    }
+    
+    
+]

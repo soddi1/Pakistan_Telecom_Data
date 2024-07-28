@@ -1,0 +1,3446 @@
+{
+    "packages": [
+      {
+        "name": "Monthly Maheena Bhar Mouj",
+        "url": "https://www.zong.com.pk/prepaid/maheena-bhar-mouj",
+        "price": "PKR. 370.00",
+        "all_net_mins": "3000",
+        "sms": "3000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Pro Max",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro-max",
+        "price": "PKR. 1800.00",
+        "internet": "200GB",
+        "off_net_mins": "2000",
+        "zong_mins": "20000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "My5",
+        "url": "https://www.zong.com.pk/prepaid/my5",
+        "price": "PKR. 2700.00",
+        "internet": "200 GB",
+        "zong_mins": "20000",
+        "off_net_mins": "2000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "My5 Call",
+        "url": "https://www.zong.com.pk/prepaid/my5-call",
+        "price": "PKR. 1000.00",
+        "all_net_mins": "5000",
+        "sms": "5000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Azadi Offer",
+        "url": "https://www.zong.com.pk/prepaid/weekly-azadi-offer",
+        "price": "PKR. 520.00",
+        "internet": "80GB",
+        "zong_mins": "10000",
+        "off_net_mins": "1000",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Weekly Pro Plus",
+        "url": "https://www.zong.com.pk/prepaid/weekly-pro-plus",
+        "price": "PKR. 500.00",
+        "internet": "60GB",
+        "off_net_mins": "600",
+        "zong_mins": "6000",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Digital Max Offer",
+        "url": "https://www.zong.com.pk/prepaid/monthly-digital-max-offer",
+        "price": "PKR. 1700.00",
+        "internet": "100GB",
+        "zong_mins": "10000",
+        "off_net_mins": "1000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Social Offer",
+        "url": "https://www.zong.com.pk/prepaid/weekly-social-offer",
+        "price": "PKR. 150.00",
+        "zong_mins": "500",
+        "off_net_mins": "20",
+        "sms": "200",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Pro Plus",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro-plus",
+        "price": "PKR. 1600.00",
+        "internet": "60GB",
+        "off_net_mins": "600",
+        "zong_mins": "10000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Super Card",
+        "url": "https://www.zong.com.pk/prepaid/monthly-super-card",
+        "price": "PKR. 1000.00",
+        "internet": "12GB",
+        "off_net_mins": "350",
+        "zong_mins": "Unlimited",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Pro",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro",
+        "price": "PKR. 1500.00",
+        "internet": "40GB",
+        "off_net_mins": "600",
+        "zong_mins": "10000",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Pro",
+        "url": "https://www.zong.com.pk/prepaid/weekly-pro",
+        "price": "PKR. 460.00",
+        "internet": "40GB",
+        "off_net_mins": "250",
+        "zong_mins": "5000",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Weekly HLO",
+        "url": "https://www.zong.com.pk/prepaid/weekly-hlo",
+        "price": "PKR. 400.00",
+        "internet": "15GB",
+        "off_net_mins": "100",
+        "zong_mins": "5000",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Mega Data Offer",
+        "url": "https://www.zong.com.pk/internet/mega-data-offer",
+        "price": "PKR. 250.00",
+        "internet": "100GB",
+        "validity": "7 Days"
+      },
+      {
+        "name": "My5",
+        "url": "https://www.zong.com.pk/prepaid/my5",
+        "internet": "200 GB",
+        "zong_mins": "20000",
+        "off_net_mins": "2000",
+        "price": "PKR. 3000.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Pro Max",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro-max",
+        "internet": "200GB",
+        "off_net_mins": "2000",
+        "zong_mins": "20000",
+        "price": "PKR. 1800.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "My5 Call",
+        "url": "https://www.zong.com.pk/prepaid/my5-call",
+        "all_net_mins": "5000",
+        "sms": "5000",
+        "price": "PKR. 1000.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Super Card Mini",
+        "url": "https://www.zong.com.pk/prepaid/monthly-super-card-mini",
+        "internet": "5GB",
+        "zong_mins": "5000",
+        "off_net_mins": "200",
+        "price": "PKR. 900.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Supreme Plus",
+        "url": "https://www.zong.com.pk/prepaid/monthly-supreme-plus",
+        "internet": "30 GB",
+        "zong_mins": "5000",
+        "off_net_mins": "600",
+        "price": "PKR. 1200.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Digital Max",
+        "url": "https://www.zong.com.pk/prepaid/weekly-digital-max",
+        "internet": "100GB",
+        "zong_mins": "10000",
+        "off_net_mins": "1000",
+        "price": "PKR. 540.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Apna Shehr Series",
+        "cities": [
+          "Raiwind",
+          "Muridke",
+          "Sheikhupura",
+          "Sahiwal",
+          "Okara",
+          "Pir Mahal",
+          "Kamalia",
+          "Chichawatni",
+          "Mian Channu",
+          "Kharian",
+          "Pasrur",
+          "Chawinda",
+          "Sambrial",
+          "Daska",
+          "Kassowal",
+          "Kotla"
+        ],
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-[city]",
+        "internet": "5GB",
+        "zong_mins": "1000",
+        "off_net_mins": "40",
+        "price": "PKR. 150.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Zong Unlimited",
+        "url": "https://www.zong.com.pk/prepaid/zong-unlimited",
+        "zong_mins": "100",
+        "off_net_mins": "10",
+        "internet": "100 MBs",
+        "price": "PKR. 50.00",
+        "validity": "Unspecified"
+      },
+      {
+        "name": "Weekly Azadi offer",
+        "url": "https://www.zong.com.pk/prepaid/weekly-azadi-offer",
+        "internet": "80GB",
+        "zong_mins": "10000",
+        "off_net_mins": "1000",
+        "price": "PKR. 520.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Layyah Max",
+        "url": "https://www.zong.com.pk/prepaid/layyah-max",
+        "internet": "12 GB",
+        "off_net_mins": "100",
+        "zong_mins": "3000",
+        "price": "PKR. 230.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Weekly Pro Plus",
+        "url": "https://www.zong.com.pk/prepaid/weekly-pro-plus",
+        "internet": "60GB",
+        "off_net_mins": "600",
+        "zong_mins": "6000",
+        "price": "PKR. 500.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Digital Max Offer",
+        "url": "https://www.zong.com.pk/prepaid/monthly-digital-max-offer",
+        "internet": "100GB",
+        "zong_mins": "10000",
+        "off_net_mins": "1000",
+        "price": "PKR. 1700.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Pro Plus",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro-plus",
+        "internet": "60GB",
+        "off_net_mins": "600",
+        "zong_mins": "10000",
+        "price": "PKR. 1600.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Super Card",
+        "url": "https://www.zong.com.pk/prepaid/monthly-super-card",
+        "internet": "12GB",
+        "off_net_mins": "350",
+        "zong_mins": "Unlimited",
+        "price": "PKR. 1000.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Pro",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro",
+        "internet": "40GB",
+        "off_net_mins": "600",
+        "zong_mins": "10000",
+        "price": "PKR. 1500.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Pro",
+        "url": "https://www.zong.com.pk/prepaid/weekly-pro",
+        "internet": "40GB",
+        "off_net_mins": "250",
+        "zong_mins": "5000",
+        "price": "PKR. 460.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Weekly HLO",
+        "url": "https://www.zong.com.pk/prepaid/weekly-hlo",
+        "internet": "15GB",
+        "off_net_mins": "100",
+        "zong_mins": "5000",
+        "price": "PKR. 400.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Weekly Premium",
+        "url": "https://www.zong.com.pk/internet/weekly-premium",
+        "internet": "30GB",
+        "off_net_mins": "180",
+        "zong_mins": "Unlimited",
+        "price": "PKR. 450.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Supreme",
+        "url": "https://www.zong.com.pk/prepaid/monthly-supreme",
+        "internet": "20GB",
+        "zong_mins": "5000",
+        "off_net_mins": "500",
+        "price": "PKR. 1100.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly AIO",
+        "url": "https://www.zong.com.pk/prepaid/weekly-aio",
+        "internet": "4GB",
+        "off_net_mins": "60",
+        "zong_mins": "5000",
+        "price": "PKR. 300.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Super Weekly Plus",
+        "url": "https://www.zong.com.pk/internet/super-weekly-plus",
+        "internet": "8GB",
+        "off_net_mins": "60",
+        "zong_mins": "Unlimited",
+        "price": "PKR. 350.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Super Offer",
+        "url": "https://www.zong.com.pk/prepaid/monthly-super-offer",
+        "internet": "30GB",
+        "zong_mins": "5000",
+        "off_net_mins": "450",
+        "price": "PKR. 1299.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Family Bundle",
+        "url": "https://www.zong.com.pk/prepaid/family-bundle",
+        "internet": "40GB",
+        "whatsapp_data": "10GB",
+        "facebook_data": "10GB",
+        "price": "PKR. 2000.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Super Star Offer",
+        "url": "https://www.zong.com.pk/prepaid/super-star-offer",
+        "internet": "8GB",
+        "off_net_mins": "500",
+        "zong_mins": "3000",
+        "price": "PKR. 575.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Star Pre-Load Monthly Power Pack SIM 500",
+        "url": "https://www.zong.com.pk/prepaid/star-preload-monthly-power-pack-sim-500",
+        "internet": "2.5GB",
+        "zong_mins": "1000",
+        "off_net_mins": "50",
+        "price": "PKR. 500.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Value Pre-Load Monthly Power Pack SIM 1000",
+        "url": "https://www.zong.com.pk/prepaid/value-preload-monthly-power-pack-sim-1000",
+        "zong_mins": "2000",
+        "off_net_mins": "150",
+        "internet": "500MB",
+        "price": "PKR. 1000.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Gold Pre-Load 3 Months Power Pack SIM 1500",
+        "url": "https://www.zong.com.pk/prepaid/gold-preload-3-months-power-pack-sim-1500",
+        "internet": "8GB",
+        "zong_mins": "8000",
+        "off_net_mins": "200",
+        "price": "PKR. 1000.00 + Tax",
+        "validity": "90 Days"
+      },
+      {
+        "name": "Monthly Pro Max",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro-max",
+        "internet": "200GB",
+        "off_net_mins": "2000",
+        "zong_mins": "20000",
+        "price": "PKR. 1800.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly PUBG",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pubg",
+        "internet": "10GB",
+        "price": "PKR. 120.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Daily TikTok",
+        "url": "https://www.zong.com.pk/prepaid/daily-tiktok",
+        "internet": "1GB",
+        "app_specific": "TikTok",
+        "price": "PKR. 8.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "One Day Facebook",
+        "url": "https://www.zong.com.pk/prepaid/one-day-facebook",
+        "internet": "1GB",
+        "app_specific": "Facebook",
+        "price": "PKR. 8.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Haftawar Voice Offer",
+        "url": "https://www.zong.com.pk/prepaid/haftawar-voice-offer",
+        "internet": "1GB",
+        "all_net_mins": "1000",
+        "app_specific_data": "20GB Whatsapp",
+        "price": "PKR. 99.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Maheena Bhar Offer",
+        "url": "https://www.zong.com.pk/prepaid/maheena-bhar-offer",
+        "internet": "10GB",
+        "all_net_mins": "2000",
+        "app_specific_data": "20GB Whatsapp",
+        "price": "PKR. 499.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Social & Youtube",
+        "url": "https://www.zong.com.pk/prepaid/monthly-social-youtube",
+        "internet": "20GB",
+        "off_net_mins": "100",
+        "zong_mins": "500",
+        "price": "PKR. 430.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Social Offer",
+        "url": "https://www.zong.com.pk/prepaid/weekly-social-offer",
+        "zong_mins": "500",
+        "off_net_mins": "20",
+        "sms": "200",
+        "price": "PKR. 160.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Gilgit Baltistan Offer",
+        "url": "https://www.zong.com.pk/prepaid/gilgit-baltistan-offer",
+        "internet": "4 GB Whatsapp",
+        "zong_mins": "1000",
+        "off_net_mins": "40",
+        "price": "PKR. 110.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Pro Plus",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro-plus",
+        "internet": "60GB",
+        "off_net_mins": "600",
+        "zong_mins": "10000",
+        "price": "PKR. 1600.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly Pro",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pro",
+        "internet": "40GB",
+        "off_net_mins": "600",
+        "zong_mins": "10000",
+        "price": "PKR. 1500.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Pro",
+        "url": "https://www.zong.com.pk/prepaid/weekly-pro",
+        "internet": "40GB",
+        "off_net_mins": "250",
+        "zong_mins": "5000",
+        "price": "PKR. 460.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly 20GB",
+        "url": "https://www.zong.com.pk/internet/monthly-20gb",
+        "internet": "20GB",
+        "price": "PKR. 750.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly 40GB",
+        "url": "https://www.zong.com.pk/internet/monthly-40gb",
+        "internet": "40GB",
+        "price": "PKR. 1000.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Monthly 5GB",
+        "url": "https://www.zong.com.pk/internet/monthly-5gb",
+        "internet": "5GB",
+        "price": "PKR. 450.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Super Weekly Max",
+        "url": "https://www.zong.com.pk/internet/super-weekly-max",
+        "internet": "20GB",
+        "all_net_mins": "100",
+        "zong_mins": "5000",
+        "price": "PKR. 420.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Social",
+        "url": "https://www.zong.com.pk/prepaid/monthly-social",
+        "internet": "12GB",
+        "zong_mins": "250",
+        "off_net_mins": "50",
+        "price": "PKR. 430.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Daily Basic",
+        "url": "https://www.zong.com.pk/internet/daily-basic",
+        "internet": "100MB",
+        "price": "PKR. 23.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Daily Data Max",
+        "url": "https://www.zong.com.pk/internet/daily-data-max",
+        "total_data": "1GB",
+        "internet": "500MB",
+        "youtube": "500MB",
+        "price": "PKR. 49.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "1 Hour YouTube",
+        "url": "https://www.zong.com.pk/prepaid/1-hour-youtube",
+        "youtube": "1 Hour",
+        "price": "PKR. 2.00 + Tax",
+        "validity": "1 Hour"
+      },
+      {
+        "name": "Monthly Google Maps Offer",
+        "url": "https://www.zong.com.pk/internet/monthly-google-maps-offer",
+        "internet": "FUP 500MB",
+        "price": "PKR. 1.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "5GB Monthly on Internet SIM",
+        "url": "https://www.zong.com.pk/internet/5gb-monthly-on-internet-sim",
+        "internet": "5GB",
+        "price": "PKR. 330.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Internet SIM 4GB + 5GB (4am-4pm)",
+        "url": "https://www.zong.com.pk/internet/internet-sim-4gb-5gb-4am4pm",
+        "internet": "9GB",
+        "price": "PKR. 785.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Internet SIM 12GB + 15GB (4am-4pm)",
+        "url": "https://www.zong.com.pk/internet/internet-sim-12gb--15gb-4am4pm",
+        "internet": "27GB",
+        "price": "PKR. 1250.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Internet SIM 65GB",
+        "url": "https://www.zong.com.pk/internet/internet-sim-65gb",
+        "internet": "65GB",
+        "price": "PKR. 2100.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "160GB MBB Exclusive Offer",
+        "url": "https://www.zong.com.pk/internet/160gb-mbb-exclusive-offer",
+        "internet": "160GB",
+        "price": "PKR. 3500.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "My5 Call",
+        "url": "https://www.zong.com.pk/prepaid/my5-call",
+        "all_net_mins": "5000",
+        "sms": "5000",
+        "price": "PKR. 1000.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Intro Me (Monthly)",
+        "url": "https://www.zong.com.pk/prepaid/intro-me-monthly",
+        "price": "PKR. 30.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "RBT (Daily)",
+        "url": "https://www.zong.com.pk/prepaid/rbt-daily",
+        "price": "PKR. 3.00 + Tax",
+        "validity": "1 Day"
+      },
+      {
+        "name": "RBT (Monthly)",
+        "url": "https://www.zong.com.pk/prepaid/rbt-monthly",
+        "price": "PKR. 28.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "My Tunes (Daily)",
+        "url": "https://www.zong.com.pk/prepaid/my-tunes-daily",
+        "price": "PKR. 1.78 + Tax",
+        "validity": "1 Day"
+      },
+      {
+        "name": "My Tunes (Montly)",
+        "url": "https://www.zong.com.pk/prepaid/my-tunes-montly",
+        "price": "PKR. 25.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "MCA (Monthly)",
+        "url": "https://www.zong.com.pk/prepaid/mca-monthly",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Caller ID",
+        "url": "https://www.zong.com.pk/prepaid/caller-id",
+        "price": "PKR. 1.50 + Tax",
+        "validity": "Daily"
+      },
+      {
+        "name": "Intro Me (Daily)",
+        "url": "https://www.zong.com.pk/prepaid/intro-me-daily",
+        "price": "PKR. 1.19 Plus Tax",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Monthly Call Plus",
+        "url": "https://www.zong.com.pk/prepaid/monthly-call-plus",
+        "zong_mins": "2000",
+        "off_net_mins": "100",
+        "sms": "2000",
+        "price": "PKR. 370.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Weekly Call",
+        "url": "https://www.zong.com.pk/prepaid/weekly-call",
+        "zong_mins": "2000",
+        "off_net_mins": "30",
+        "sms": "2000",
+        "price": "PKR. 170.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly Call",
+        "url": "https://www.zong.com.pk/prepaid/monthly-call",
+        "zong_mins": "1000",
+        "sms": "1000",
+        "price": "PKR. 220.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Mahana Voice Offer",
+        "url": "https://www.zong.com.pk/prepaid/mahana-voice-offer",
+        "zong_mins": "100 Daily",
+        "price": "PKR. 200.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Shandaar Haftawaar Offer",
+        "url": "https://www.zong.com.pk/prepaid/shandaar-offers-weekly",
+        "zong_mins": "500",
+        "off_net_mins": "40",
+        "internet": "500MB",
+        "price": "PKR. 120.00 + Tax",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Shandaar Mahana Offer",
+        "url": "https://www.zong.com.pk/prepaid/shandaar-offers-monthly",
+        "zong_mins": "1000",
+        "off_net_mins": "100",
+        "internet": "1GB",
+        "price": "PKR. 305.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "Daily Voice Offer",
+        "url": "https://www.zong.com.pk/prepaid/daily-voice-offer",
+        "zong_mins": "20",
+        "price": "PKR. 5.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "ZONG Daily Khata",
+        "url": "https://www.zong.com.pk/prepaid/zong-daily-khata",
+        "price": "PKR. 1.00 + Tax",
+        "validity": "1 Day"
+      },
+      {
+        "name": "420 Incoming Call Screening Service",
+        "url": "https://www.zong.com.pk/prepaid/420-incoming-call-screening-service",
+        "price": "PKR. 15.00 + Tax",
+        "validity": "30 Days"
+      },
+      {
+        "name": "ZONG BOLO SMS",
+        "url": "https://www.zong.com.pk/prepaid/zong-bolo-sms",
+        "price": "PKR. 3.00 + Tax",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Daily SMS + WhatsApp Bundle",
+        "url": "https://www.zong.com.pk/prepaid/daily-sms-whatsapp-bundle",
+        "internet": "1 MB",
+        "sms": "500",
+        "whatsapp": "30MB",
+        "price": "PKR. 10.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Weekly SMS + WhatsApp Bundle",
+        "url": "https://www.zong.com.pk/prepaid/weekly-sms-whatsapp-bundle",
+        "sms": "1300",
+        "whatsapp": "200MB",
+        "price": "PKR. 35.00",
+        "validity": "7 Days"
+      },
+      {
+        "name": "Monthly SMS + Whatsapp Bundle",
+        "url": "https://www.zong.com.pk/prepaid/monthly-sms-whatsapp-bundle",
+        "sms": "500/Day",
+        "whatsapp": "30MB/Day",
+        "price": "PKR. 100.00",
+        "validity": "30 Days"
+      },
+      {
+        "name": "2 Hour Non Stop Offer",
+        "url": "https://www.zong.com.pk/prepaid/2-hour-non-stop-offer",
+        "internet": "1GB",
+        "zong_mins": "Unlimited",
+        "price": "PKR. 14.00",
+        "validity": "2 Hours"
+      },
+      {
+        "name": "3 Day Bundle",
+        "url": "https://www.zong.com.pk/prepaid/3-day-bundle",
+        "internet": "1GB",
+        "zong_mins": "1000",
+        "off_net_mins": "10",
+        "price": "PKR. 100.00",
+        "validity": "3 Days"
+      },
+      {
+        "name": "Shandaar Daily Offer",
+        "url": "https://www.zong.com.pk/prepaid/shandaar-offers-daily",
+        "internet": "50MB",
+        "zong_mins": "Unlimited",
+        "sms": "800",
+        "price": "PKR. 19.00 +Tax",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Daily Social Offer",
+        "url": "https://www.zong.com.pk/internet/daily-social-offer",
+        "internet": "1.5",
+        "price": "PKR. 30.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Daily TikTok",
+        "url": "https://www.zong.com.pk/prepaid/daily-tiktok",
+        "internet": "1GB Tiktok",
+        "price": "PKR. 8.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "One Day Facebook",
+        "url": "https://www.zong.com.pk/prepaid/one-day-facebook",
+        "internet": "1GB Facebook",
+        "price": "PKR. 8.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Monthly PUBG",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pubg",
+        "internet": "10GB",
+        "price": "PKR. 120.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "Monthly WhatsApp Prime",
+        "url": "https://www.zong.com.pk/prepaid/monthly-whatsapp-prime",
+        "internet": "8GB Whatsapp",
+        "price": "PKR. 200.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "Monthly Social",
+        "url": "https://www.zong.com.pk/prepaid/monthly-social",
+        "internet": "12GB",
+        "zong_mins": "250",
+        "off_net_mins": "50",
+        "price": "PKR. 430.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "Weekly TikTok Offer",
+        "url": "https://www.zong.com.pk/internet/tiktok-offer",
+        "internet": "5GB Tiktok",
+        "price": "PKR. 120.00",
+        "validity": "1 Week"
+      },
+      {
+        "name": "Monthly WhatsApp Plus",
+        "url": "https://www.zong.com.pk/internet/monthly-whatsapp-plus",
+        "internet": "7GB Whatsapp + IMO",
+        "zong_mins": "200",
+        "off_net_mins": "30",
+        "price": "PKR. 300.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "Monthly Social Mini",
+        "url": "https://www.zong.com.pk/internet/monthly-social-mini",
+        "internet": "6GB",
+        "price": "PKR. 200.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "Weekly Video",
+        "url": "https://www.zong.com.pk/internet/weekly-video",
+        "internet": "8GB",
+        "price": "PKR. 169.00",
+        "validity": "1 Week"
+      },
+      {
+        "name": "Monthly WhatsApp",
+        "url": "https://www.zong.com.pk/internet/monthly-whatsapp",
+        "internet": "5GB Whatsapp",
+        "price": "PKR. 150.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "IMO Offer",
+        "url": "https://www.zong.com.pk/internet/imo",
+        "internet": "2.5GB",
+        "price": "PKR. 100.00",
+        "validity": "1 Month"
+      },
+      {
+        "name": "Mega Data Offer",
+        "url": "https://www.zong.com.pk/internet/mega-data-offer",
+        "internet": "100GB",
+        "price": "PKR. 250.00",
+        "validity": "1 Week"
+      },
+      {
+        "name": "Stay At Home Bundle",
+        "url": "https://www.zong.com.pk/prepaid/stay-at-home-bundle",
+        "internet": "10GB",
+        "zong_mins": "1000",
+        "price": "PKR. 200.00",
+        "validity": "1 Week"
+      },
+      {
+        "name": "Daily DTO",
+        "url": "https://www.zong.com.pk/internet/daily-dto",
+        "internet": "1.5GB",
+        "price": "PKR. 30.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Daily GNO",
+        "url": "https://www.zong.com.pk/internet/daily-gno",
+        "internet": "2.5GB",
+        "price": "PKR. 25.00",
+        "validity": "1 Day"
+      },
+      {
+        "name": "Apna Shehr Plus Central B, North & South",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-plus-central-b-north--south",
+        "internet": "8GB",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Malakand Plus",
+        "url": "https://www.zong.com.pk/prepaid/malakand-plus",
+        "internet": "8 GB",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Supreme",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-supreme",
+        "internet": "20GB",
+        "price": "PKR. 300.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-offer",
+        "internet": "5GB",
+        "price": "PKR. 130.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sialkot Plus",
+        "url": "https://www.zong.com.pk/prepaid/sialkot-plus",
+        "internet": "8GB",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Monthly Super",
+        "url": "https://www.zong.com.pk/prepaid/monthly-super",
+        "off_net_minutes": "450",
+        "zong_minutes": "5000",
+        "sms": "5000",
+        "price": "PKR. 1299.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Weekly Social NWD",
+        "url": "https://www.zong.com.pk/prepaid/weekly-social-nwd",
+        "off_net_minutes": "20",
+        "zong_minutes": "500",
+        "sms": "200",
+        "price": "PKR. 150.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Monthly PubG Bundle",
+        "url": "https://www.zong.com.pk/prepaid/monthly-pubg-bundle",
+        "internet": "10GB",
+        "price": "PKR. 120.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Bahawalpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/bahawalpur-plus",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Faisalabad Plus",
+        "url": "https://www.zong.com.pk/prepaid/faisalabad-plus",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Multan Plus",
+        "url": "https://www.zong.com.pk/prepaid/multan-plus",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Panjnad Plus",
+        "url": "https://www.zong.com.pk/prepaid/panjnad-plus",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Rahim Yar Khan Plus",
+        "url": "https://www.zong.com.pk/prepaid/rahim-yar-khan-plus",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Zafarwal Plus",
+        "url": "https://www.zong.com.pk/prepaid/zafarwal-plus",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    }, 
+    {
+        "name": "Weekly Super Star",
+        "url": "https://www.zong.com.pk/prepaid/weekly-super-star",
+        "off_net_minutes": "1000",
+        "zong_minutes": "10000",
+        "sms": "10000",
+        "price": "PKR. 520.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Area Play Plus",
+        "url": "https://www.zong.com.pk/prepaid/area-play-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 180.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Plus Central A",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-plus-central-a",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "WhatsApp offer",
+        "url": "https://www.zong.com.pk/prepaid/whatsapp-offer",
+        "internet": "4GB",
+        "price": "PKR. 180.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Defence Bachat Offer",
+        "url": "https://www.zong.com.pk/prepaid/defence-bachat-offer",
+        "internet": "5GB",
+        "whatsapp_data": "10GB",
+        "off_net_minutes": "50",
+        "price": "PKR. 120.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Max Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-max-offer",
+        "internet": "12GB",
+        "zong_minutes": "3000",
+        "off_net_minutes": "100",
+        "price": "PKR. 270.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Extreme Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-extreme-offer",
+        "internet": "25GB",
+        "zong_minutes": "4000",
+        "off_net_minutes": "180",
+        "price": "PKR. 320.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Defence Digital Offer",
+        "url": "https://www.zong.com.pk/prepaid/defence-digital-offer",
+        "internet": "100GB",
+        "zong_minutes": "10000",
+        "off_net_minutes": "1000",
+        "price": "PKR. 999.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Liyari Digital Offer",
+        "url": "https://www.zong.com.pk/prepaid/liyari-digital-offer",
+        "internet": "100GB",
+        "zong_minutes": "10000",
+        "off_net_minutes": "1000",
+        "price": "PKR. 999.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Apna Shehr Rajanpur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-rajanpur",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Jahanian",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-jahanian",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Tando Adam",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-tando-adam",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Mehar",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-mehar",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Hangu",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-hangu",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Landi Kotal",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-landi-kotal",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Burewala",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-burewala",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Taunsa",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-taunsa",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Renala Khurd Plus",
+        "url": "https://www.zong.com.pk/prepaid/renala-khurd-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Depalpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/depalpur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Chishtian Plus",
+        "url": "https://www.zong.com.pk/prepaid/chishtian-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Bahawalnagar Plus",
+        "url": "https://www.zong.com.pk/prepaid/bahawalnagar-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Haroonabad Plus",
+        "url": "https://www.zong.com.pk/prepaid/haroonabad-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Bhai Pheru Plus",
+        "url": "https://www.zong.com.pk/prepaid/bhai-pheru-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Fort Abbas Plus",
+        "url": "https://www.zong.com.pk/prepaid/fort-abbas-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Arifwala Plus",
+        "url": "https://www.zong.com.pk/prepaid/arifwala-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Farooqabad Plus",
+        "url": "https://www.zong.com.pk/prepaid/farooqabad-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Badin Plus",
+        "url": "https://www.zong.com.pk/prepaid/badin-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Daharki Plus",
+        "url": "https://www.zong.com.pk/prepaid/daharki-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Ghotki Plus",
+        "url": "https://www.zong.com.pk/prepaid/ghotki-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Khairpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/khairpur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kotri Plus",
+        "url": "https://www.zong.com.pk/prepaid/kotri-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Mehrabpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/mehrabpur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Moro Plus",
+        "url": "https://www.zong.com.pk/prepaid/moro-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Pano Aqil Plus",
+        "url": "https://www.zong.com.pk/prepaid/pano-aqil-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Ranipur Plus",
+        "url": "https://www.zong.com.pk/prepaid/ranipur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Tando Allahyar Plus",
+        "url": "https://www.zong.com.pk/prepaid/tando-allahyar-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Thatta Plus",
+        "url": "https://www.zong.com.pk/prepaid/thatta-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Umarkot Plus",
+        "url": "https://www.zong.com.pk/prepaid/umarkot-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Shahdadpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/shahdadpur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Dera Murad Jamali Plus",
+        "url": "https://www.zong.com.pk/prepaid/dera-murad-jamali-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sibi Plus",
+        "url": "https://www.zong.com.pk/prepaid/sibi-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Dera Allah Yar Plus",
+        "url": "https://www.zong.com.pk/prepaid/dera-allah-yar-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kandhkot Plus",
+        "url": "https://www.zong.com.pk/prepaid/kandhkot-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Shahdadkot Plus",
+        "url": "https://www.zong.com.pk/prepaid/shahdadkot-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Rato Dero Plus",
+        "url": "https://www.zong.com.pk/prepaid/rato-dero-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Qambar Plus",
+        "url": "https://www.zong.com.pk/prepaid/qambar-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sehwan Plus",
+        "url": "https://www.zong.com.pk/prepaid/sehwan-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sialkot",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sialkot",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 130.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Malakwal Plus",
+        "url": "https://www.zong.com.pk/prepaid/malakwal-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kallar Kahar Plus",
+        "url": "https://www.zong.com.pk/prepaid/kallar-kahar-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Dina Plus",
+        "url": "https://www.zong.com.pk/prepaid/dina-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Jhelum Plus",
+        "url": "https://www.zong.com.pk/prepaid/jhelum-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "D.I. Khan Plus",
+        "url": "https://www.zong.com.pk/prepaid/di-khan-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sarai Alamgir Plus",
+        "url": "https://www.zong.com.pk/prepaid/sarai-alamgir-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Talagang Plus",
+        "url": "https://www.zong.com.pk/prepaid/talagang-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Tank Plus",
+        "url": "https://www.zong.com.pk/prepaid/tank-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kamoke Plus",
+        "url": "https://www.zong.com.pk/prepaid/kamoke-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "60",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Pakpattan Plus",
+        "url": "https://www.zong.com.pk/prepaid/pakpattan-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "60",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Pattoki Plus",
+        "url": "https://www.zong.com.pk/prepaid/pattoki-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "60",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Gojra Plus",
+        "url": "https://www.zong.com.pk/prepaid/gojra-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Phalia Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/phalia-plus-offer",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Lahore Plus",
+        "url": "https://www.zong.com.pk/prepaid/lahore-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Narowal Plus",
+        "url": "https://www.zong.com.pk/prepaid/narowal-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Hafizabad Plus",
+        "url": "https://www.zong.com.pk/prepaid/hafizabad-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Mandi Bahudin Plus",
+        "url": "https://www.zong.com.pk/prepaid/mandi-bahudin-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Gujrat Plus",
+        "url": "https://www.zong.com.pk/prepaid/gujrat-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Nankana Plus",
+        "url": "https://www.zong.com.pk/prepaid/nankana-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Gujranwala Plus",
+        "url": "https://www.zong.com.pk/prepaid/gujranwala-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kasur Plus",
+        "url": "https://www.zong.com.pk/prepaid/kasur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sargodha Plus",
+        "url": "https://www.zong.com.pk/prepaid/sargodha-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Ahmedpur Sial Plus",
+        "url": "https://www.zong.com.pk/prepaid/ahmedpur-sial-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Shorkot Plus",
+        "url": "https://www.zong.com.pk/prepaid/shorkot-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sadiqabad Plus",
+        "url": "https://www.zong.com.pk/prepaid/sadiqabad-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Lodhran Plus",
+        "url": "https://www.zong.com.pk/prepaid/lodhran-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Bhakkar Plus",
+        "url": "https://www.zong.com.pk/prepaid/bhakkar-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Khanewal/Kabirwala Plus",
+        "url": "https://www.zong.com.pk/prepaid/khanewalkabirwala-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Jaranwala Plus",
+        "url": "https://www.zong.com.pk/prepaid/jaranwala-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Bhalwal Plus",
+        "url": "https://www.zong.com.pk/prepaid/bhalwal-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Muzaffargarh Plus",
+        "url": "https://www.zong.com.pk/prepaid/muzaffargarh-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Esa Khail/Kala Bagh Plus",
+        "url": "https://www.zong.com.pk/prepaid/esa-khailkala-bagh-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Pindi Bhattian Plus",
+        "url": "https://www.zong.com.pk/prepaid/pindi-bhattian-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Shikarpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/shikarpur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Usta Muhammad Plus",
+        "url": "https://www.zong.com.pk/prepaid/usta-muhammad-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Thul Plus",
+        "url": "https://www.zong.com.pk/prepaid/thul-plus",
+        "internet": "8GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sanghar Plus",
+        "url": "https://www.zong.com.pk/prepaid/sanghar-plus",
+        "internet": "8GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Super Malakand Offer",
+        "url": "https://www.zong.com.pk/prepaid/super-malakand-offer",
+        "internet": "4GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 120.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Hasilpur Plus",
+        "url": "https://www.zong.com.pk/prepaid/hasilpur-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Samundri Plus",
+        "url": "https://www.zong.com.pk/prepaid/samundri-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Toba Tek Singh Plus",
+        "url": "https://www.zong.com.pk/prepaid/toba-tek-singh-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Wazirabad Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/wazirabad-plus-offer",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Shakargarh Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/shakargarh-plus-offer",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Mianwali Plus",
+        "url": "https://www.zong.com.pk/prepaid/mianwali-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Piplan Plus",
+        "url": "https://www.zong.com.pk/prepaid/piplan-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "sms": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Khushab Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/khushab-plus-offer",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sakrand",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sakrand",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "25",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Mastung",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-mastung",
+        "internet": "3GB",
+        "zong_minutes": "800",
+        "off_net_minutes": "25",
+        "price": "PKR. 120.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Mahana Pattoki Offer",
+        "url": "https://www.zong.com.pk/prepaid/mahana-pattoki-offer",
+        "internet": "8GB",
+        "zong_minutes": "800",
+        "off_net_minutes": "80",
+        "price": "PKR. 330.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Mahana Pakpattan Offer",
+        "url": "https://www.zong.com.pk/prepaid/mahana-pakpattan-offer",
+        "internet": "8GB",
+        "zong_minutes": "800",
+        "off_net_minutes": "80",
+        "price": "PKR. 330.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Mahana Kamoki Bachat Offer",
+        "url": "https://www.zong.com.pk/prepaid/mahana-kamoki-bachat-offer",
+        "internet": "8GB",
+        "zong_minutes": "800",
+        "off_net_minutes": "80",
+        "price": "PKR. 330.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Apna Shehr Qambar",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-qambar",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kashmore",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kashmore",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Plus Chiniot",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-plus-chiniot",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 230.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kashmore Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/kashmore-plus-offer",
+        "internet": "12GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2500",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Thul",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-thul",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sanghar",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sanghar",
+        "internet": "5GB",
+        "off_net_minutes": "30",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sehwan",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sehwan",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Farooqabad",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-farooqabad",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Hasilpur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-hasilpur",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Esa Khail/Kala Bagh",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-esa-khailkala-bagh",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Zafarwal",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-zafarwal",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Arifwala",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-arifwala",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "300",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Jhang Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/jhang-plus-offer",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Layyah Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/layyah-plus-offer",
+        "internet": "8GB",
+        "off_net_minutes": "80",
+        "zong_minutes": "2000",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Liyari Bachat Offer",
+        "url": "https://www.zong.com.pk/prepaid/liyari-bachat-offer",
+        "internet": "5GB",
+        "whatsapp": "10GB",
+        "off_net_minutes": "50",
+        "price": "PKR. 120.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Dera Allah Yar",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-dera-allah-yar",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kandhkot",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kandhkot",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Rato Dero",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-rato-dero",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Samundri",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-samundri",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Shahdadkot",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-shahdadkot",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Toba Tek Singh",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-toba-tek-singh",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Ahmedpur Sial",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-ahmedpur-sial",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Dera Murad Jamali",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-dera-murad-jamali",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sibi",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sibi",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Gujrat Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-gujrat-offer",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Fort Abbas offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-fort-abbas-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehar Mandi Bahauddin",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehar-mandi-bahauddin",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Usta Muhammad",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-usta-muhammad",
+        "internet": "3GB",
+        "off_net_minutes": "20",
+        "zong_minutes": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Jaranwala offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-jaranwala-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehar shadadpur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-shadadpur",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+
+    {
+        "name": "Apna Shehr Jaranwala offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-jaranwala-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehar shadadpur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-shadadpur",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Wazirabad",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-wazirabad",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "3 Day"
+    },
+    {
+        "name": "Free Internet and Calls",
+        "url": "https://www.zong.com.pk/prepaid/free-internet-and-calls",
+        "internet": "2GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "50",
+        "price": "",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Haroonabad offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-haroonabad-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Malakand Offer",
+        "url": "https://www.zong.com.pk/prepaid/malakand-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "100",
+        "price": "PKR. 180.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Phalia",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-phalia",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Bhakkar Offers",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-bhakkar-offers-",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Bahawalnagar Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-bahawalnagar-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kot Addu Plus Offer",
+        "url": "https://www.zong.com.pk/prepaid/kot-addu-plus-offer",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Gojra Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-gojra-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Piplan offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-piplan-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Chishtian Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-chishtian-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Bhalwal Offers",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-bhalwal-offers-",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Lahore Super Offer",
+        "url": "https://www.zong.com.pk/prepaid/lahore-super-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Rahim Yar Khan Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-rahim-yar-khan-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Nankana Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-nankana-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Vehari/Mailsi Plus",
+        "url": "https://www.zong.com.pk/prepaid/veharimailsi-plus",
+        "internet": "8GB",
+        "zong_minutes": "2000",
+        "off_net_minutes": "80",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sargodha offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sargodha-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Khanewal Kabirwala Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-khanewal-kabirwala-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Dipalpur Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-dipalpur-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Shikarpur offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-shikarpur-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Azad Jammu and Kashmir Offer",
+        "url": "https://www.zong.com.pk/prepaid/azad-jammu-and-kashmir-offer",
+        "internet": "5GB",
+        "zong_minutes": "Unlimited",
+        "off_net_minutes": "75",
+        "price": "PKR. 195.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Muzaffargarh Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-muzaffargarh-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 130.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Pindi Bhattian",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-pindi-bhattian",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Tank Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-tank-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Narowal Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-narowal-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sadiqabad Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sadiqabad-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Renala Khurd Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-renala-khurd-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Shakargarh Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-shakargarh-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Panjnad",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-panjnad",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Monthly Supreme Punjab",
+        "url": "https://www.zong.com.pk/prepaid/monthly-supreme-punjab",
+        "internet": "22GB",
+        "zong_minutes": "5000",
+        "off_net_minutes": "400",
+        "price": "PKR. 1000.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Tando Allayar Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-tando-allayar-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Khushab",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-khushab",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "sms": "300",
+        "price": "PKR. 140.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Mahana Punjab Offer",
+        "url": "https://www.zong.com.pk/prepaid/mahana-punjab-offer",
+        "internet": "4GB",
+        "zong_minutes": "3000",
+        "off_net_minutes": "400",
+        "price": "PKR. 590.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Badin Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-badin-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kot Addu",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kot-addu",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Faisalabad Dhamaal Offer",
+        "url": "https://www.zong.com.pk/prepaid/faisalabad-dhamaal-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Gujranwala Dhamaal Offer",
+        "url": "https://www.zong.com.pk/prepaid/gujranwala-dhamaal-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Mianwali",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-mianwali",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Multan Dhamaal Offer",
+        "url": "https://www.zong.com.pk/prepaid/multan-dhamaal-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Ranipur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-ranipur",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Bharpur Bahawalpur Offer",
+        "url": "https://www.zong.com.pk/prepaid/bharpur-bahawalpur-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kamoki Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kamoki-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "sms": "1000",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Mehrabpur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-mehrabpur",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 170.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Haftawar Punjab Offer",
+        "url": "https://www.zong.com.pk/prepaid/haftawar-punjab-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "100",
+        "price": "PKR. 180.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Layyah",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-layyah",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "sms": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Moro",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-moro",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Khairpur",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-khairpur",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "3 Day"
+    },
+    {
+        "name": "Super Recharge Offer",
+        "url": "https://www.zong.com.pk/prepaid/super-recharge-offer",
+        "internet": "1.5GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "25",
+        "price": "PKR. 50.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Lodhran",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-lodhran",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Pattoki",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-pattoki",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "sms": "1000",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Pakpattan",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-pakpattan",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Bhai Pheru",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-bhai-pheru",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr DI Khan Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-di-khan-offer",
+        "internet": "5GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "40",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Pano Aqil Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-pano-aqil-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Ghotki Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-ghotki-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Daharki Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-daharki-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kasur Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kasur-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Thatta",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-thatta",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Weekly Bachat Offer",
+        "url": "https://www.zong.com.pk/prepaid/weekly-bachat-offer",
+        "internet": "2GB",
+        "zong_minutes": "500",
+        "off_net_minutes": "30",
+        "price": "PKR. 99.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kotri",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kotri",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Hafizabad Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-hafizabad-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Umarkot",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-umarkot",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Sarai Alamgir Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-sarai-alamgir-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Shorkot Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-shorkot-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 140.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Jhang Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-jhang-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Chiniot Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-chiniot-offer",
+        "internet": "3GB",
+        "zong_minutes": "300",
+        "off_net_minutes": "20",
+        "price": "PKR. 130.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Dina Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-dina-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 170.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Jhelum Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-jhelum-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Kallar Kahar Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-kallar-kahar-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 160.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Punjab Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-central-offer",
+        "internet": "8GB",
+        "zong_minutes": "5000",
+        "off_net_minutes": "120",
+        "price": "PKR. 250.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Apna Shehr Talagang Offer",
+        "url": "https://www.zong.com.pk/prepaid/apna-shehr-talagang-offer",
+        "internet": "3GB",
+        "zong_minutes": "1000",
+        "off_net_minutes": "20",
+        "price": "PKR. 150.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Sindh Offer",
+        "url": "https://www.zong.com.pk/prepaid/sindh-offer",
+        "internet": "10GB",
+        "zong_minutes": "5000",
+        "off_net_minutes": "100",
+        "price": "PKR. 280.00",
+        "validity": "Daily"
+    },
+    {
+        "name": "Daily Mehran",
+        "url": "https://www.zong.com.pk/prepaid/daily-mehran",
+        "internet": "100MB",
+        "zong_minutes": "Unlimited",
+        "sms": "500",
+        "price": "PKR. 30.00",
+        "validity": "Daily"
+    },
+    {
+        "name": "Weekly Mehran",
+        "url": "https://www.zong.com.pk/prepaid/weekly-mehran",
+        "internet": "1GB",
+        "zong_minutes": "Unlimited",
+        "sms": "1000/Day",
+        "price": "PKR. 180.00",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Monthly Mehran",
+        "url": "https://www.zong.com.pk/prepaid/monthly-mehran",
+        "internet": "2GB",
+        "zong_minutes": "Unlimited",
+        "sms": "1000/Day",
+        "price": "PKR. 540.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Karachi Offer",
+        "url": "https://www.zong.com.pk/prepaid/karachi-offer",
+        "internet": "10GB",
+        "zong_minutes": "5000",
+        "off_net_minutes": "100",
+        "price": "PKR. 280.00",
+        "validity": "Daily"
+    },
+    {
+        "name": "Daily Karachi Offer",
+        "url": "https://www.zong.com.pk/prepaid/daily-karachi-offer",
+        "internet": "125MB",
+        "zong_minutes": "Unlimited",
+        "price": "PKR. 20.00",
+        "validity": "Daily"
+    },
+    {
+        "name": "Weekly Karachi LBC",
+        "url": "https://www.zong.com.pk/prepaid/weekly-karachi-lbc",
+        "zong_minutes": "Unlimited",
+        "sms": "1000",
+        "price": "PKR. 76.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Monthly Karachi LBC",
+        "url": "https://www.zong.com.pk/prepaid/monthly-karachi-lbc",
+        "zong_minutes": "Unlimited",
+        "sms": "1000",
+        "price": "PKR. 238.00 Plus Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Weekly Hybrid LBC Non Punjab",
+        "url": "https://www.zong.com.pk/prepaid/weekly-hybrid-lbc-non-punjab",
+        "internet": "2GB",
+        "all_net_minutes": "50",
+        "price": "PKR. 100.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Monthly Kashmir Offer",
+        "url": "https://www.zong.com.pk/prepaid/monthly-kashmir-offer",
+        "zong_minutes": "Unlimited",
+        "price": "PKR. 199.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Weekly Kashmir Offer",
+        "url": "https://www.zong.com.pk/prepaid/weekly-kashmir-offer",
+        "zong_minutes": "Unlimited",
+        "price": "PKR. 60.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Kashmir Offer",
+        "url": "https://www.zong.com.pk/prepaid/kashmir-offer",
+        "internet": "2GB",
+        "zong_minutes": "500",
+        "off_net_minutes": "100",
+        "price": "PKR. 500.00",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Daily Kashmir Offer",
+        "url": "https://www.zong.com.pk/prepaid/daily-kashmir-offer",
+        "internet": "1MB",
+        "zong_minutes": "Unlimited",
+        "price": "PKR. 12.00 +Tax",
+        "validity": "Daily"
+    },
+    {
+        "name": "Germany Prepaid Voice and Data Roaming Offer (60 IR mins 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/germany-prepaid-voice-and-data-roaming-offer-60-ir-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 5700.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Australia Prepaid Voice and Data Roaming Offer (30 Mins, 30 SMS and 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/australia-prepaid-voice-and-data-roaming-offer-30-mins-30-sms-and-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 1500.00 Plus Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Australia Prepaid Voice and Data Roaming Offer (60 Mins, 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/australia-prepaid-voice-and-data-roaming-offer-60-mins-60-sms-and-3gb",
+        "internet": "1GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 3600.00 Plus Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Australia Prepaid Voice and Data Roaming Offer (90 Mins, 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/australia-prepaid-voice-and-data-roaming-offer-90-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 5400.00 Plus Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Australia Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/australia-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 1000.00 Plus Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Australia Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/australia-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 2800.00 Plus Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Australia Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/australia-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 4300.00 Plus Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Thailand Prepaid Voice and Data Roaming Offer (60 Mins, 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/thailand-prepaid-voice-and-data-roaming-offer-60-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 7700.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Thailand Prepaid Voice and Data Roaming Offer (90 Mins, 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/thailand-prepaid-voice-and-data-roaming-offer-90-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 11500.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Thailand Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/thailand-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 1500.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Thailand Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/thailand-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 4000.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Thailand Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/thailand-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 6300.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Germany Prepaid Voice and Data Roaming Offer (30 IR Minutes,30 SMS and 1 GB)",
+        "url": "https://www.zong.com.pk/prepaid/germany-prepaid-voice-and-data-roaming-offer-30-ir-minutes30-sms-and-1-gb-",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 2200.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Germany Prepaid Voice and Data Roaming Offer (90 IR mins 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/germany-prepaid-voice-and-data-roaming-offer-90-ir-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 8800.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Germany Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/germany-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 1800.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Germany Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/germany-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 4900.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Germany Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/germany-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 7500.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Thailand Prepaid Voice and Data Roaming Offer (30 Mins, 30 SMS and 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/thailand-prepaid-voice-and-data-roaming-offer-30-mins-30-sms-and-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 3500.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Malaysia Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/malaysia-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 2800.00 Consumer Price",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Malaysia Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/malaysia-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 7800.00 Consumer Price",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Malaysia Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/malaysia-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 12200.00 Consumer Price",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Malaysia Prepaid Voice and Data Roaming Offer (30 IR Minutes,30 SMS and 1 GB)",
+        "url": "https://www.zong.com.pk/prepaid/malaysia-prepaid-voice-and-data-roaming-offer--30-ir-minutes30-sms-and-1-gb-",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 3900.00 Consumer Price",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Malaysia Prepaid Voice and Data Roaming Offer (60 IR mins 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/malaysia-prepaid-voice-and-data-roaming-offer--60-ir-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 9700.00 Consumer Price",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Malaysia Prepaid Voice and Data Roaming Offer (90 IR mins 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/malaysia-prepaid-voice-and-data-roaming-offer--90-ir-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 14800.00 Consumer Price",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Azerbaijan Prepaid Voice + Data Roaming Offer (60 Mins, 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/azerbaijan-prepaid-voice--data-roaming-offer-60-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 2000.00 Plus Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Azerbaijan Prepaid Voice + Data Roaming Offer (90 Mins, 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/azerbaijan-prepaid-voice--data-roaming-offer-90-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 3000.00 Plus Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Azerbaijan Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/azerbaijan-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 500.00 Plus Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Azerbaijan Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/azerbaijan-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 1500.00 Plus Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Azerbaijan Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/azerbaijan-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 2000.00 Plus Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Azerbaijan Prepaid Voice + Data Roaming Offer (30 Mins, 30 SMS and 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/azerbaijan-prepaid-voice--data-roaming-offer-30-mins-30-sms-and-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 1000.00 Plus Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "UK Prepaid Voice and Data Roaming Offer (30 Mins, 30 SMS and 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/uk-prepaid-voice-and-data-roaming-offer-30-mins-30-sms-and-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 2000.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "UK Prepaid Voice and Data Roaming Offer (60 mins 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/uk-prepaid-voice-and-data-roaming-offer-60-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 5700.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "UK Prepaid Voice and Data Roaming Offer (90 mins 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/uk-prepaid-voice-and-data-roaming-offer-90-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 8800.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "UK Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/uk-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 1800.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "UK Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/uk-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 4900.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "UK Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/uk-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 8000.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "China Prepaid Voice and Data Roaming Offer (30 Mins, 30 SMS and 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/china-prepaid-voice-and-data-roaming-offer-30-mins-30-sms-and-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 1600.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "China Prepaid Voice and Data Roaming Offer (60 mins 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/china-prepaid-voice-and-data-roaming-offer-60-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 3900.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "China Prepaid Voice and Data Roaming Offer (90 mins 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/china-prepaid-voice-and-data-roaming-offer-90-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 5900.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "China Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/china-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 950.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "China Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/china-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 2800.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "China Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/china-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 4200.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Saudi Arabia prepaid Voice + Data IR offer (30 Min, 30 SMS, 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/saudi-arabia-prepaid-voice--data-ir-offer-30-min-30-sms-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 1700.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Saudi Arabia prepaid Voice + Data IR offer (60 Min, 60 SMS, 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/saudi-arabia-prepaid-voice--data-ir-offer-60-min-60-sms-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 4200.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Saudi Arabia prepaid Voice + Data IR offer (90 Min, 90 SMS, 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/saudi-arabia-prepaid-voice--data-ir-offer-90-min-90-sms-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 6600.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Saudi Arabia Prepaid IR Data offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/saudi-arabia-prepaid-ir-data-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 1200.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Saudi Arabia Prepaid IR Data offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/saudi-arabia-prepaid--ir-data-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 3300.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Saudi Arabia Prepaid IR Data offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/saudi-arabia-prepaid-ir-data-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 5400.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Turkey Prepaid Voice and Data Roaming Offer (60 mins 60 SMS and 3GB)",
+        "url": "https://www.zong.com.pk/prepaid/turkey-prepaid-voice-and-data-roaming-offer-60-mins-60-sms-and-3gb",
+        "internet": "3GB",
+        "zong_minutes": "60",
+        "off_net_minutes": "60",
+        "price": "PKR. 4800.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Turkey Prepaid Voice and Data Roaming Offer (90 mins 90 SMS and 5GB)",
+        "url": "https://www.zong.com.pk/prepaid/turkey-prepaid-voice-and-data-roaming-offer-90-mins-90-sms-and-5gb",
+        "internet": "5GB",
+        "zong_minutes": "90",
+        "off_net_minutes": "90",
+        "price": "PKR. 7600.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Turkey Data Roaming offer (1GB)",
+        "url": "https://www.zong.com.pk/prepaid/turkey-data-roaming-offer-1gb",
+        "internet": "1GB",
+        "price": "PKR. 1600.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "Turkey Data Roaming offer (3GB)",
+        "url": "https://www.zong.com.pk/prepaid/turkey-data-roaming-offer-3gb",
+        "internet": "3GB",
+        "price": "PKR. 4200.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Turkey Data Roaming offer (5GB)",
+        "url": "https://www.zong.com.pk/prepaid/turkey-data-roaming-offer-5gb",
+        "internet": "5GB",
+        "price": "PKR. 6500.00 +Tax",
+        "validity": "45 Day"
+    },
+    {
+        "name": "Prepaid International Roaming service",
+        "url": "https://www.zong.com.pk/prepaid/prepaid-international-roaming-service",
+        "validity": "Hourly"
+    },
+    {
+        "name": "UAE Prepaid IR bundle",
+        "url": "https://www.zong.com.pk/prepaid/uae-prepaid-ir-bundle",
+        "internet": "2GB",
+        "zong_minutes": "120",
+        "off_net_minutes": "120",
+        "price": "PKR. 1999.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "UAE & Oman IR Data Bundle",
+        "url": "https://www.zong.com.pk/prepaid/uae-oman-ir-data-bundle",
+        "internet": "2GB",
+        "price": "PKR. 2000.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "UAE IR prepaid premium offer",
+        "url": "https://www.zong.com.pk/prepaid/uae-ir-prepaid-premium-offer",
+        "internet": "2GB",
+        "zong_minutes": "250",
+        "off_net_minutes": "250",
+        "price": "PKR. 2999.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "Turkey Prepaid Voice and Data Roaming Offer (30 Mins, 30 SMS and 1GB)",
+        "url": "https://www.zong.com.pk/prepaid/turkey-prepaid-voice-and-data-roaming-offer-30-mins-30-sms-and-1gb",
+        "internet": "1GB",
+        "zong_minutes": "30",
+        "off_net_minutes": "30",
+        "price": "PKR. 2232.00 +Tax",
+        "validity": "15 Day"
+    },
+    {
+        "name": "UAE IR Super DATA Offer",
+        "url": "https://www.zong.com.pk/prepaid/uae-ir-super-data-offer",
+        "internet": "2GB",
+        "price": "PKR. 999.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "KSA Large usage Offer",
+        "url": "https://www.zong.com.pk/prepaid/ksa-large-usage-offer-prepaid",
+        "zong_minutes": "210",
+        "price": "PKR. 3000.00 +Tax",
+        "validity": "3 Months"
+    },
+    {
+        "name": "Iran Ziyarat Package",
+        "url": "https://www.zong.com.pk/prepaid/iran-ziyarat-package",
+        "zong_minutes": "60",
+        "price": "PKR. 1000.00 +Tax",
+        "validity": "Monthly"
+    },
+    {
+        "name": "Iran Business Package",
+        "url": "https://www.zong.com.pk/prepaid/iran-business-package",
+        "zong_minutes": "200",
+        "price": "PKR. 3000.00 +Tax",
+        "validity": "2 Months"
+    },
+    {
+        "name": "UAE IR Business Offer",
+        "url": "https://www.zong.com.pk/prepaid/uae-ir-business-offer",
+        "zong_minutes": "250",
+        "off_net_minutes": "250",
+        "price": "PKR. 2000.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "UAE IR Travel Offer",
+        "url": "https://www.zong.com.pk/prepaid/uae-ir-travel-offer",
+        "zong_minutes": "120",
+        "off_net_minutes": "120",
+        "price": "PKR. 1000.00 +Tax",
+        "validity": "Weekly"
+    },
+    {
+        "name": "UAE IR Mega DATA Offer",
+        "url": "https://www.zong.com.pk/prepaid/uae-ir-mega-data-offer",
+        "internet": "4GB",
+        "price": "PKR. 1999.00 +Tax",
+        "validity": "15 Day"
+    }
+    ]
+  }
+  

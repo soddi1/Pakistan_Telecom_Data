@@ -1,0 +1,3102 @@
+{
+  "Price_plans": [
+    {
+      "Subs": [
+        {
+          "image": "https://www.telenor.com.pk/static/2018/12/telenor-1.png",
+          "url": "https://www.telenor.com.pk/price-plans/postpaid-price-plans/",
+          "Name": [
+            {
+              "name": "Freedom 500",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-500/",
+              "Price": "Rs. 500 Incl. Tax",
+              "selection1": "Onnet: 3,000 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 500 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 3,000 Mins"
+                },
+                {
+                  "Details": "Offnet: 150 Mins"
+                },
+                {
+                  "Details": "Internet: 6,144 MBs (3072 MBs 12AM-12PM)"
+                }
+              ]
+            },
+            {
+              "name": "Freedom Gold",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-gold/",
+              "Price": "Rs. 1000 Incl. Tax",
+              "selection1": "Onnet: 7,000 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 1000 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 7,000 Mins"
+                },
+                {
+                  "Details": "Offnet: 500 Mins"
+                },
+                {
+                  "Details": "Internet: 30,720 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Freedom Silver",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-silver/",
+              "Price": "Rs. 800 Incl. Tax",
+              "selection1": "Onnet: 5,000 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 800 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 5,000 Mins"
+                },
+                {
+                  "Details": "Offnet: 300 Mins"
+                },
+                {
+                  "Details": "Internet: 15,360 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Freedom Gold Plus",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-gold-plus/",
+              "Price": "Rs. 1600 Incl. Tax",
+              "selection1": "Onnet: 15000",
+              "Details": [
+                {
+                  "Details": "Rs. 1600 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 15000"
+                },
+                {
+                  "Details": "Offnet: 700 Mins"
+                },
+                {
+                  "Details": "Internet: 102,400 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Family Share Plans (2 Lines)",
+              "url": "https://www.telenor.com.pk/price-plans/family-share-plans-2-lines/",
+              "Price": "Rs. 1887 Incl. Tax",
+              "selection1": "Onnet: Unlimited (FUP 10,000)",
+              "Details": [
+                {
+                  "Details": "Rs. 1887 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: Unlimited (FUP 10,000)"
+                },
+                {
+                  "Details": "Offnet: 700 Mins"
+                },
+                {
+                  "Details": "Internet: 20GB+5GB(Social)"
+                }
+              ]
+            },
+            {
+              "name": "Family Share Plans (3 Lines)",
+              "url": "https://www.telenor.com.pk/price-plans/family-share-plans-3-lines/",
+              "Price": "Rs. 2574 Incl. Tax",
+              "selection1": "Onnet: Unlimited (FUP 10,000)",
+              "Details": [
+                {
+                  "Details": "Rs. 2574 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: Unlimited (FUP 10,000)"
+                },
+                {
+                  "Details": "Offnet: 1050 Mins"
+                },
+                {
+                  "Details": "Internet: 30GB+5GB(Social)"
+                }
+              ]
+            },
+            {
+              "name": "Freedom Ultimate",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-ultimate/",
+              "Price": "Rs. 2350 Incl. Tax",
+              "selection1": "Onnet: 15,000 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 2350 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 15,000 Mins"
+                },
+                {
+                  "Details": "Offnet: 1200 Mins"
+                },
+                {
+                  "Details": "Internet: 102,400 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Family Share Plans (4 Lines)",
+              "url": "https://www.telenor.com.pk/price-plans/family-share-plans-4-lines/",
+              "Price": "Rs. 3124 Incl. Tax",
+              "selection1": "Onnet: Unlimited (FUP 10,000)",
+              "Details": [
+                {
+                  "Details": "Rs. 3124 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: Unlimited (FUP 10,000)"
+                },
+                {
+                  "Details": "Offnet: 1400 Mins"
+                },
+                {
+                  "Details": "Internet: 40GB+5GB(Social)"
+                }
+              ]
+            },
+            {
+              "name": "Family Share Plans (5 Lines)",
+              "url": "https://www.telenor.com.pk/price-plans/family-share-plans-5-lines/",
+              "Price": "Rs. 3261 Incl. Tax",
+              "selection1": "Onnet: Unlimited (FUP 10,000)",
+              "Details": [
+                {
+                  "Details": "Rs. 3261 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: Unlimited (FUP 10,000)"
+                },
+                {
+                  "Details": "Offnet: 1750 Mins"
+                },
+                {
+                  "Details": "Internet: 50GB+5GB(Social)"
+                }
+              ]
+            },
+            {
+              "name": "Smart 300",
+              "url": "https://www.telenor.com.pk/post-paid/smart-300/",
+              "Price": "Rs. 618 Incl. Tax",
+              "selection1": "Free Any Network Minutes: 300",
+              "Details": [
+                {
+                  "Details": "Rs. 618 Incl. Tax"
+                },
+                {
+                  "Details": "Free Any Network Minutes: 300"
+                },
+                {
+                  "Details": "Internet: 1024 MB"
+                },
+                {
+                  "Details": "SMS: 300"
+                }
+              ]
+            },
+            {
+              "name": "Smart 600",
+              "url": "https://www.telenor.com.pk/post-paid/smart-600/",
+              "Price": "Rs. 1099 Incl. Tax",
+              "selection1": "Free Any Network Minutes: 750",
+              "Details": [
+                {
+                  "Details": "Rs. 1099 Incl. Tax"
+                },
+                {
+                  "Details": "Free Any Network Minutes: 750"
+                },
+                {
+                  "Details": "Internet: 2048 MB"
+                },
+                {
+                  "Details": "SMS: 750"
+                }
+              ]
+            },
+            {
+              "name": "Freedom 300",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-300/",
+              "Price": "Rs. 570 Incl. Tax",
+              "selection1": "Onnet: 1,000 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 570 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 1,000 Mins"
+                },
+                {
+                  "Details": "Offnet: 150 Mins"
+                },
+                {
+                  "Details": "Internet: 2,000 MBs + 1,000 MB Facebook & WhatsApp"
+                }
+              ]
+            },
+            {
+              "name": "Freedom 350",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-350/",
+              "Price": "Rs. 650 Incl. Tax",
+              "selection1": "Onnet: 2,500 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 650 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 2,500 Mins"
+                },
+                {
+                  "Details": "Offnet: 200 Mins"
+                },
+                {
+                  "Details": "Internet: 4,000 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Freedom 600",
+              "url": "https://www.telenor.com.pk/price-plans/freedom-600/",
+              "Price": "Rs. 1060 Incl. Tax",
+              "selection1": "Onnet: 7,000 Mins",
+              "Details": [
+                {
+                  "Details": "Rs. 1060 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: 7,000 Mins"
+                },
+                {
+                  "Details": "Offnet: 350 Mins"
+                },
+                {
+                  "Details": "Internet: 12,000 MB"
+                }
+              ]
+            },
+            {
+              "name": "Smart 1000",
+              "url": "https://www.telenor.com.pk/post-paid/smart-1000/",
+              "Price": "Rs. 1787 Incl. Tax",
+              "selection1": "Free Any Network Minutes: 1300",
+              "Details": [
+                {
+                  "Details": "Rs. 1787 Incl. Tax"
+                },
+                {
+                  "Details": "Free Any Network Minutes: 1300"
+                },
+                {
+                  "Details": "Internet: 4096 MB"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            },
+            {
+              "name": "Smart 1500",
+              "url": "https://www.telenor.com.pk/post-paid/smart-1500/",
+              "Price": "Rs. 2542 Incl. Tax",
+              "selection1": "Internet: 6144 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 2542 Incl. Tax"
+                },
+                {
+                  "Details": "Internet: 6144 MB"
+                },
+                {
+                  "Details": "Free Any Network Minutes: 2000"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            },
+            {
+              "name": "Smart 3000",
+              "url": "https://www.telenor.com.pk/post-paid/smart-3000/",
+              "Price": "Rs. 4741 Incl. Tax",
+              "selection1": "Free Any Network Minutes: 4500",
+              "Details": [
+                {
+                  "Details": "Rs. 4741 Incl. Tax"
+                },
+                {
+                  "Details": "Free Any Network Minutes: 4500"
+                },
+                {
+                  "Details": "Internet: 10240 MB"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2018/12/telenor-1.png",
+          "url": "https://www.telenor.com.pk/price-plans/prepaid-price-plans/",
+          "Name": [
+            {
+              "name": "PayG Blocker",
+              "url": "https://www.telenor.com.pk/price-plans/payg-blocker/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93/min+tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93/min+tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93/min+tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor 30",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-30/",
+              "Price": "Rs. 1.46",
+              "selection1": "Onnet: Rs. 1.46 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 1.46"
+                },
+                {
+                  "Details": "Onnet: Rs. 1.46 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 1.46 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor A1",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-a1/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Apna",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-apna/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Economy",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-economy/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Star",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-star/",
+              "Price": "Rs. 1.46",
+              "selection1": "Onnet: Rs. 1.46 + tax/30s",
+              "Details": [
+                {
+                  "Details": "Rs. 1.46"
+                },
+                {
+                  "Details": "Onnet: Rs. 1.46 + tax/30s"
+                },
+                {
+                  "Details": "Offnet: Rs. 1.46 + tax/30s"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512KB + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Value",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-value/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2018/12/telenor-1.png",
+          "url": "https://www.telenor.com.pk/price-plans/telenor-price-plans/",
+          "Name": [
+            {
+              "name": "PayG Blocker",
+              "url": "https://www.telenor.com.pk/price-plans/payg-blocker/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93/min+tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93/min+tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93/min+tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor 30",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-30/",
+              "Price": "Rs. 1.46",
+              "selection1": "Onnet: Rs. 1.46 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 1.46"
+                },
+                {
+                  "Details": "Onnet: Rs. 1.46 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 1.46 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor A1",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-a1/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Apna",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-apna/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Economy",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-economy/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Star",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-star/",
+              "Price": "Rs. 1.46",
+              "selection1": "Onnet: Rs. 1.46 + tax/30s",
+              "Details": [
+                {
+                  "Details": "Rs. 1.46"
+                },
+                {
+                  "Details": "Onnet: Rs. 1.46 + tax/30s"
+                },
+                {
+                  "Details": "Offnet: Rs. 1.46 + tax/30s"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512KB + tax"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Value",
+              "url": "https://www.telenor.com.pk/price-plans/telenor-value/",
+              "Price": "Rs. 2.93",
+              "selection1": "Onnet: Rs. 2.93 + tax",
+              "Details": [
+                {
+                  "Details": "Rs. 2.93"
+                },
+                {
+                  "Details": "Onnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Offnet: Rs. 2.93 + tax"
+                },
+                {
+                  "Details": "Internet: Rs. 2.00/512kb + tax"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Subs": [
+        {
+          "image": "https://www.telenor.com.pk/static/2018/12/Offer_0002_Vector-Smart-Object.png",
+          "url": "https://www.telenor.com.pk/personal/telenor/offers/calls/",
+          "Name": [
+            {
+              "name": "Free First Call Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/first-free-call-offer/",
+              "Price": "Rs. 5 incl. tax",
+              "selection1": "Dial: *888#",
+              "Details": [
+                {
+                  "Details": "Rs. 5 incl. tax"
+                },
+                {
+                  "Details": "Dial: *888#"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Good Time Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/telenor-good-time-offer/",
+              "Price": "Rs. 6 incl. tax",
+              "selection1": "Internet: 250 MB Facebook",
+              "Details": [
+                {
+                  "Details": "Rs. 6 incl. tax"
+                },
+                {
+                  "Details": "Internet: 250 MB Facebook"
+                },
+                {
+                  "Details": "Onnet: Unlimited for 2 hours"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-extreme/",
+              "Price": "Rs. 820 incl. tax",
+              "selection1": "Internet: 130GB",
+              "Details": [
+                {
+                  "Details": "Rs. 820 incl. tax"
+                },
+                {
+                  "Details": "Internet: 130GB"
+                },
+                {
+                  "Details": "Onnet: 7500"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-max/",
+              "Price": "Rs. 650 incl. tax",
+              "selection1": "Internet: 30GB",
+              "Details": [
+                {
+                  "Details": "Rs. 650 incl. tax"
+                },
+                {
+                  "Details": "Internet: 30GB"
+                },
+                {
+                  "Details": "Onnet: 5000"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-plus/",
+              "Price": "Rs. 350 incl. tax",
+              "selection1": "Internet: 5GB",
+              "Details": [
+                {
+                  "Details": "Rs. 350 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5GB"
+                },
+                {
+                  "Details": "Onnet: 3500"
+                }
+              ]
+            },
+            {
+              "name": "7 Day Hybrid",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/7-days-hybrid-offer/",
+              "Price": "Rs. 87 incl. tax",
+              "selection1": "Internet: 3000 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 87 incl. tax"
+                },
+                {
+                  "Details": "Internet: 3000 MBs"
+                },
+                {
+                  "Details": "Onnet: 1500"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easycard/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 10GBs+10GBs (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 10GBs+10GBs (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 4,000 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard 750",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easycard-750/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 8GB+8GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8GB+8GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 3500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Monthly First Free Call Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-first-free-call-offer/",
+              "Price": "Rs. 10 incl. tax",
+              "selection1": "Onnet: Up to 60 minutes",
+              "Details": [
+                {
+                  "Details": "Rs. 10 incl. tax"
+                },
+                {
+                  "Details": "Onnet: Up to 60 minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easycard/",
+              "Price": "Rs. 200 incl. tax",
+              "selection1": "Internet: 2GB+2GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 200 incl. tax"
+                },
+                {
+                  "Details": "Internet: 2GB+2GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 1500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easy-card-extreme/",
+              "Price": "Rs. 320 incl. tax",
+              "selection1": "Internet: 20GB+20GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 320 incl. tax"
+                },
+                {
+                  "Details": "Internet: 20GB+20GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 7500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easycardmax/",
+              "Price": "Rs. 190 incl. tax",
+              "selection1": "Internet: 5 GBs (generic)",
+              "Details": [
+                {
+                  "Details": "Rs. 190 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5 GBs (generic)"
+                },
+                {
+                  "Details": "Onnet: 2500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-extreme-plus/",
+              "Price": "Rs. 400 incl. tax",
+              "selection1": "Internet: 40GB+40GB (1am-11am)",
+              "Details": [
+                {
+                  "Details": "Rs. 400 incl. tax"
+                },
+                {
+                  "Details": "Internet: 40GB+40GB (1am-11am)"
+                },
+                {
+                  "Details": "Onnet: 15000 Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Prime Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-prime-offer/",
+              "Price": "Rs. 390 incl. tax",
+              "selection1": "Internet: 100GB",
+              "Details": [
+                {
+                  "Details": "Rs. 390 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Ultimate Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-ultimate-offer/",
+              "Price": "Rs. 365 incl. tax",
+              "selection1": "Internet: 80GB",
+              "Details": [
+                {
+                  "Details": "Rs. 365 incl. tax"
+                },
+                {
+                  "Details": "Internet: 80GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Voice Lite",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-voice-lite-offer/",
+              "Price": "Rs. 25 incl. tax",
+              "selection1": "Onnet: 140 Minutes (20 Minutes per day)",
+              "Details": [
+                {
+                  "Details": "Rs. 25 incl. tax"
+                },
+                {
+                  "Details": "Onnet: 140 Minutes (20 Minutes per day)"
+                }
+              ]
+            },
+            {
+              "name": "Haftawar Chappar Phaar Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/haftawar-chappar-phaar-offer/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 70 MB + 350 Social MB",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 70 MB + 350 Social MB"
+                },
+                {
+                  "Details": "Onnet: 1500"
+                }
+              ]
+            },
+            {
+              "name": "Full Day Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/full-day-offer/",
+              "Price": "Rs. 13 incl. tax",
+              "selection1": "Internet: 50 MBs + 100 MBs WhatsApp",
+              "Details": [
+                {
+                  "Details": "Rs. 13 incl. tax"
+                },
+                {
+                  "Details": "Internet: 50 MBs + 100 MBs WhatsApp"
+                },
+                {
+                  "Details": "Onnet: Unlimited"
+                }
+              ]
+            },
+            {
+              "name": "Stop the Clock Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/stop-the-clock-offer/",
+              "Price": "Rs. 3.50 incl. tax",
+              "Details": [
+                {
+                  "Details": "Rs. 3.50 incl. tax"
+                }
+              ]
+            },
+            {
+              "name": "3 Day Hybrid Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/3-day-hybrid-package/",
+              "Price": "Rs. 60 incl. tax",
+              "selection1": "Internet: 1GB",
+              "Details": [
+                {
+                  "Details": "Rs. 60 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1GB"
+                },
+                {
+                  "Details": "Onnet: 500 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard 850",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easy-card-850/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 12GB+12GB(1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12GB+12GB(1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 5000 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "3 Day Plus Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/3-day-plus-package/",
+              "Price": "Rs. 69 incl. tax",
+              "selection1": "Internet: 300MB",
+              "Details": [
+                {
+                  "Details": "Rs. 69 incl. tax"
+                },
+                {
+                  "Details": "Internet: 300MB"
+                },
+                {
+                  "Details": "Onnet: 300 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Mahana Budget Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/mahana-budget-package/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 3GB for WhatsApp",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 3GB for WhatsApp"
+                },
+                {
+                  "Details": "Onnet: 300 mins"
+                }
+              ]
+            },
+            {
+              "name": "Sahulat Mini Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/sahulat-mini-offer/",
+              "Price": "Rs. 75 incl. tax",
+              "selection1": "Internet: 100 MB + 200 MB for WhatsApp, FB & Twitter",
+              "Details": [
+                {
+                  "Details": "Rs. 75 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100 MB + 200 MB for WhatsApp, FB & Twitter"
+                },
+                {
+                  "Details": "Onnet: 200 mins"
+                }
+              ]
+            },
+            {
+              "name": "Haftawar Sahulat Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/haftawar-sahulat-offer/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 100 MB+350 MB for WhatsApp, FB & Twitter",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100 MB+350 MB for WhatsApp, FB & Twitter"
+                },
+                {
+                  "Details": "Onnet: 1000 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Telenor 3/3 Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/telenor-3-3-offer/",
+              "Price": "Rs. 50.00 incl. tax",
+              "selection1": "Internet: 50 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 50.00 incl. tax"
+                },
+                {
+                  "Details": "Internet: 50 MB"
+                },
+                {
+                  "Details": "Onnet: 600 minutes"
+                }
+              ]
+            },
+            {
+              "name": "3 Day Sahulat Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/3-day-sahulat-offer/",
+              "Price": "Rs. 52 incl. tax",
+              "selection1": "Internet: 50MB + 100MB for WhatsApp, Twitter & Facebook",
+              "Details": [
+                {
+                  "Details": "Rs. 52 incl. tax"
+                },
+                {
+                  "Details": "Internet: 50MB + 100MB for WhatsApp, Twitter & Facebook"
+                },
+                {
+                  "Details": "Onnet: 250 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Telenor Superload Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/telenor-superload-offer/",
+              "Price": "Rs. 0.80 incl. tax",
+              "selection1": "Dial: *5*100#",
+              "Details": [
+                {
+                  "Details": "Rs. 0.80 incl. tax"
+                },
+                {
+                  "Details": "Dial: *5*100#"
+                },
+                {
+                  "Details": "Free Any Network Minutes: 20"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2018/12/Offer_0001_Vector-Smart-Object.png",
+          "url": "https://www.telenor.com.pk/personal/telenor/offers/hybrid/",
+          "Name": [
+            {
+              "name": "15 Days Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-extreme/",
+              "Price": "Rs. 820 incl. tax",
+              "selection1": "Internet: 130GB",
+              "Details": [
+                {
+                  "Details": "Rs. 820 incl. tax"
+                },
+                {
+                  "Details": "Internet: 130GB"
+                },
+                {
+                  "Details": "Onnet: 7500"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-max/",
+              "Price": "Rs. 650 incl. tax",
+              "selection1": "Internet: 30GB",
+              "Details": [
+                {
+                  "Details": "Rs. 650 incl. tax"
+                },
+                {
+                  "Details": "Internet: 30GB"
+                },
+                {
+                  "Details": "Onnet: 5000"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-plus/",
+              "Price": "Rs. 350 incl. tax",
+              "selection1": "Internet: 5GB",
+              "Details": [
+                {
+                  "Details": "Rs. 350 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5GB"
+                },
+                {
+                  "Details": "Onnet: 3500"
+                }
+              ]
+            },
+            {
+              "name": "7 Day Hybrid",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/7-days-hybrid-offer/",
+              "Price": "Rs. 87 incl. tax",
+              "selection1": "Internet: 3000 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 87 incl. tax"
+                },
+                {
+                  "Details": "Internet: 3000 MBs"
+                },
+                {
+                  "Details": "Onnet: 1500"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easycard/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 10GBs+10GBs (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 10GBs+10GBs (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 4,000 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard 750",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easycard-750/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 8GB+8GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8GB+8GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 3500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Social All-in-One Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/social-all-in-one-package/",
+              "Price": "Rs. 210 incl. tax",
+              "selection1": "Internet: 12GB (Facebook + WhatsApp) + 100MB",
+              "Details": [
+                {
+                  "Details": "Rs. 210 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12GB (Facebook + WhatsApp) + 100MB"
+                },
+                {
+                  "Details": "Onnet: 250 mins"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easycard/",
+              "Price": "Rs. 200 incl. tax",
+              "selection1": "Internet: 2GB+2GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 200 incl. tax"
+                },
+                {
+                  "Details": "Internet: 2GB+2GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 1500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easy-card-extreme/",
+              "Price": "Rs. 320 incl. tax",
+              "selection1": "Internet: 20GB+20GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 320 incl. tax"
+                },
+                {
+                  "Details": "Internet: 20GB+20GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 7500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easycardmax/",
+              "Price": "Rs. 190 incl. tax",
+              "selection1": "Internet: 5 GBs (generic)",
+              "Details": [
+                {
+                  "Details": "Rs. 190 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5 GBs (generic)"
+                },
+                {
+                  "Details": "Onnet: 2500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-extreme-plus/",
+              "Price": "Rs. 400 incl. tax",
+              "selection1": "Internet: 40GB+40GB (1am-11am)",
+              "Details": [
+                {
+                  "Details": "Rs. 400 incl. tax"
+                },
+                {
+                  "Details": "Internet: 40GB+40GB (1am-11am)"
+                },
+                {
+                  "Details": "Onnet: 15000 Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Prime Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-prime-offer/",
+              "Price": "Rs. 390 incl. tax",
+              "selection1": "Internet: 100GB",
+              "Details": [
+                {
+                  "Details": "Rs. 390 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Ultimate Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-ultimate-offer/",
+              "Price": "Rs. 365 incl. tax",
+              "selection1": "Internet: 80GB",
+              "Details": [
+                {
+                  "Details": "Rs. 365 incl. tax"
+                },
+                {
+                  "Details": "Internet: 80GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Mega",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easy-card-mega/",
+              "Price": "Rs. 235 incl. tax",
+              "selection1": "Internet: 8000MB (Incl. 4000MB 1AM - 11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 235 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8000MB (Incl. 4000MB 1AM - 11AM)"
+                },
+                {
+                  "Details": "Onnet: 2000 Telenor+PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "3 Day Hybrid Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/3-day-hybrid-package/",
+              "Price": "Rs. 60 incl. tax",
+              "selection1": "Internet: 1GB",
+              "Details": [
+                {
+                  "Details": "Rs. 60 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1GB"
+                },
+                {
+                  "Details": "Onnet: 500 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Sim Lagao Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/sim-lagao-offer/",
+              "selection1": "Internet: 10 GB (from 12am to 7pm)",
+              "Details": [
+                {
+                  "Details": "Free"
+                },
+                {
+                  "Details": "Internet: 10 GB (from 12am to 7pm)"
+                },
+                {
+                  "Details": "Onnet: 3000"
+                }
+              ]
+            },
+            {
+              "name": "Mahana Budget Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/mahana-budget-package/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 3GB for WhatsApp",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 3GB for WhatsApp"
+                },
+                {
+                  "Details": "Onnet: 300 mins"
+                }
+              ]
+            },
+            {
+              "name": "Make Your Own Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/make-your-own-offer/",
+              "Details": [
+                {
+                  "Details": "Dial *347#"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Extreme Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-extreme-offer/",
+              "Price": "Rs. 1040 incl. tax",
+              "selection1": "Internet: 50GB (25GB 1AM - 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 1040 incl. tax"
+                },
+                {
+                  "Details": "Internet: 50GB (25GB 1AM - 9AM)"
+                },
+                {
+                  "Details": "Onnet: 7500 mins"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-extreme-plus/",
+              "Price": "Rs. 1300 incl. tax",
+              "selection1": "Internet: 80GB (40GB 1AM - 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 1300 incl. tax"
+                },
+                {
+                  "Details": "Internet: 80GB (40GB 1AM - 9AM)"
+                },
+                {
+                  "Details": "Onnet: 10000 mins"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Extreme Pro Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-extreme-pro-max/",
+              "Price": "Rs. 1300 incl. tax",
+              "selection1": "Internet: 100GB",
+              "Details": [
+                {
+                  "Details": "Rs. 1300 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited min"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Prime Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-prime-offer/",
+              "Price": "Rs. 1740 incl. tax",
+              "selection1": "Internet: 300GB",
+              "Details": [
+                {
+                  "Details": "Rs. 1740 incl. tax"
+                },
+                {
+                  "Details": "Internet: 300GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited mins*"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Super Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-super-plus/",
+              "Price": "Rs. 650 incl. tax",
+              "selection1": "Internet: 36GB (18GB 1AM - 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 650 incl. tax"
+                },
+                {
+                  "Details": "Internet: 36GB (18GB 1AM - 9AM)"
+                },
+                {
+                  "Details": "Onnet: 500 mins"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Ultimate Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-ultimate-offer/",
+              "Price": "Rs. 1390 incl. tax",
+              "selection1": "Internet: 200GB",
+              "Details": [
+                {
+                  "Details": "Rs. 1390 incl. tax"
+                },
+                {
+                  "Details": "Internet: 200GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited min"
+                }
+              ]
+            },
+            {
+              "name": "EasyCard 1000",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/easy-card-1000/",
+              "Price": "Rs. 950 incl. tax",
+              "selection1": "Internet: 18GB+18GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 950 incl. tax"
+                },
+                {
+                  "Details": "Internet: 18GB+18GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 7,000 Telenor & PTCL minutes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2019/01/FAQicn_0020_internet.png",
+          "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/",
+          "Name": [
+            {
+              "name": "4G Monthly Ultra",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/4g-monthly-ultra/",
+              "Price": "Rs. 450 incl. tax",
+              "selection1": "Internet: 12 GB + 12 GB (12 AM - 8 AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 450 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12 GB + 12 GB (12 AM - 8 AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Daily Facebook",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/daily-facebook/",
+              "Price": "Rs. 6 incl. tax",
+              "selection1": "Internet: 500 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 6 incl. tax"
+                },
+                {
+                  "Details": "Internet: 500 MBs"
+                },
+                {
+                  "Details": "Validity: 1 day"
+                }
+              ]
+            },
+            {
+              "name": "Daily Offpeak Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/daily-offpeak-offer/",
+              "Price": "Rs. 15 incl. tax",
+              "selection1": "Internet: 1500 MB (6AM - 6PM)",
+              "Details": [
+                {
+                  "Details": "Rs. 15 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1500 MB (6AM - 6PM)"
+                },
+                {
+                  "Details": "Validity: 12 Hours (6AM - 6PM)"
+                }
+              ]
+            },
+            {
+              "name": "Daily Social Pack",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/social-pack/",
+              "Price": "Rs. 3 incl. tax",
+              "selection1": "Internet: 70 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 3 incl. tax"
+                },
+                {
+                  "Details": "Internet: 70 MB"
+                },
+                {
+                  "Details": "Validity: 1 day"
+                }
+              ]
+            },
+            {
+              "name": "Daily TikTok",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/daily-tiktok/",
+              "Price": "Rs. 6 incl. tax",
+              "selection1": "Internet: 500 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 6 incl. tax"
+                },
+                {
+                  "Details": "Internet: 500 MBs"
+                },
+                {
+                  "Details": "Validity: 1 day"
+                }
+              ]
+            },
+            {
+              "name": "Daily YouTube",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/daily-youtube/",
+              "Price": "Rs. 6 incl. tax",
+              "selection1": "Internet: 500 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 6 incl. tax"
+                },
+                {
+                  "Details": "Internet: 500 MBs"
+                },
+                {
+                  "Details": "Validity: 1 day"
+                }
+              ]
+            },
+            {
+              "name": "Mega Monthly Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/mega-monthly-offer/",
+              "Price": "Rs. 200 incl. tax",
+              "selection1": "Internet: 100 GB (12AM - 12PM)",
+              "Details": [
+                {
+                  "Details": "Rs. 200 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100 GB (12AM - 12PM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly IMO Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/monthly-imo-package/",
+              "Price": "Rs. 50 incl. tax",
+              "selection1": "Internet: 500 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 50 incl. tax"
+                },
+                {
+                  "Details": "Internet: 500 MB"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Snapchat Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-snapchat-package/",
+              "Price": "Rs. 5",
+              "selection1": "Internet: 2000 MB Snapchat",
+              "Details": [
+                {
+                  "Details": "Rs. 5"
+                },
+                {
+                  "Details": "Internet: 2000 MB Snapchat"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-extreme/",
+              "Price": "Rs. 130 incl. tax",
+              "selection1": "Facebook & WhatsApp: 8,000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 130 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 8,000 MB"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-team-play-offer/",
+              "Price": "Rs. 173 incl. tax",
+              "selection1": "Facebook & WhatsApp: 15,000 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 173 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 15,000 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Pack",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-pack/",
+              "Price": "Rs. 80",
+              "selection1": "Internet: 2500MB (Facebook & Whatsapp)",
+              "Details": [
+                {
+                  "Details": "Rs. 80"
+                },
+                {
+                  "Details": "Internet: 2500MB (Facebook & Whatsapp)"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Pack Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-pack-plus/",
+              "Price": "Rs. 85 incl. tax",
+              "selection1": "Facebook & WhatsApp: 3,000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 85 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 3,000 MB"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Ultra",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-ultra/",
+              "Price": "Rs. 104 incl. tax",
+              "selection1": "Facebook & WhatsApp: 4,000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 104 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 4,000 MB"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            },
+            {
+              "name": "Monthly TikTok Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-tiktok-offer/",
+              "Price": "Rs. 85 incl. Tax",
+              "selection1": "Internet: 3GB TikTok, Snapchat, Likee & SnackVideo",
+              "Details": [
+                {
+                  "Details": "Rs. 85 incl. Tax"
+                },
+                {
+                  "Details": "Internet: 3GB TikTok, Snapchat, Likee & SnackVideo"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "PUBGM Monthly Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-pubgm-offer/",
+              "Price": "Rs. 60",
+              "selection1": "Internet: 2GB PUBGM+100MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 60"
+                },
+                {
+                  "Details": "Internet: 2GB PUBGM+100MBs"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Social Pack",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/weekly-social-pack/",
+              "Price": "Rs. 113",
+              "selection1": "Internet: 5000MB (Facebook & Whatsapp)",
+              "Details": [
+                {
+                  "Details": "Rs. 113"
+                },
+                {
+                  "Details": "Internet: 5000MB (Facebook & Whatsapp)"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Zoom Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/zoom-package/",
+              "Price": "Rs. 80 incl. tax",
+              "selection1": "Internet: 3000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 80 incl. tax"
+                },
+                {
+                  "Details": "Internet: 3000 MB"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Ultra Plus",
+              "url": "https://www.telenor.com.pk/personal/4g-weekly-ultra-plus/",
+              "Price": "Rs. 240 incl. tax",
+              "selection1": "Internet: 20GB (incl. 10GB 1AM – 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 240 incl. tax"
+                },
+                {
+                  "Details": "Internet: 20GB (incl. 10GB 1AM – 9AM)"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "Social All-in-One Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/social-all-in-one-package/",
+              "Price": "Rs. 210 incl. tax",
+              "selection1": "Internet: 12GB (Facebook + WhatsApp) + 100MB",
+              "Details": [
+                {
+                  "Details": "Rs. 210 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12GB (Facebook + WhatsApp) + 100MB"
+                },
+                {
+                  "Details": "Onnet: 250 mins"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Ultra",
+              "url": "https://www.telenor.com.pk/cricket-packages/4g-weekly-ultra/",
+              "Price": "Rs. 200 inc tax.",
+              "selection1": "Internet: 8GB & 100 all-net minutes",
+              "Details": [
+                {
+                  "Details": "Rs. 200 inc tax."
+                },
+                {
+                  "Details": "Internet: 8GB & 100 all-net minutes"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Starter Bundle",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-starter-bundle/",
+              "Price": "Rs. 370 incl. tax",
+              "selection1": "Internet: 8 GB (incl. 4 GB 1AM - 7AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 370 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8 GB (incl. 4 GB 1AM - 7AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Super",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-super/",
+              "Price": "Rs. 350 incl. tax",
+              "selection1": "Internet: 12000MB (incl. 6000MB 1AM-11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 350 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12000MB (incl. 6000MB 1AM-11AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Lite",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-lite-offer/",
+              "Price": "Rs. 190 incl. tax",
+              "selection1": "Internet: 4GB (incl. 2GB 1AM – 11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 190 incl. tax"
+                },
+                {
+                  "Details": "Internet: 4GB (incl. 2GB 1AM – 11AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Super",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/4g-weekly-super-2/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 4000MB (incl. 2000MB 1AM to 11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 4000MB (incl. 2000MB 1AM to 11AM)"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Extreme Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-extreme-offer/",
+              "Price": "Rs. 1040 incl. tax",
+              "selection1": "Internet: 50GB (25GB 1AM - 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 1040 incl. tax"
+                },
+                {
+                  "Details": "Internet: 50GB (25GB 1AM - 9AM)"
+                },
+                {
+                  "Details": "Onnet: 7500 mins"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-extreme-plus/",
+              "Price": "Rs. 1300 incl. tax",
+              "selection1": "Internet: 80GB (40GB 1AM - 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 1300 incl. tax"
+                },
+                {
+                  "Details": "Internet: 80GB (40GB 1AM - 9AM)"
+                },
+                {
+                  "Details": "Onnet: 10000 mins"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Extreme Pro Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-extreme-pro-max/",
+              "Price": "Rs. 1300 incl. tax",
+              "selection1": "Internet: 100GB",
+              "Details": [
+                {
+                  "Details": "Rs. 1300 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited min"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Prime Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-prime-offer/",
+              "Price": "Rs. 1740 incl. tax",
+              "selection1": "Internet: 300GB",
+              "Details": [
+                {
+                  "Details": "Rs. 1740 incl. tax"
+                },
+                {
+                  "Details": "Internet: 300GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited mins*"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Super Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-super-plus/",
+              "Price": "Rs. 650 incl. tax",
+              "selection1": "Internet: 36GB (18GB 1AM - 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 650 incl. tax"
+                },
+                {
+                  "Details": "Internet: 36GB (18GB 1AM - 9AM)"
+                },
+                {
+                  "Details": "Onnet: 500 mins"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Ultimate Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-ultimate-offer/",
+              "Price": "Rs. 1390 incl. tax",
+              "selection1": "Internet: 200GB",
+              "Details": [
+                {
+                  "Details": "Rs. 1390 incl. tax"
+                },
+                {
+                  "Details": "Internet: 200GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited min"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Internet Max",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-weekly-internet-max/",
+              "Price": "Rs. 55 incl. tax",
+              "selection1": "Internet: 30 GB",
+              "Details": [
+                {
+                  "Details": "Rs. 55 incl. tax"
+                },
+                {
+                  "Details": "Internet: 30 GB"
+                },
+                {
+                  "Details": "Validity: 7 Days (12AM - 9AM)"
+                }
+              ]
+            },
+            {
+              "name": "Weekly 6 to 6 Package",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/weekly-6-to-6-offer/",
+              "Price": "Rs. 60 incl. tax",
+              "selection1": "Internet: 5000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 60 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5000 MB"
+                },
+                {
+                  "Details": "Validity: 7 Days (6AM - 6PM)"
+                }
+              ]
+            },
+            {
+              "name": "Raat Din Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/raat-din-offer/",
+              "Price": "Rs. 18 incl. tax",
+              "selection1": "Internet: 1.5 GB",
+              "Details": [
+                {
+                  "Details": "Rs. 18 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1.5 GB"
+                },
+                {
+                  "Details": "Validity: 12 Hours (12AM - 12PM)"
+                }
+              ]
+            },
+            {
+              "name": "Daily YouTube Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/telenor-youtube-package/",
+              "Price": "Rs. 8 incl. Tax",
+              "selection1": "Internet: 500 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 8 incl. Tax"
+                },
+                {
+                  "Details": "Internet: 500 MB"
+                },
+                {
+                  "Details": "Validity: 1 day (till midnight)"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Music Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-music-bundle/",
+              "Price": "Rs. 10 incl. tax",
+              "selection1": "Internet: 1000 MB for Soundcloud & Patari",
+              "Details": [
+                {
+                  "Details": "Rs. 10 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1000 MB for Soundcloud & Patari"
+                },
+                {
+                  "Details": "Validity: 7 days"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Video Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-video-package/",
+              "Price": "Rs. 130 Incl. Tax",
+              "selection1": "Internet: 5000 MB for Youtube, TikTok, Likee and SnackVideo",
+              "Details": [
+                {
+                  "Details": "Rs. 130 Incl. Tax"
+                },
+                {
+                  "Details": "Internet: 5000 MB for Youtube, TikTok, Likee and SnackVideo"
+                },
+                {
+                  "Details": "Validity: 7 days (till midnight)"
+                }
+              ]
+            },
+            {
+              "name": "4G 3 Day Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/4g-3-day-bundle/",
+              "Price": "Rs. 44 incl. tax",
+              "selection1": "Internet: 1000MB (incl. 500MB 12AM - 8AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 44 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1000MB (incl. 500MB 12AM - 8AM)"
+                },
+                {
+                  "Details": "Validity: 3 Days"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2018/12/Offer_0000_Vector-Smart-Object.png",
+          "url": "https://www.telenor.com.pk/personal/telenor/offers/sms/",
+          "Name": [
+            {
+              "name": "Monthly SMS Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-sms-bundle/",
+              "Price": "Rs. 60 incl. tax",
+              "selection1": "Validity: 30 Days",
+              "Details": [
+                {
+                  "Details": "Rs. 60 incl. tax"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                },
+                {
+                  "Details": "SMS: 10,000 + 300MB WhatsApp"
+                }
+              ]
+            },
+            {
+              "name": "Weekly SMS Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-sms-bundle/",
+              "Price": "Rs. 17 incl. tax",
+              "selection1": "SMS: 2000",
+              "Details": [
+                {
+                  "Details": "Rs. 17 incl. tax"
+                },
+                {
+                  "Details": "SMS: 2000"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "Daily SMS Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/daily-sms-bundle/",
+              "Price": "Rs. 4.78 incl. tax",
+              "selection1": "Validity: 1 Day",
+              "Details": [
+                {
+                  "Details": "Rs. 4.78 incl. tax"
+                },
+                {
+                  "Details": "Validity: 1 Day"
+                },
+                {
+                  "Details": "SMS: 240"
+                }
+              ]
+            },
+            {
+              "name": "15 Day Economy SMS Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-day-economy-sms-bundle/",
+              "Price": "Rs. 17.00 incl. tax",
+              "selection1": "Validity: 15 Days",
+              "Details": [
+                {
+                  "Details": "Rs. 17.00 incl. tax"
+                },
+                {
+                  "Details": "Validity: 15 Days"
+                },
+                {
+                  "Details": "SMS: 800"
+                }
+              ]
+            },
+            {
+              "name": "5 Day SMS Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/5-day-sms-bundle/",
+              "Price": "Rs. 9.5 incl. tax",
+              "selection1": "Validity: 5 Days",
+              "Details": [
+                {
+                  "Details": "Rs. 9.5 incl. tax"
+                },
+                {
+                  "Details": "Validity: 5 Days"
+                },
+                {
+                  "Details": "SMS: 300"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2019/03/icn_0007_top-offers-1.png",
+          "url": "https://www.telenor.com.pk/personal/telenor/offers/top-offers/",
+          "Name": [
+            {
+              "name": "15 Days Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-extreme/",
+              "Price": "Rs. 820 incl. tax",
+              "selection1": "Internet: 130GB",
+              "Details": [
+                {
+                  "Details": "Rs. 820 incl. tax"
+                },
+                {
+                  "Details": "Internet: 130GB"
+                },
+                {
+                  "Details": "Onnet: 7500"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-max/",
+              "Price": "Rs. 650 incl. tax",
+              "selection1": "Internet: 30GB",
+              "Details": [
+                {
+                  "Details": "Rs. 650 incl. tax"
+                },
+                {
+                  "Details": "Internet: 30GB"
+                },
+                {
+                  "Details": "Onnet: 5000"
+                }
+              ]
+            },
+            {
+              "name": "15 Days Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/15-days-plus/",
+              "Price": "Rs. 350 incl. tax",
+              "selection1": "Internet: 5GB",
+              "Details": [
+                {
+                  "Details": "Rs. 350 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5GB"
+                },
+                {
+                  "Details": "Onnet: 3500"
+                }
+              ]
+            },
+            {
+              "name": "7 Day Hybrid",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/7-days-hybrid-offer/",
+              "Price": "Rs. 87 incl. tax",
+              "selection1": "Internet: 3000 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 87 incl. tax"
+                },
+                {
+                  "Details": "Internet: 3000 MBs"
+                },
+                {
+                  "Details": "Onnet: 1500"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easycard/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 10GBs+10GBs (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 10GBs+10GBs (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 4,000 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard 750",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easycard-750/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 8GB+8GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8GB+8GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 3500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Social All-in-One Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/social-all-in-one-package/",
+              "Price": "Rs. 210 incl. tax",
+              "selection1": "Internet: 12GB (Facebook + WhatsApp) + 100MB",
+              "Details": [
+                {
+                  "Details": "Rs. 210 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12GB (Facebook + WhatsApp) + 100MB"
+                },
+                {
+                  "Details": "Onnet: 250 mins"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easycard/",
+              "Price": "Rs. 200 incl. tax",
+              "selection1": "Internet: 2GB+2GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 200 incl. tax"
+                },
+                {
+                  "Details": "Internet: 2GB+2GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 1500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easy-card-extreme/",
+              "Price": "Rs. 320 incl. tax",
+              "selection1": "Internet: 20GB+20GB (1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 320 incl. tax"
+                },
+                {
+                  "Details": "Internet: 20GB+20GB (1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 7500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Max",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easycardmax/",
+              "Price": "Rs. 190 incl. tax",
+              "selection1": "Internet: 5 GBs (generic)",
+              "Details": [
+                {
+                  "Details": "Rs. 190 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5 GBs (generic)"
+                },
+                {
+                  "Details": "Onnet: 2500 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-extreme-plus/",
+              "Price": "Rs. 400 incl. tax",
+              "selection1": "Internet: 40GB+40GB (1am-11am)",
+              "Details": [
+                {
+                  "Details": "Rs. 400 incl. tax"
+                },
+                {
+                  "Details": "Internet: 40GB+40GB (1am-11am)"
+                },
+                {
+                  "Details": "Onnet: 15000 Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Prime Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-prime-offer/",
+              "Price": "Rs. 390 incl. tax",
+              "selection1": "Internet: 100GB",
+              "Details": [
+                {
+                  "Details": "Rs. 390 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Ultimate Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-ultimate-offer/",
+              "Price": "Rs. 365 incl. tax",
+              "selection1": "Internet: 80GB",
+              "Details": [
+                {
+                  "Details": "Rs. 365 incl. tax"
+                },
+                {
+                  "Details": "Internet: 80GB"
+                },
+                {
+                  "Details": "Onnet: Unlimited Telenor minutes"
+                }
+              ]
+            },
+            {
+              "name": "Daily SMS Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/daily-sms-bundle/",
+              "Price": "Rs. 4.78 incl. tax",
+              "selection1": "Validity: 1 Day",
+              "Details": [
+                {
+                  "Details": "Rs. 4.78 incl. tax"
+                },
+                {
+                  "Details": "Validity: 1 Day"
+                },
+                {
+                  "Details": "SMS: 240"
+                }
+              ]
+            },
+            {
+              "name": "3 Day Hybrid Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/3-day-hybrid-package/",
+              "Price": "Rs. 60 incl. tax",
+              "selection1": "Internet: 1GB",
+              "Details": [
+                {
+                  "Details": "Rs. 60 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1GB"
+                },
+                {
+                  "Details": "Onnet: 500 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Monthly EasyCard 850",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/monthly-easy-card-850/",
+              "Price": "Rs. 780 incl. tax",
+              "selection1": "Internet: 12GB+12GB(1am-9am)",
+              "Details": [
+                {
+                  "Details": "Rs. 780 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12GB+12GB(1am-9am)"
+                },
+                {
+                  "Details": "Onnet: 5000 Telenor & PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "Sim Lagao Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/sim-lagao-offer/",
+              "selection1": "Internet: 10 GB (from 12am to 7pm)",
+              "Details": [
+                {
+                  "Details": "Free"
+                },
+                {
+                  "Details": "Internet: 10 GB (from 12am to 7pm)"
+                },
+                {
+                  "Details": "Onnet: 3000"
+                }
+              ]
+            },
+            {
+              "name": "Haftawar Sahulat Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/haftawar-sahulat-offer/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 100 MB+350 MB for WhatsApp, FB & Twitter",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 100 MB+350 MB for WhatsApp, FB & Twitter"
+                },
+                {
+                  "Details": "Onnet: 1000 Minutes"
+                }
+              ]
+            },
+            {
+              "name": "Haftawar Offpeak Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/haftawar-offpeak-offer/",
+              "Price": "Rs. 55 Incl. Tax",
+              "selection1": "Onnet: Unlimited on-net minutes from 12 am – 7pm",
+              "Details": [
+                {
+                  "Details": "Rs. 55 Incl. Tax"
+                },
+                {
+                  "Details": "Onnet: Unlimited on-net minutes from 12 am – 7pm"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Subs": [
+        {
+          "image": "https://www.telenor.com.pk/static/2019/01/FAQicn_0020_internet.png",
+          "url": "https://www.telenor.com.pk/personal/internet-offers-personal/4g-mbb/",
+          "Name": [
+            {
+              "name": "4G 3 Month Bundle",
+              "url": "https://www.telenor.com.pk/bundles/4g-3-month-bundle/",
+              "Price": "Rs. 4000.00",
+              "selection1": "Internet: 108 GB (36 GB/ 30 days)",
+              "Details": [
+                {
+                  "Details": "Rs. 4000.00"
+                },
+                {
+                  "Details": "Internet: 108 GB (36 GB/ 30 days)"
+                },
+                {
+                  "Details": "Validity: 90 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Lite",
+              "url": "https://www.telenor.com.pk/bundles/4g-monthly-lite/",
+              "Price": "Rs. 1500.00",
+              "selection1": "Internet: 30 GB + 30 GB Free (1AM to 7AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 1500.00"
+                },
+                {
+                  "Details": "Internet: 30 GB + 30 GB Free (1AM to 7AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Smart",
+              "url": "https://www.telenor.com.pk/bundles/4g-monthly-smart/",
+              "Price": "Rs. 2500",
+              "selection1": "Internet: 75 GB + 75 GB Free (1AM to 7AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 2500"
+                },
+                {
+                  "Details": "Internet: 75 GB + 75 GB Free (1AM to 7AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Unlimited",
+              "url": "https://www.telenor.com.pk/bundles/4g-monthly-unlimited/",
+              "Price": "Rs. 6000",
+              "selection1": "Internet: 275 GB",
+              "Details": [
+                {
+                  "Details": "Rs. 6000"
+                },
+                {
+                  "Details": "Internet: 275 GB"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Value",
+              "url": "https://www.telenor.com.pk/bundles/4g-monthly-value/",
+              "Price": "Rs. 3800.00",
+              "selection1": "Internet: 150 GB (Limited Time Offer)",
+              "Details": [
+                {
+                  "Details": "Rs. 3800.00"
+                },
+                {
+                  "Details": "Internet: 150 GB (Limited Time Offer)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2019/01/FAQicn_0020_internet.png",
+          "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/",
+          "Name": [
+            {
+              "name": "Monthly Snapchat Package",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-snapchat-package/",
+              "Price": "Rs. 5",
+              "selection1": "Internet: 2000 MB Snapchat",
+              "Details": [
+                {
+                  "Details": "Rs. 5"
+                },
+                {
+                  "Details": "Internet: 2000 MB Snapchat"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Extreme",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-extreme/",
+              "Price": "Rs. 130 incl. tax",
+              "selection1": "Facebook & WhatsApp: 8,000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 130 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 8,000 MB"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Extreme Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-team-play-offer/",
+              "Price": "Rs. 173 incl. tax",
+              "selection1": "Facebook & WhatsApp: 15,000 MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 173 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 15,000 MBs"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Pack",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-pack/",
+              "Price": "Rs. 80",
+              "selection1": "Internet: 2500MB (Facebook & Whatsapp)",
+              "Details": [
+                {
+                  "Details": "Rs. 80"
+                },
+                {
+                  "Details": "Internet: 2500MB (Facebook & Whatsapp)"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Pack Plus",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-pack-plus/",
+              "Price": "Rs. 85 incl. tax",
+              "selection1": "Facebook & WhatsApp: 3,000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 85 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 3,000 MB"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Social Ultra",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-social-ultra/",
+              "Price": "Rs. 104 incl. tax",
+              "selection1": "Facebook & WhatsApp: 4,000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 104 incl. tax"
+                },
+                {
+                  "Details": "Facebook & WhatsApp: 4,000 MB"
+                },
+                {
+                  "Details": "SMS: 1000"
+                }
+              ]
+            },
+            {
+              "name": "PUBGM Monthly Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/monthly-pubgm-offer/",
+              "Price": "Rs. 60",
+              "selection1": "Internet: 2GB PUBGM+100MBs",
+              "Details": [
+                {
+                  "Details": "Rs. 60"
+                },
+                {
+                  "Details": "Internet: 2GB PUBGM+100MBs"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Weekly Social Pack",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/internet-offers/weekly-social-pack/",
+              "Price": "Rs. 113",
+              "selection1": "Internet: 5000MB (Facebook & Whatsapp)",
+              "Details": [
+                {
+                  "Details": "Rs. 113"
+                },
+                {
+                  "Details": "Internet: 5000MB (Facebook & Whatsapp)"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Ultra Plus",
+              "url": "https://www.telenor.com.pk/personal/4g-weekly-ultra-plus/",
+              "Price": "Rs. 240 incl. tax",
+              "selection1": "Internet: 20GB (incl. 10GB 1AM – 9AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 240 incl. tax"
+                },
+                {
+                  "Details": "Internet: 20GB (incl. 10GB 1AM – 9AM)"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Ultra",
+              "url": "https://www.telenor.com.pk/cricket-packages/4g-weekly-ultra/",
+              "Price": "Rs. 200 inc tax.",
+              "selection1": "Internet: 8GB & 100 all-net minutes",
+              "Details": [
+                {
+                  "Details": "Rs. 200 inc tax."
+                },
+                {
+                  "Details": "Internet: 8GB & 100 all-net minutes"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Starter Bundle",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-starter-bundle/",
+              "Price": "Rs. 370 incl. tax",
+              "selection1": "Internet: 8 GB (incl. 4 GB 1AM - 7AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 370 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8 GB (incl. 4 GB 1AM - 7AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Super",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-super/",
+              "Price": "Rs. 350 incl. tax",
+              "selection1": "Internet: 12000MB (incl. 6000MB 1AM-11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 350 incl. tax"
+                },
+                {
+                  "Details": "Internet: 12000MB (incl. 6000MB 1AM-11AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Weekly EasyCard Mega",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/weekly-easy-card-mega/",
+              "Price": "Rs. 235 incl. tax",
+              "selection1": "Internet: 8000MB (Incl. 4000MB 1AM - 11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 235 incl. tax"
+                },
+                {
+                  "Details": "Internet: 8000MB (Incl. 4000MB 1AM - 11AM)"
+                },
+                {
+                  "Details": "Onnet: 2000 Telenor+PTCL minutes"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Lite",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-lite-offer/",
+              "Price": "Rs. 190 incl. tax",
+              "selection1": "Internet: 4GB (incl. 2GB 1AM – 11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 190 incl. tax"
+                },
+                {
+                  "Details": "Internet: 4GB (incl. 2GB 1AM – 11AM)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Monthly Ultra Plus",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-monthly-bundle/",
+              "Price": "Rs. 700 incl. tax",
+              "selection1": "Internet: 50 GB (incl. 25 GB 1AM-11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 700 incl. tax"
+                },
+                {
+                  "Details": "Internet: 50 GB (incl. 25 GB 1AM-11AM)"
+                },
+                {
+                  "Details": "Dial: *303#"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Super",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/4g-weekly-super-2/",
+              "Price": "Rs. 120 incl. tax",
+              "selection1": "Internet: 4000MB (incl. 2000MB 1AM to 11AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 120 incl. tax"
+                },
+                {
+                  "Details": "Internet: 4000MB (incl. 2000MB 1AM to 11AM)"
+                },
+                {
+                  "Details": "Validity: 7 Days"
+                }
+              ]
+            },
+            {
+              "name": "4G Weekly Internet Max",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/4g-weekly-internet-max/",
+              "Price": "Rs. 55 incl. tax",
+              "selection1": "Internet: 30 GB",
+              "Details": [
+                {
+                  "Details": "Rs. 55 incl. tax"
+                },
+                {
+                  "Details": "Internet: 30 GB"
+                },
+                {
+                  "Details": "Validity: 7 Days (12AM - 9AM)"
+                }
+              ]
+            },
+            {
+              "name": "Weekly 6 to 6 Package",
+              "url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/weekly-6-to-6-offer/",
+              "Price": "Rs. 60 incl. tax",
+              "selection1": "Internet: 5000 MB",
+              "Details": [
+                {
+                  "Details": "Rs. 60 incl. tax"
+                },
+                {
+                  "Details": "Internet: 5000 MB"
+                },
+                {
+                  "Details": "Validity: 7 Days (6AM - 6PM)"
+                }
+              ]
+            },
+            {
+              "name": "Raat Din Offer",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/raat-din-offer/",
+              "Price": "Rs. 18 incl. tax",
+              "selection1": "Internet: 1.5 GB",
+              "Details": [
+                {
+                  "Details": "Rs. 18 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1.5 GB"
+                },
+                {
+                  "Details": "Validity: 12 Hours (12AM - 12PM)"
+                }
+              ]
+            },
+            {
+              "name": "4G 3 Day Bundle",
+              "url": "https://www.telenor.com.pk/personal/telenor/offers/4g-3-day-bundle/",
+              "Price": "Rs. 44 incl. tax",
+              "selection1": "Internet: 1000MB (incl. 500MB 12AM - 8AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 44 incl. tax"
+                },
+                {
+                  "Details": "Internet: 1000MB (incl. 500MB 12AM - 8AM)"
+                },
+                {
+                  "Details": "Validity: 3 Days"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "image": "https://www.telenor.com.pk/static/2019/01/FAQicn_0020_internet.png",
+          "url": "https://www.telenor.com.pk/personal/internet-offers-personal/sim-internet/",
+          "Name": [
+            {
+              "name": "4G Monthly Value",
+              "url": "https://www.telenor.com.pk/bundles/4g-monthly-value/",
+              "Price": "Rs. 3800.00",
+              "selection1": "Internet: 150 GB (Limited Time Offer)",
+              "Details": [
+                {
+                  "Details": "Rs. 3800.00"
+                },
+                {
+                  "Details": "Internet: 150 GB (Limited Time Offer)"
+                },
+                {
+                  "Details": "Validity: 30 Days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Lite",
+              "url": "https://www.telenor.com.pk/bundles/monthly-lite-2/",
+              "Price": "Rs. 1500",
+              "selection1": "Internet: 30 GB + 30 GB Free (1AM to 7AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 1500"
+                },
+                {
+                  "Details": "Internet: 30 GB + 30 GB Free (1AM to 7AM)"
+                },
+                {
+                  "Details": "Validity: 30 days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Smart",
+              "url": "https://www.telenor.com.pk/bundles/monthly-smart/",
+              "Price": "Rs. 2500",
+              "selection1": "Internet: 75 GB + 75 GB Free (1AM to 7AM)",
+              "Details": [
+                {
+                  "Details": "Rs. 2500"
+                },
+                {
+                  "Details": "Internet: 75 GB + 75 GB Free (1AM to 7AM)"
+                },
+                {
+                  "Details": "Validity: 30 days"
+                }
+              ]
+            },
+            {
+              "name": "Monthly Starter",
+              "url": "https://www.telenor.com.pk/bundles/monthly-starter/",
+              "Price": "Rs. 750 incl. tax",
+              "selection1": "Internet: 15 GB",
+              "Details": [
+                {
+                  "Details": "Rs. 750 incl. tax"
+                },
+                {
+                  "Details": "Internet: 15 GB"
+                },
+                {
+                  "Details": "Validity: 30 days"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Packages": "Explore more",
+  "Packages_url": "https://www.telenor.com.pk/personal/telenor/offers/top-offers/",
+  "Internet": "Explore more",
+  "Internet_url": "https://www.telenor.com.pk/personal/internet-offers-personal/internet/"
+}

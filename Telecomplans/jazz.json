@@ -1,0 +1,1481 @@
+{
+  "Jazz": [
+    {
+      "name": "Jao Offer",
+      "url": "https://jazz.com.pk/prepaid/boltay-jao-offer",
+      "Type": "Boltay",
+      "Type_url": "https://jazz.com.pk/prepaid/boltay-jao-offer",
+      "Price": "Rs 86 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1000 On net minutes"
+        },
+        {
+          "Details": "200 Off net minutes"
+        },
+        {
+          "Details": "10 GB Data (Facebook & WhatsApp)"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://jazz.com.pk/prepaid/monthly-x",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-x",
+      "Price": "Rs. 1,826 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "200GB (100GB Tamasha, YouTube, TikTok)"
+        },
+        {
+          "Details": "1000 Other Network Min"
+        },
+        {
+          "Details": "3000 Jazz Min & SMS"
+        },
+        {
+          "Details": "Rs.100,000 Handset Insurance"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://jazz.com.pk/prepaid/weekly-x",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-x",
+      "Price": "Rs. 520 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "100GB (50GB Tamasha, YouTube, TikTok)"
+        },
+        {
+          "Details": "500 Other Network Min"
+        },
+        {
+          "Details": "1000 Jazz Min SMS"
+        },
+        {
+          "Details": "Rs.50,000 Handset Insurance"
+        }
+      ]
+    },
+    {
+      "name": "Super Duper",
+      "url": "https://jazz.com.pk/prepaid/monthly-super-duper",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-super-duper",
+      "Price": "Rs.1,000 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB Data"
+        },
+        {
+          "Details": "3000 Jazz Mins"
+        },
+        {
+          "Details": "300 Other Network Mins"
+        },
+        {
+          "Details": "3000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Super Plus",
+      "url": "https://jazz.com.pk/prepaid/weekly-super-plus",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-super-plus",
+      "Price": "Rs.417 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB Data"
+        },
+        {
+          "Details": "1000 Jazz Mins & SM"
+        },
+        {
+          "Details": "120 Other Network Mins"
+        },
+        {
+          "Details": "Dial *505# Subscription"
+        }
+      ]
+    },
+    {
+      "name": "Gaming & Social",
+      "url": "https://jazz.com.pk/prepaid/monthly-gaming-and-social",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-gaming-and-social",
+      "Price": "(Bal)",
+      "Details": [
+        {
+          "Details": "10 GB Data (WhatsApp, Facebook & Tamasha)"
+        },
+        {
+          "Details": "GameNow App subscription"
+        },
+        {
+          "Details": "300 Jazz Mins"
+        },
+        {
+          "Details": "50 Other Network Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Bemisaal Offer",
+      "url": "https://jazz.com.pk/prepaid/south-bemisaal-offer",
+      "Type": "South",
+      "Type_url": "https://jazz.com.pk/prepaid/south-bemisaal-offer",
+      "Price": "Rs.104 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3GB Data"
+        },
+        {
+          "Details": "Free Whatsapp (FUP-10GB)"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        },
+        {
+          "Details": "30 Other Network Mins"
+        }
+      ]
+    },
+    {
+      "name": "Plus",
+      "url": "https://jazz.com.pk/prepaid/raabta-plus",
+      "Type": "Raabta",
+      "Type_url": "https://jazz.com.pk/prepaid/raabta-plus",
+      "Price": "Rs.174 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB Data (10PM-7PM)"
+        },
+        {
+          "Details": "1000 Other Network Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "AARZI NUMBER",
+      "url": "https://jazz.com.pk/prepaid/aarzi-number",
+      "Details": [
+        {
+          "Details": "Manage & Control your Calls & SMS with Jazz Aarzi Number"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp Bundle",
+      "url": "https://jazz.com.pk/prepaid/weekly-sms-whatsapp-bundle",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-sms-whatsapp-bundle",
+      "Price": "Rs.34 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "25 MB WA"
+        },
+        {
+          "Details": "1500 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Bemisaal Offer 2",
+      "url": "https://jazz.com.pk/prepaid/north-bemisaal-offer-2",
+      "Type": "North",
+      "Type_url": "https://jazz.com.pk/prepaid/north-bemisaal-offer-2",
+      "Price": "Rs.104 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3GB Data"
+        },
+        {
+          "Details": "Free Whatsapp(FUP-10GB)"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        },
+        {
+          "Details": "30 Other Network Mins"
+        }
+      ]
+    },
+    {
+      "name": "ADVANCE",
+      "url": "https://jazz.com.pk/prepaid/jazz-advance",
+      "Type": "JAZZ",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-advance",
+      "Details": [
+        {
+          "Details": "Aap ki sahoolat ke liay Jazz Advance ki raqam ab aap ke istemal ke mutabiq dastiyab hua kare ge."
+        }
+      ]
+    },
+    {
+      "name": "Social Offer",
+      "url": "https://jazz.com.pk/prepaid/monthly-youtube-and-social-offer",
+      "Type": "Monthly YouTube &",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-youtube-and-social-offer",
+      "Price": "(Bal)",
+      "Details": [
+        {
+          "Details": "15GB (YouTube, Facebook, WhatsApp)"
+        },
+        {
+          "Details": "50 Other Network Mins"
+        },
+        {
+          "Details": "300 Jazz Mins"
+        },
+        {
+          "Details": "300 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Haftawaar Offer",
+      "url": "https://jazz.com.pk/prepaid/chenab-plus-haftawaar-offer",
+      "Type": "Chenab Plus",
+      "Type_url": "https://jazz.com.pk/prepaid/chenab-plus-haftawaar-offer",
+      "Price": "Rs.191 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB DATA"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        },
+        {
+          "Details": "100 Other Network Mins"
+        }
+      ]
+    },
+    {
+      "name": "Aala Offer",
+      "url": "https://jazz.com.pk/prepaid/mahana-aala-offer",
+      "Type": "Mahana",
+      "Type_url": "https://jazz.com.pk/prepaid/mahana-aala-offer",
+      "Price": "Rs.1,478 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "50 GB​ Data"
+        },
+        {
+          "Details": "500 Offnet Mins​"
+        },
+        {
+          "Details": "3000 Jazz Mins/SMS​"
+        }
+      ]
+    },
+    {
+      "name": "All Network",
+      "url": "https://jazz.com.pk/prepaid/weekly-all-network",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-all-network",
+      "Price": "Rs.278 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3 GB DATA"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "90 Other Network Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Caller Name",
+      "url": "https://jazz.com.pk/prepaid/jazz-caller-name",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-caller-name",
+      "Details": [
+        {
+          "Details": "Always know who is calling you with Jazz Caller Name ​"
+        }
+      ]
+    },
+    {
+      "name": "Freedom",
+      "url": "https://jazz.com.pk/prepaid/monthly-freedom",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-freedom",
+      "Price": "Rs.1,739 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "100 GB Data"
+        },
+        {
+          "Details": "750 Other Network Min"
+        },
+        {
+          "Details": "3000 Jazz Min SMS"
+        }
+      ]
+    },
+    {
+      "name": "Freedom",
+      "url": "https://jazz.com.pk/prepaid/weekly-freedom",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-freedom",
+      "Price": "Rs 504 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "50 GB Data"
+        },
+        {
+          "Details": "300 Other Network Mins"
+        },
+        {
+          "Details": "1000 Jazz Min & SMS"
+        }
+      ]
+    },
+    {
+      "name": "Extreme",
+      "url": "https://jazz.com.pk/prepaid/weekly-extreme",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-extreme",
+      "Price": "Rs.100 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "50 GB DATA (12AM-9AM)"
+        }
+      ]
+    },
+    {
+      "name": "Haafiz Plan",
+      "url": "https://jazz.com.pk/prepaid/haafiz-plan",
+      "Details": [
+        {
+          "Details": "A financial inclusion initiative​"
+        }
+      ]
+    },
+    {
+      "name": "Haafiz Plus Plan",
+      "url": "https://jazz.com.pk/prepaid/haafiz-plus-plan",
+      "Details": [
+        {
+          "Details": "A financial inclusion initiative​"
+        }
+      ]
+    },
+    {
+      "name": "Karachi Bol",
+      "url": "https://jazz.com.pk/prepaid/bol-karachi-bol",
+      "Type": "Bol",
+      "Type_url": "https://jazz.com.pk/prepaid/bol-karachi-bol",
+      "Price": "Rs. 139 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1000 All-Net Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "offer",
+      "url": "https://jazz.com.pk/prepaid/pubg-offer",
+      "Type": "PUBG",
+      "Type_url": "https://jazz.com.pk/prepaid/pubg-offer",
+      "Price": "Rs 60 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3 GBs Data"
+        }
+      ]
+    },
+    {
+      "name": "Max",
+      "url": "https://jazz.com.pk/prepaid/monthly-max",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-max",
+      "Price": "Rs.1,565 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "50 GB Data"
+        },
+        {
+          "Details": "3000 Jazz Mins"
+        },
+        {
+          "Details": "500 Other Network Mins"
+        },
+        {
+          "Details": "3000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "SMS Bundle",
+      "url": "https://jazz.com.pk/prepaid/daily-whatsapp-sms-bundle",
+      "Type": "DAILY WHATSAPP &",
+      "Type_url": "https://jazz.com.pk/prepaid/daily-whatsapp-sms-bundle",
+      "Price": "Rs 10 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 MBs Data WhatsApp"
+        },
+        {
+          "Details": "1800 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Tunes",
+      "url": "https://jazz.com.pk/prepaid/jazz-tunes",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-tunes",
+      "Details": [
+        {
+          "Details": "Jazz up your caller tunes"
+        },
+        {
+          "Details": "Visit Now"
+        }
+      ]
+    },
+    {
+      "name": "bachat-offer",
+      "url": "https://jazz.com.pk/prepaid/monthly-bachat-offer",
+      "Type": "MONTHLY",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-bachat-offer",
+      "Price": "Rs 330 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "6 GBs (WA/IMO/Tamasha)"
+        },
+        {
+          "Details": "300 Jazz Mins"
+        },
+        {
+          "Details": "50 Off-net Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Premium Plus",
+      "url": "https://jazz.com.pk/prepaid/monthly-premium-plus",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-premium-plus",
+      "Price": "Rs.1,390 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "25 GB Data"
+        },
+        {
+          "Details": "3000 Jazz Mins"
+        },
+        {
+          "Details": "500 Other Network Mins"
+        },
+        {
+          "Details": "3000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "15 GBs",
+      "url": "https://jazz.com.pk/prepaid/monthly-15-gbs",
+      "Type": "monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-15-gbs",
+      "Price": "Rs 869 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "15 GBs Data"
+        }
+      ]
+    },
+    {
+      "name": "3 GBs",
+      "url": "https://jazz.com.pk/prepaid/monthly-3-gbs",
+      "Type": "monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-3-gbs",
+      "Price": "Rs 347 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3 GBs Data"
+        }
+      ]
+    },
+    {
+      "name": "Ghanta",
+      "url": "https://jazz.com.pk/prepaid/super-ghanta",
+      "Type": "super",
+      "Type_url": "https://jazz.com.pk/prepaid/super-ghanta",
+      "Price": "Rs 17 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1 GB Data"
+        }
+      ]
+    },
+    {
+      "name": "Offer",
+      "url": "https://jazz.com.pk/prepaid/lajawab-haftawar-offer",
+      "Type": "Lajawab Haftawar",
+      "Type_url": "https://jazz.com.pk/prepaid/lajawab-haftawar-offer",
+      "Price": "Rs.156 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3 GB ​DATA"
+        },
+        {
+          "Details": "3000 Jazz Mins"
+        },
+        {
+          "Details": "30 Other Network Mins"
+        },
+        {
+          "Details": "3000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "offer",
+      "url": "https://jazz.com.pk/prepaid/facebook-offer",
+      "Type": "facebook",
+      "Type_url": "https://jazz.com.pk/prepaid/facebook-offer",
+      "Price": "Rs 6 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "200 MBs Data (Facebook)"
+        }
+      ]
+    },
+    {
+      "name": "Make Your Own Bundle",
+      "url": "https://jazz.com.pk/prepaid/make-your-own-bundle",
+      "Type": "MYOB",
+      "Type_url": "https://jazz.com.pk/prepaid/make-your-own-bundle",
+      "Details": [
+        {
+          "Details": "Any Value DATA"
+        },
+        {
+          "Details": "Any Value Jazz Mins"
+        },
+        {
+          "Details": "Any Value Other Network Mins"
+        },
+        {
+          "Details": "Any Value SMS"
+        },
+        {
+          "Details": "All Packages"
+        }
+      ]
+    },
+    {
+      "name": "hours",
+      "url": "https://jazz.com.pk/prepaid/super-hours",
+      "Type": "super",
+      "Type_url": "https://jazz.com.pk/prepaid/super-hours",
+      "Price": "Rs 35 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "2 GBs Data (12 AM - 12 PM)"
+        }
+      ]
+    },
+    {
+      "name": "Weekly Offer",
+      "url": "https://jazz.com.pk/prepaid/sargodha-weekly-offer",
+      "Type": "Sargodha",
+      "Type_url": "https://jazz.com.pk/prepaid/sargodha-weekly-offer",
+      "Price": "Rs.147 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "3000 MB ​DATA"
+        },
+        {
+          "Details": "3000 Jazz Mins"
+        },
+        {
+          "Details": "30 Other Network Mins"
+        },
+        {
+          "Details": "3000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "YOUTUBE & SOCIAL",
+      "url": "https://jazz.com.pk/prepaid/daily-youtube-social",
+      "Type": "DAILY",
+      "Type_url": "https://jazz.com.pk/prepaid/daily-youtube-social",
+      "Price": "Rs.27 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1.5 GBs Data (YouTube, Facebook, WhatsApp)"
+        }
+      ]
+    },
+    {
+      "name": "Sim Offer",
+      "url": "https://jazz.com.pk/prepaid/super-sim-offer",
+      "Type": "Super",
+      "Type_url": "https://jazz.com.pk/prepaid/super-sim-offer",
+      "Price": "Rs.78 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "6 GB DATA"
+        },
+        {
+          "Details": "600 Jazz Mins"
+        },
+        {
+          "Details": "30 Other Network Mins"
+        },
+        {
+          "Details": "600 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Premium Plus",
+      "url": "https://jazz.com.pk/prepaid/weekly-premium-plus",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-premium-plus",
+      "Price": "Rs 304 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "​5 GB Data"
+        },
+        {
+          "Details": "100 Other Network Min"
+        },
+        {
+          "Details": "1000 Jazz Min & SMS"
+        }
+      ]
+    },
+    {
+      "name": "All Rounder Offer",
+      "url": "https://jazz.com.pk/prepaid/haftawaar-all-rounder-offer",
+      "Type": "Haftawaar",
+      "Type_url": "https://jazz.com.pk/prepaid/haftawaar-all-rounder-offer",
+      "Price": "Rs.150 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1 GB DATA"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "50 Other Others Network Mins​"
+        },
+        {
+          "Details": "1000 SMS​"
+        }
+      ]
+    },
+    {
+      "name": "Super Data Offer",
+      "url": "https://jazz.com.pk/prepaid/sindh-super-data-offer",
+      "Type": "Sindh",
+      "Type_url": "https://jazz.com.pk/prepaid/sindh-super-data-offer",
+      "Price": "Rs.30 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "5000 MB Data (11 PM - 9 AM)"
+        }
+      ]
+    },
+    {
+      "name": "Haftawar Offer",
+      "url": "https://jazz.com.pk/prepaid/quetta-haftawar-offer",
+      "Type": "Quetta",
+      "Type_url": "https://jazz.com.pk/prepaid/quetta-haftawar-offer",
+      "Price": "Rs.260 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "12 GB Data"
+        },
+        {
+          "Details": "5000 Jazz Mins"
+        },
+        {
+          "Details": "100 Other Network Minutes"
+        },
+        {
+          "Details": "5000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Daily Offer",
+      "url": "https://jazz.com.pk/prepaid/kp-daily-offer",
+      "Type": "KP",
+      "Type_url": "https://jazz.com.pk/prepaid/kp-daily-offer",
+      "Price": "Rs.30 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1000 MB DATA"
+        },
+        {
+          "Details": "Unlimited Jazz Mins"
+        },
+        {
+          "Details": "50 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Harripur & Nowshera Offer",
+      "url": "https://jazz.com.pk/prepaid/nowshera-offer",
+      "Type": "Attock",
+      "Type_url": "https://jazz.com.pk/prepaid/nowshera-offer",
+      "Price": "Rs.243 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB"
+        },
+        {
+          "Details": "500 Jazz Mins"
+        },
+        {
+          "Details": "50 Other Network Mins"
+        }
+      ]
+    },
+    {
+      "name": "Daily Offer",
+      "url": "https://jazz.com.pk/prepaid/punjab-offer",
+      "Type": "Punjab",
+      "Type_url": "https://jazz.com.pk/prepaid/punjab-offer",
+      "Price": "Rs.12 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "250 MB Data"
+        },
+        {
+          "Details": "Unlimited Jazz Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Offer",
+      "url": "https://jazz.com.pk/prepaid/voice-infinity-offer",
+      "Type": "Voice Infinity",
+      "Type_url": "https://jazz.com.pk/prepaid/voice-infinity-offer",
+      "Price": "Rs.130 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "​120 Jazz Mins"
+        },
+        {
+          "Details": "50 Other Network Mins"
+        }
+      ]
+    },
+    {
+      "name": "Give-a-Bundle",
+      "url": "https://jazz.com.pk/prepaid/give-a-bundle",
+      "Price": "Rs.35 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "Gift 1 GB Data and 100 Jazz Minutes to your loved ones for 3 days"
+        }
+      ]
+    },
+    {
+      "name": "Daily Offer",
+      "url": "https://jazz.com.pk/prepaid/sindh-offer",
+      "Type": "Sindh",
+      "Type_url": "https://jazz.com.pk/prepaid/sindh-offer",
+      "Price": "Rs.30 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1000 MB DATA"
+        },
+        {
+          "Details": "Unlimited Jazz Mins"
+        },
+        {
+          "Details": "50 SMS"
+        }
+      ]
+    },
+    {
+      "name": "VIP Call",
+      "url": "https://jazz.com.pk/prepaid/vip-call",
+      "Type": "Prepaid",
+      "Type_url": "https://jazz.com.pk/prepaid/vip-call",
+      "Details": [
+        {
+          "Details": "Connect with who you want!"
+        }
+      ]
+    },
+    {
+      "name": "Auto Call Back",
+      "url": "https://jazz.com.pk/prepaid/auto-call-back",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/auto-call-back",
+      "Details": [
+        {
+          "Details": "Connect to your Failed calls automatically"
+        }
+      ]
+    },
+    {
+      "name": "Family",
+      "url": "https://jazz.com.pk/bima-family",
+      "Type": "Bima",
+      "Type_url": "https://jazz.com.pk/bima-family",
+      "Details": [
+        {
+          "Details": "Monthly personal, accidental & hospitalization insurance policy"
+        }
+      ]
+    },
+    {
+      "name": "Raabta Offer",
+      "url": "https://jazz.com.pk/prepaid/sindh-raabta-offer",
+      "Type": "Sindh",
+      "Type_url": "https://jazz.com.pk/prepaid/sindh-raabta-offer",
+      "Price": "Rs.130 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1GB Data"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "40 Offnet Mins"
+        }
+      ]
+    },
+    {
+      "name": "Super Data Offer",
+      "url": "https://jazz.com.pk/prepaid/janoobi-punjab-super-data-offer",
+      "Type": "Janoobi Punjab",
+      "Type_url": "https://jazz.com.pk/prepaid/janoobi-punjab-super-data-offer",
+      "Price": "Rs.30 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "5000 MBs (11PM-9AM)"
+        }
+      ]
+    },
+    {
+      "name": "Super Woman Bundle",
+      "url": "https://jazz.com.pk/prepaid/super-woman-bundle",
+      "Price": "(Bal)",
+      "Details": [
+        {
+          "Details": "12 GB DATA"
+        },
+        {
+          "Details": "Unlimited Jazz Mins"
+        },
+        {
+          "Details": "(8AM - 6PM)"
+        }
+      ]
+    },
+    {
+      "name": "Haftawar Data Offer",
+      "url": "https://jazz.com.pk/prepaid/karachi-haftawar-data-offer",
+      "Type": "Karachi, Hyderabad & Badin",
+      "Type_url": "https://jazz.com.pk/prepaid/karachi-haftawar-data-offer",
+      "Price": "Rs.243 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "5 GB Data"
+        },
+        {
+          "Details": "1000 All Network Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Lite",
+      "url": "https://jazz.com.pk/prepaid/jazz-lite",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-lite",
+      "Price": "Rs. 1.80 / 30Sec (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "Jazz Lite is designed to suit your pocket where you want to enjoy the freedom of speaking your heart out with friends and family with 30 second charging."
+        }
+      ]
+    },
+    {
+      "name": "Taxila Offer",
+      "url": "https://jazz.com.pk/prepaid/taxila-haftawar-offer",
+      "Type": "Super",
+      "Type_url": "https://jazz.com.pk/prepaid/taxila-haftawar-offer",
+      "Price": "Rs.217 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "500 Jazz Mins"
+        },
+        {
+          "Details": "10 GB Data"
+        },
+        {
+          "Details": "50 Other Network Mins"
+        }
+      ]
+    },
+    {
+      "name": "Haftawar Offer",
+      "url": "https://jazz.com.pk/prepaid/apna-shehr-haftawar-offer",
+      "Type": "Sindh",
+      "Type_url": "https://jazz.com.pk/prepaid/apna-shehr-haftawar-offer",
+      "Price": "Rs.278 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GBs + 10 GBs ​Whatsapp"
+        },
+        {
+          "Details": "1000 All Networks Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Kissan",
+      "url": "https://jazz.com.pk/prepaid/bakhabar-kissan",
+      "Type": "Bakhabar",
+      "Type_url": "https://jazz.com.pk/prepaid/bakhabar-kissan",
+      "Details": [
+        {
+          "Details": "Remain informed on everything related to farming"
+        }
+      ]
+    },
+    {
+      "name": "Alert",
+      "url": "https://jazz.com.pk/prepaid/jazz-alert",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-alert",
+      "Details": [
+        {
+          "Details": "Get notified about others’ availability"
+        }
+      ]
+    },
+    {
+      "name": "Super Max",
+      "url": "https://jazz.com.pk/prepaid/weekly-super-max",
+      "Type": "Weekly",
+      "Type_url": "https://jazz.com.pk/prepaid/weekly-super-max",
+      "Price": "Rs.478 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "30 GB ​DATA"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "150 Other Network Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "& Jhelum Haftawar Offer",
+      "url": "https://jazz.com.pk/prepaid/gujrat-haftawar-offer",
+      "Type": "Gujrat",
+      "Type_url": "https://jazz.com.pk/prepaid/gujrat-haftawar-offer",
+      "Price": "Rs.173 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB Data"
+        },
+        {
+          "Details": "100 All-Net Mins"
+        },
+        {
+          "Details": "1000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Alerts",
+      "url": "https://jazz.com.pk/prepaid/job-alerts",
+      "Type": "Job",
+      "Type_url": "https://jazz.com.pk/prepaid/job-alerts",
+      "Details": [
+        {
+          "Details": "Get alerts for local and international jobs"
+        }
+      ]
+    },
+    {
+      "name": "Youth Central",
+      "url": "https://jazz.com.pk/prepaid/youth-central",
+      "Type": "Prepaid",
+      "Type_url": "https://jazz.com.pk/prepaid/youth-central",
+      "Details": [
+        {
+          "Details": "Remain updated on the latest trends"
+        }
+      ]
+    },
+    {
+      "name": "Rozgar",
+      "url": "https://jazz.com.pk/prepaid/jazz-rozgar",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-rozgar",
+      "Details": [
+        {
+          "Details": "Jobs at your doorstep"
+        }
+      ]
+    },
+    {
+      "name": "Menu",
+      "url": "https://jazz.com.pk/prepaid/jazz-menu",
+      "Type": "Jazz VAS",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-menu",
+      "Details": [
+        {
+          "Details": "Don’t be in oblivion, check for the subscribed services"
+        }
+      ]
+    },
+    {
+      "name": "SMS Alert",
+      "url": "https://jazz.com.pk/prepaid/missed-sms-alert",
+      "Type": "Missed",
+      "Type_url": "https://jazz.com.pk/prepaid/missed-sms-alert",
+      "Details": [
+        {
+          "Details": "Never miss any SMS now"
+        }
+      ]
+    },
+    {
+      "name": "Accidental Insurance",
+      "url": "https://jazz.com.pk/prepaid/bima",
+      "Type": "Bima",
+      "Type_url": "https://jazz.com.pk/prepaid/bima",
+      "Details": [
+        {
+          "Details": "Get insured against accidents ​"
+        }
+      ]
+    },
+    {
+      "name": "Mahana Offer",
+      "url": "https://jazz.com.pk/prepaid/Super-mahana-offer",
+      "Type": "Super",
+      "Type_url": "https://jazz.com.pk/prepaid/Super-mahana-offer",
+      "Price": "Rs.695 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "10 GB Flat"
+        },
+        {
+          "Details": "5000 Jazz Mins"
+        },
+        {
+          "Details": "150 Other Network Mins"
+        },
+        {
+          "Details": "5000 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Just 4 You",
+      "url": "https://jazz.com.pk/prepaid/just-4-you",
+      "Type": "J4U",
+      "Type_url": "https://jazz.com.pk/prepaid/just-4-you",
+      "Details": [
+        {
+          "Details": "The Best 3 Bundles for You!"
+        }
+      ]
+    },
+    {
+      "name": "Balance Call",
+      "url": "https://jazz.com.pk/prepaid/zero-balance-call",
+      "Type": "Zero",
+      "Type_url": "https://jazz.com.pk/prepaid/zero-balance-call",
+      "Details": [
+        {
+          "Details": "Stay connected with your friends & family with Zero Balance."
+        }
+      ]
+    },
+    {
+      "name": "Jazz My Status",
+      "url": "https://jazz.com.pk/prepaid/jazz-my-status",
+      "Type": "Prepaid",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-my-status",
+      "Details": [
+        {
+          "Details": "Let your loved ones know how you feel with Jazz My Status"
+        }
+      ]
+    },
+    {
+      "name": "Power Tools",
+      "url": "https://jazz.com.pk/prepaid/jazz-power-tools",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-power-tools",
+      "Details": [
+        {
+          "Details": "Power through the day with updated news and weather alerts"
+        }
+      ]
+    },
+    {
+      "name": "Haftawar Offer",
+      "url": "https://jazz.com.pk/prepaid/peshawar-haftawar-offer",
+      "Type": "Peshawar, Chakwal & Abbottabad",
+      "Type_url": "https://jazz.com.pk/prepaid/peshawar-haftawar-offer",
+      "Price": "Rs.260 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "12 GB Data"
+        },
+        {
+          "Details": "120 All Network Mins"
+        },
+        {
+          "Details": "FREE Tamasha App"
+        }
+      ]
+    },
+    {
+      "name": "Block Service",
+      "url": "https://jazz.com.pk/prepaid/call-sms-block-service",
+      "Type": "Call & SMS",
+      "Type_url": "https://jazz.com.pk/prepaid/call-sms-block-service",
+      "Details": [
+        {
+          "Details": "​Block all unwanted Calls & SMS!"
+        }
+      ]
+    },
+    {
+      "name": "Share",
+      "url": "https://jazz.com.pk/prepaid/jazz-share",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-share",
+      "Details": [
+        {
+          "Details": "Share balance with your loved ones"
+        }
+      ]
+    },
+    {
+      "name": "Forwarding",
+      "url": "https://jazz.com.pk/prepaid/call-forwarding",
+      "Type": "Call",
+      "Type_url": "https://jazz.com.pk/prepaid/call-forwarding",
+      "Details": [
+        {
+          "Details": "Forward incoming calls to your voice mail"
+        }
+      ]
+    },
+    {
+      "name": "Call",
+      "url": "https://jazz.com.pk/prepaid/conference-call",
+      "Type": "Conference",
+      "Type_url": "https://jazz.com.pk/prepaid/conference-call",
+      "Details": [
+        {
+          "Details": "Talk to four people at one time!​"
+        }
+      ]
+    },
+    {
+      "name": "Auto Reply",
+      "url": "https://jazz.com.pk/prepaid/jazz-auto-reply",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-auto-reply",
+      "Details": [
+        {
+          "Details": "Busy and cannot attend a call? Get Jazz Auto Reply now​"
+        }
+      ]
+    },
+    {
+      "name": "Sehat",
+      "url": "https://jazz.com.pk/prepaid/bima-insurance",
+      "Type": "Bima",
+      "Type_url": "https://jazz.com.pk/prepaid/bima-insurance",
+      "Details": [
+        {
+          "Details": "​Get insured for your medical needs"
+        }
+      ]
+    },
+    {
+      "name": "Call",
+      "url": "https://jazz.com.pk/prepaid/beep-call",
+      "Type": "Beep",
+      "Type_url": "https://jazz.com.pk/prepaid/beep-call",
+      "Details": [
+        {
+          "Details": "No balance, no problem!​"
+        }
+      ]
+    },
+    {
+      "name": "Notify Me",
+      "url": "https://jazz.com.pk/prepaid/jazz-notify-me",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-notify-me",
+      "Details": [
+        {
+          "Details": "Always stay updated with Jazz Notify Me"
+        }
+      ]
+    },
+    {
+      "name": "Notification",
+      "url": "https://jazz.com.pk/prepaid/end-call-notification",
+      "Type": "End of Call",
+      "Type_url": "https://jazz.com.pk/prepaid/end-call-notification",
+      "Details": [
+        {
+          "Details": "Know your balance after every call​"
+        }
+      ]
+    },
+    {
+      "name": "Call Alert",
+      "url": "https://jazz.com.pk/prepaid/missed-call-alert",
+      "Type": "Missed",
+      "Type_url": "https://jazz.com.pk/prepaid/missed-call-alert",
+      "Details": [
+        {
+          "Details": "​Never miss any call again!"
+        }
+      ]
+    },
+    {
+      "name": "3 Day-Max Offer",
+      "url": "https://jazz.com.pk/prepaid/3-day-max-offer",
+      "Price": "Rs.78 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1 GB ​DATA"
+        },
+        {
+          "Details": "10 Other Networks Min"
+        },
+        {
+          "Details": "1000 Jazz Mins"
+        },
+        {
+          "Details": "1000 Jazz Sms"
+        }
+      ]
+    },
+    {
+      "name": "Calling Rates",
+      "url": "https://jazz.com.pk/prepaid/international-calling-rates",
+      "Type": "International",
+      "Type_url": "https://jazz.com.pk/prepaid/international-calling-rates",
+      "Details": [
+        {
+          "Details": "Talk with your loved ones, across the globe!​"
+        }
+      ]
+    },
+    {
+      "name": "Offer (USA/Canada/UK)",
+      "url": "https://jazz.com.pk/prepaid/456-offer-usa-canada-uk",
+      "Type": "456",
+      "Type_url": "https://jazz.com.pk/prepaid/456-offer-usa-canada-uk",
+      "Details": [
+        {
+          "Details": "​Slashed call rates to the UK, USA and Canada"
+        }
+      ]
+    },
+    {
+      "name": "Offer",
+      "url": "https://jazz.com.pk/prepaid/uk-offer",
+      "Type": "UK",
+      "Type_url": "https://jazz.com.pk/prepaid/uk-offer",
+      "Details": [
+        {
+          "Details": "Stay connected with your loved ones in the UK"
+        }
+      ]
+    },
+    {
+      "name": "Arabia & UAE Offer",
+      "url": "https://jazz.com.pk/prepaid/saudi-arabia-uae-offer",
+      "Type": "Saudia",
+      "Type_url": "https://jazz.com.pk/prepaid/saudi-arabia-uae-offer",
+      "Details": [
+        {
+          "Details": "Talk to your loved ones in KSA & UAE"
+        }
+      ]
+    },
+    {
+      "name": "Easy",
+      "url": "https://jazz.com.pk/prepaid/jazz-easy",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-easy",
+      "Price": "Rs.3.50 / 60Sec (Incl. Tax)",
+      "Details": [
+      ]
+    },
+    {
+      "name": "Champion",
+      "url": "https://jazz.com.pk/prepaid/champions-package",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/champions-package",
+      "Price": "Rs.3.50 / 60sec (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "Carrying the legacy forward of being a true Jazz Champion, Jazz presents the ‘Jazz Champion’! It is the default package on all new prepaid connections."
+        }
+      ]
+    },
+    {
+      "name": "One",
+      "url": "https://jazz.com.pk/prepaid/jazz-one",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-one",
+      "Price": "Rs.3.50 / 60Sec",
+      "Details": [
+        {
+          "Details": "Enjoy lowest call rates on friends and family with Jazz One"
+        }
+      ]
+    },
+    {
+      "name": "Daily Offer",
+      "url": "https://jazz.com.pk/prepaid/daily-karachi-offer",
+      "Type": "Karachi",
+      "Type_url": "https://jazz.com.pk/prepaid/daily-karachi-offer",
+      "Price": "Rs.30 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "1000 MB DATA"
+        },
+        {
+          "Details": "​Unlimited Jazz Mins"
+        },
+        {
+          "Details": "​50 SMS"
+        }
+      ]
+    },
+    {
+      "name": "Control",
+      "url": "https://jazz.com.pk/prepaid/full-control",
+      "Type": "Full",
+      "Type_url": "https://jazz.com.pk/prepaid/full-control",
+      "Details": [
+        {
+          "Details": "Convenience on your fingertips​"
+        }
+      ]
+    },
+    {
+      "name": "Facebook by Jazz",
+      "url": "https://jazz.com.pk/prepaid/free-facebook",
+      "Type": "Free",
+      "Type_url": "https://jazz.com.pk/prepaid/free-facebook",
+      "Details": [
+        {
+          "Details": "​Enjoy browsing Facebook for Free"
+        }
+      ]
+    },
+    {
+      "name": "Me",
+      "url": "https://jazz.com.pk/prepaid/sponsor-me",
+      "Type": "Sponsor",
+      "Type_url": "https://jazz.com.pk/prepaid/sponsor-me",
+      "Details": [
+        {
+          "Details": "Make calls to anyone at the expense of a Sponsor"
+        }
+      ]
+    },
+    {
+      "name": "Smart SMS",
+      "url": "https://jazz.com.pk/prepaid/jazz-smart-sms",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-smart-sms",
+      "Details": [
+        {
+          "Details": "​Deliver your SMS to receiving party even if their number is powered off"
+        }
+      ]
+    },
+    {
+      "name": "Budget",
+      "url": "https://jazz.com.pk/prepaid/jazz-budget",
+      "Type": "Jazz",
+      "Type_url": "https://jazz.com.pk/prepaid/jazz-budget",
+      "Price": "Rs.3.50 / 60sec (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "Jazz Budget is designed to suit your socializing needs when you want to enjoy the freedom of speaking your heart out with friends and family, that too at affordable rates!"
+        }
+      ]
+    },
+    {
+      "name": "Sale Offer",
+      "url": "https://jazz.com.pk/prepaid/new-sale-offer",
+      "Type": "New",
+      "Type_url": "https://jazz.com.pk/prepaid/new-sale-offer",
+      "Details": [
+        {
+          "Details": "3000 MBs Data\n1000 Jazz Mins\n1000 SMS"
+        }
+      ]
+    }
+  ]
+}

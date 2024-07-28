@@ -1,0 +1,348 @@
+{
+  "2019": {
+    "First half": {
+      "Province1": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        }
+      },
+      "Province2": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        }
+      },
+      "Province3": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        }
+      },
+      "Province4": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        }
+      },
+      "Province5": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 1": "Value 1",
+              "KPI 2": "Value 2",
+              "KPI 3": "Value 3"
+            }
+          }
+        }
+      }
+    },
+    "Second half": {
+      "Province1": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        }
+      },
+      "Province2": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        }
+      },
+      "Province3": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        }
+      },
+      "Province4": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        }
+      },
+      "Province5": {
+        "City": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        },
+        "Road": {
+          "Provider 1": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          },
+          "Provider 2": {
+            "KPIs": {
+              "KPI 4": "Value 4",
+              "KPI 5": "Value 5",
+              "KPI 6": "Value 6"
+            }
+          }
+        }
+      }
+    }
+  }
+}

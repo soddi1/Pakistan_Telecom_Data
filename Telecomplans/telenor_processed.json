@@ -1,0 +1,1766 @@
+[
+    {
+        "name": "Freedom 500",
+        "Price": "Rs. 500 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 500 Incl. Tax",
+            "Onnet: 3,000 Mins",
+            "Offnet: 150 Mins",
+            "Internet: 6,144 MBs (3072 MBs 12AM-12PM)"
+        ]
+    },
+    {
+        "name": "Freedom Gold",
+        "Price": "Rs. 1000 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1000 Incl. Tax",
+            "Onnet: 7,000 Mins",
+            "Offnet: 500 Mins",
+            "Internet: 30,720 MBs"
+        ]
+    },
+    {
+        "name": "Freedom Silver",
+        "Price": "Rs. 800 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 800 Incl. Tax",
+            "Onnet: 5,000 Mins",
+            "Offnet: 300 Mins",
+            "Internet: 15,360 MBs"
+        ]
+    },
+    {
+        "name": "Freedom Gold Plus",
+        "Price": "Rs. 1600 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1600 Incl. Tax",
+            "Onnet: 15000",
+            "Offnet: 700 Mins",
+            "Internet: 102,400 MBs"
+        ]
+    },
+    {
+        "name": "Family Share Plans (2 Lines)",
+        "Price": "Rs. 1887 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1887 Incl. Tax",
+            "Onnet: Unlimited (FUP 10,000)",
+            "Offnet: 700 Mins",
+            "Internet: 20GB+5GB(Social)"
+        ]
+    },
+    {
+        "name": "Family Share Plans (3 Lines)",
+        "Price": "Rs. 2574 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 2574 Incl. Tax",
+            "Onnet: Unlimited (FUP 10,000)",
+            "Offnet: 1050 Mins",
+            "Internet: 30GB+5GB(Social)"
+        ]
+    },
+    {
+        "name": "Freedom Ultimate",
+        "Price": "Rs. 2350 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 2350 Incl. Tax",
+            "Onnet: 15,000 Mins",
+            "Offnet: 1200 Mins",
+            "Internet: 102,400 MBs"
+        ]
+    },
+    {
+        "name": "Family Share Plans (4 Lines)",
+        "Price": "Rs. 3124 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 3124 Incl. Tax",
+            "Onnet: Unlimited (FUP 10,000)",
+            "Offnet: 1400 Mins",
+            "Internet: 40GB+5GB(Social)"
+        ]
+    },
+    {
+        "name": "Family Share Plans (5 Lines)",
+        "Price": "Rs. 3261 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 3261 Incl. Tax",
+            "Onnet: Unlimited (FUP 10,000)",
+            "Offnet: 1750 Mins",
+            "Internet: 50GB+5GB(Social)"
+        ]
+    },
+    {
+        "name": "Smart 300",
+        "Price": "Rs. 618 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 618 Incl. Tax",
+            "Free Any Network Minutes: 300",
+            "Internet: 1024 MB",
+            "SMS: 300"
+        ]
+    },
+    {
+        "name": "Smart 600",
+        "Price": "Rs. 1099 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1099 Incl. Tax",
+            "Free Any Network Minutes: 750",
+            "Internet: 2048 MB",
+            "SMS: 750"
+        ]
+    },
+    {
+        "name": "Freedom 300",
+        "Price": "Rs. 570 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 570 Incl. Tax",
+            "Onnet: 1,000 Mins",
+            "Offnet: 150 Mins",
+            "Internet: 2,000 MBs + 1,000 MB Facebook & WhatsApp"
+        ]
+    },
+    {
+        "name": "Freedom 350",
+        "Price": "Rs. 650 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 650 Incl. Tax",
+            "Onnet: 2,500 Mins",
+            "Offnet: 200 Mins",
+            "Internet: 4,000 MBs"
+        ]
+    },
+    {
+        "name": "Freedom 600",
+        "Price": "Rs. 1060 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1060 Incl. Tax",
+            "Onnet: 7,000 Mins",
+            "Offnet: 350 Mins",
+            "Internet: 12,000 MB"
+        ]
+    },
+    {
+        "name": "Smart 1000",
+        "Price": "Rs. 1787 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1787 Incl. Tax",
+            "Free Any Network Minutes: 1300",
+            "Internet: 4096 MB",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "Smart 1500",
+        "Price": "Rs. 2542 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 2542 Incl. Tax",
+            "Internet: 6144 MB",
+            "Free Any Network Minutes: 2000",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "Smart 3000",
+        "Price": "Rs. 4741 Incl. Tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 4741 Incl. Tax",
+            "Free Any Network Minutes: 4500",
+            "Internet: 10240 MB",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "PayG Blocker",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93/min+tax",
+            "Offnet: Rs. 2.93/min+tax"
+        ]
+    },
+    {
+        "name": "Telenor 30",
+        "Price": "Rs. 1.46",
+        "Duration": null,
+        "Details": [
+            "Rs. 1.46",
+            "Onnet: Rs. 1.46 + tax",
+            "Offnet: Rs. 1.46 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor A1",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor Apna",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor Economy",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor Star",
+        "Price": "Rs. 1.46",
+        "Duration": null,
+        "Details": [
+            "Rs. 1.46",
+            "Onnet: Rs. 1.46 + tax/30s",
+            "Offnet: Rs. 1.46 + tax/30s",
+            "Internet: Rs. 2.00/512KB + tax"
+        ]
+    },
+    {
+        "name": "Telenor Value",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "PayG Blocker",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93/min+tax",
+            "Offnet: Rs. 2.93/min+tax"
+        ]
+    },
+    {
+        "name": "Telenor 30",
+        "Price": "Rs. 1.46",
+        "Duration": null,
+        "Details": [
+            "Rs. 1.46",
+            "Onnet: Rs. 1.46 + tax",
+            "Offnet: Rs. 1.46 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor A1",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor Apna",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor Economy",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Telenor Star",
+        "Price": "Rs. 1.46",
+        "Duration": null,
+        "Details": [
+            "Rs. 1.46",
+            "Onnet: Rs. 1.46 + tax/30s",
+            "Offnet: Rs. 1.46 + tax/30s",
+            "Internet: Rs. 2.00/512KB + tax"
+        ]
+    },
+    {
+        "name": "Telenor Value",
+        "Price": "Rs. 2.93",
+        "Duration": null,
+        "Details": [
+            "Rs. 2.93",
+            "Onnet: Rs. 2.93 + tax",
+            "Offnet: Rs. 2.93 + tax",
+            "Internet: Rs. 2.00/512kb + tax"
+        ]
+    },
+    {
+        "name": "Free First Call Offer",
+        "Price": "Rs. 5 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 5 incl. tax",
+            "Dial: *888#"
+        ]
+    },
+    {
+        "name": "Telenor Good Time Offer",
+        "Price": "Rs. 6 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 6 incl. tax",
+            "Internet: 250 MB Facebook",
+            "Onnet: Unlimited for 2 hours"
+        ]
+    },
+    {
+        "name": "15 Days Extreme",
+        "Price": "Rs. 820 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 820 incl. tax",
+            "Internet: 130GB",
+            "Onnet: 7500"
+        ]
+    },
+    {
+        "name": "15 Days Max",
+        "Price": "Rs. 650 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 650 incl. tax",
+            "Internet: 30GB",
+            "Onnet: 5000"
+        ]
+    },
+    {
+        "name": "15 Days Plus",
+        "Price": "Rs. 350 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 350 incl. tax",
+            "Internet: 5GB",
+            "Onnet: 3500"
+        ]
+    },
+    {
+        "name": "7 Day Hybrid",
+        "Price": "Rs. 87 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 87 incl. tax",
+            "Internet: 3000 MBs",
+            "Onnet: 1500"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 10GBs+10GBs (1am-9am)",
+            "Onnet: 4,000 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard 750",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 8GB+8GB (1am-9am)",
+            "Onnet: 3500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Monthly First Free Call Offer",
+        "Price": "Rs. 10 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 10 incl. tax",
+            "Onnet: Up to 60 minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard",
+        "Price": "Rs. 200 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 200 incl. tax",
+            "Internet: 2GB+2GB (1am-9am)",
+            "Onnet: 1500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Extreme",
+        "Price": "Rs. 320 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 320 incl. tax",
+            "Internet: 20GB+20GB (1am-9am)",
+            "Onnet: 7500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Max",
+        "Price": "Rs. 190 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 190 incl. tax",
+            "Internet: 5 GBs (generic)",
+            "Onnet: 2500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly Extreme Plus",
+        "Price": "Rs. 400 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 400 incl. tax",
+            "Internet: 40GB+40GB (1am-11am)",
+            "Onnet: 15000 Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Prime Offer",
+        "Price": "Rs. 390 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 390 incl. tax",
+            "Internet: 100GB",
+            "Onnet: Unlimited Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Ultimate Offer",
+        "Price": "Rs. 365 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 365 incl. tax",
+            "Internet: 80GB",
+            "Onnet: Unlimited Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Voice Lite",
+        "Price": "Rs. 25 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 25 incl. tax",
+            "Onnet: 140 Minutes (20 Minutes per day)"
+        ]
+    },
+    {
+        "name": "Haftawar Chappar Phaar Offer",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 70 MB + 350 Social MB",
+            "Onnet: 1500"
+        ]
+    },
+    {
+        "name": "Full Day Offer",
+        "Price": "Rs. 13 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 13 incl. tax",
+            "Internet: 50 MBs + 100 MBs WhatsApp",
+            "Onnet: Unlimited"
+        ]
+    },
+    {
+        "name": "Stop the Clock Offer",
+        "Price": "Rs. 3.50 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 3.50 incl. tax"
+        ]
+    },
+    {
+        "name": "3 Day Hybrid Package",
+        "Price": "Rs. 60 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 60 incl. tax",
+            "Internet: 1GB",
+            "Onnet: 500 Minutes"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard 850",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 12GB+12GB(1am-9am)",
+            "Onnet: 5000 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "3 Day Plus Package",
+        "Price": "Rs. 69 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 69 incl. tax",
+            "Internet: 300MB",
+            "Onnet: 300 Minutes"
+        ]
+    },
+    {
+        "name": "Mahana Budget Package",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 3GB for WhatsApp",
+            "Onnet: 300 mins"
+        ]
+    },
+    {
+        "name": "Sahulat Mini Offer",
+        "Price": "Rs. 75 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 75 incl. tax",
+            "Internet: 100 MB + 200 MB for WhatsApp, FB & Twitter",
+            "Onnet: 200 mins"
+        ]
+    },
+    {
+        "name": "Haftawar Sahulat Offer",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 100 MB+350 MB for WhatsApp, FB & Twitter",
+            "Onnet: 1000 Minutes"
+        ]
+    },
+    {
+        "name": "Telenor 3/3 Offer",
+        "Price": "Rs. 50.00 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 50.00 incl. tax",
+            "Internet: 50 MB",
+            "Onnet: 600 minutes"
+        ]
+    },
+    {
+        "name": "3 Day Sahulat Offer",
+        "Price": "Rs. 52 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 52 incl. tax",
+            "Internet: 50MB + 100MB for WhatsApp, Twitter & Facebook",
+            "Onnet: 250 Minutes"
+        ]
+    },
+    {
+        "name": "Telenor Superload Offer",
+        "Price": "Rs. 0.80 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 0.80 incl. tax",
+            "Dial: *5*100#",
+            "Free Any Network Minutes: 20"
+        ]
+    },
+    {
+        "name": "15 Days Extreme",
+        "Price": "Rs. 820 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 820 incl. tax",
+            "Internet: 130GB",
+            "Onnet: 7500"
+        ]
+    },
+    {
+        "name": "15 Days Max",
+        "Price": "Rs. 650 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 650 incl. tax",
+            "Internet: 30GB",
+            "Onnet: 5000"
+        ]
+    },
+    {
+        "name": "15 Days Plus",
+        "Price": "Rs. 350 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 350 incl. tax",
+            "Internet: 5GB",
+            "Onnet: 3500"
+        ]
+    },
+    {
+        "name": "7 Day Hybrid",
+        "Price": "Rs. 87 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 87 incl. tax",
+            "Internet: 3000 MBs",
+            "Onnet: 1500"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 10GBs+10GBs (1am-9am)",
+            "Onnet: 4,000 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard 750",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 8GB+8GB (1am-9am)",
+            "Onnet: 3500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Social All-in-One Package",
+        "Price": "Rs. 210 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 210 incl. tax",
+            "Internet: 12GB (Facebook + WhatsApp) + 100MB",
+            "Onnet: 250 mins"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard",
+        "Price": "Rs. 200 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 200 incl. tax",
+            "Internet: 2GB+2GB (1am-9am)",
+            "Onnet: 1500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Extreme",
+        "Price": "Rs. 320 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 320 incl. tax",
+            "Internet: 20GB+20GB (1am-9am)",
+            "Onnet: 7500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Max",
+        "Price": "Rs. 190 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 190 incl. tax",
+            "Internet: 5 GBs (generic)",
+            "Onnet: 2500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly Extreme Plus",
+        "Price": "Rs. 400 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 400 incl. tax",
+            "Internet: 40GB+40GB (1am-11am)",
+            "Onnet: 15000 Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Prime Offer",
+        "Price": "Rs. 390 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 390 incl. tax",
+            "Internet: 100GB",
+            "Onnet: Unlimited Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Ultimate Offer",
+        "Price": "Rs. 365 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 365 incl. tax",
+            "Internet: 80GB",
+            "Onnet: Unlimited Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Mega",
+        "Price": "Rs. 235 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 235 incl. tax",
+            "Internet: 8000MB (Incl. 4000MB 1AM - 11AM)",
+            "Onnet: 2000 Telenor+PTCL minutes"
+        ]
+    },
+    {
+        "name": "3 Day Hybrid Package",
+        "Price": "Rs. 60 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 60 incl. tax",
+            "Internet: 1GB",
+            "Onnet: 500 Minutes"
+        ]
+    },
+    {
+        "name": "Sim Lagao Offer",
+        "Price": "N/A",
+        "Duration": null,
+        "Details": [
+            "Free",
+            "Internet: 10 GB (from 12am to 7pm)",
+            "Onnet: 3000"
+        ]
+    },
+    {
+        "name": "Mahana Budget Package",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 3GB for WhatsApp",
+            "Onnet: 300 mins"
+        ]
+    },
+    {
+        "name": "Make Your Own Offer",
+        "Price": "N/A",
+        "Duration": null,
+        "Details": [
+            "Dial *347#"
+        ]
+    },
+    {
+        "name": "Monthly Extreme Offer",
+        "Price": "Rs. 1040 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1040 incl. tax",
+            "Internet: 50GB (25GB 1AM - 9AM)",
+            "Onnet: 7500 mins"
+        ]
+    },
+    {
+        "name": "Monthly Extreme Plus",
+        "Price": "Rs. 1300 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1300 incl. tax",
+            "Internet: 80GB (40GB 1AM - 9AM)",
+            "Onnet: 10000 mins"
+        ]
+    },
+    {
+        "name": "Monthly Extreme Pro Max",
+        "Price": "Rs. 1300 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1300 incl. tax",
+            "Internet: 100GB",
+            "Onnet: Unlimited min"
+        ]
+    },
+    {
+        "name": "Monthly Prime Offer",
+        "Price": "Rs. 1740 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1740 incl. tax",
+            "Internet: 300GB",
+            "Onnet: Unlimited mins*"
+        ]
+    },
+    {
+        "name": "Monthly Super Plus",
+        "Price": "Rs. 650 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 650 incl. tax",
+            "Internet: 36GB (18GB 1AM - 9AM)",
+            "Onnet: 500 mins"
+        ]
+    },
+    {
+        "name": "Monthly Ultimate Offer",
+        "Price": "Rs. 1390 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1390 incl. tax",
+            "Internet: 200GB",
+            "Onnet: Unlimited min"
+        ]
+    },
+    {
+        "name": "EasyCard 1000",
+        "Price": "Rs. 950 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 950 incl. tax",
+            "Internet: 18GB+18GB (1am-9am)",
+            "Onnet: 7,000 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "4G Monthly Ultra",
+        "Price": "Rs. 450 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 450 incl. tax",
+            "Internet: 12 GB + 12 GB (12 AM - 8 AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Daily Facebook",
+        "Price": "Rs. 6 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 6 incl. tax",
+            "Internet: 500 MBs",
+            "Validity: 1 day"
+        ]
+    },
+    {
+        "name": "Daily Offpeak Offer",
+        "Price": "Rs. 15 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 15 incl. tax",
+            "Internet: 1500 MB (6AM - 6PM)",
+            "Validity: 12 Hours (6AM - 6PM)"
+        ]
+    },
+    {
+        "name": "Daily Social Pack",
+        "Price": "Rs. 3 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 3 incl. tax",
+            "Internet: 70 MB",
+            "Validity: 1 day"
+        ]
+    },
+    {
+        "name": "Daily TikTok",
+        "Price": "Rs. 6 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 6 incl. tax",
+            "Internet: 500 MBs",
+            "Validity: 1 day"
+        ]
+    },
+    {
+        "name": "Daily YouTube",
+        "Price": "Rs. 6 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 6 incl. tax",
+            "Internet: 500 MBs",
+            "Validity: 1 day"
+        ]
+    },
+    {
+        "name": "Mega Monthly Offer",
+        "Price": "Rs. 200 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 200 incl. tax",
+            "Internet: 100 GB (12AM - 12PM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Monthly IMO Package",
+        "Price": "Rs. 50 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 50 incl. tax",
+            "Internet: 500 MB",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Monthly Snapchat Package",
+        "Price": "Rs. 5",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 5",
+            "Internet: 2000 MB Snapchat",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Monthly Social Extreme",
+        "Price": "Rs. 130 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 130 incl. tax",
+            "Facebook & WhatsApp: 8,000 MB"
+        ]
+    },
+    {
+        "name": "Monthly Social Extreme Plus",
+        "Price": "Rs. 173 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 173 incl. tax",
+            "Facebook & WhatsApp: 15,000 MBs"
+        ]
+    },
+    {
+        "name": "Monthly Social Pack",
+        "Price": "Rs. 80",
+        "Duration": null,
+        "Details": [
+            "Rs. 80",
+            "Internet: 2500MB (Facebook & Whatsapp)"
+        ]
+    },
+    {
+        "name": "Monthly Social Pack Plus",
+        "Price": "Rs. 85 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 85 incl. tax",
+            "Facebook & WhatsApp: 3,000 MB",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "Monthly Social Ultra",
+        "Price": "Rs. 104 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 104 incl. tax",
+            "Facebook & WhatsApp: 4,000 MB",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "Monthly TikTok Offer",
+        "Price": "Rs. 85 incl. Tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 85 incl. Tax",
+            "Internet: 3GB TikTok, Snapchat, Likee & SnackVideo",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "PUBGM Monthly Offer",
+        "Price": "Rs. 60",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 60",
+            "Internet: 2GB PUBGM+100MBs",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Weekly Social Pack",
+        "Price": "Rs. 113",
+        "Duration": null,
+        "Details": [
+            "Rs. 113",
+            "Internet: 5000MB (Facebook & Whatsapp)"
+        ]
+    },
+    {
+        "name": "Weekly Zoom Package",
+        "Price": "Rs. 80 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 80 incl. tax",
+            "Internet: 3000 MB",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "4G Weekly Ultra Plus",
+        "Price": "Rs. 240 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 240 incl. tax",
+            "Internet: 20GB (incl. 10GB 1AM \u00e2\u20ac\u201c 9AM)",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "Social All-in-One Package",
+        "Price": "Rs. 210 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 210 incl. tax",
+            "Internet: 12GB (Facebook + WhatsApp) + 100MB",
+            "Onnet: 250 mins"
+        ]
+    },
+    {
+        "name": "4G Weekly Ultra",
+        "Price": "Rs. 200 inc tax.",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 200 inc tax.",
+            "Internet: 8GB & 100 all-net minutes",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Starter Bundle",
+        "Price": "Rs. 370 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 370 incl. tax",
+            "Internet: 8 GB (incl. 4 GB 1AM - 7AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Super",
+        "Price": "Rs. 350 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 350 incl. tax",
+            "Internet: 12000MB (incl. 6000MB 1AM-11AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Lite",
+        "Price": "Rs. 190 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 190 incl. tax",
+            "Internet: 4GB (incl. 2GB 1AM \u00e2\u20ac\u201c 11AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Weekly Super",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 4000MB (incl. 2000MB 1AM to 11AM)",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "Monthly Extreme Offer",
+        "Price": "Rs. 1040 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1040 incl. tax",
+            "Internet: 50GB (25GB 1AM - 9AM)",
+            "Onnet: 7500 mins"
+        ]
+    },
+    {
+        "name": "Monthly Extreme Plus",
+        "Price": "Rs. 1300 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1300 incl. tax",
+            "Internet: 80GB (40GB 1AM - 9AM)",
+            "Onnet: 10000 mins"
+        ]
+    },
+    {
+        "name": "Monthly Extreme Pro Max",
+        "Price": "Rs. 1300 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1300 incl. tax",
+            "Internet: 100GB",
+            "Onnet: Unlimited min"
+        ]
+    },
+    {
+        "name": "Monthly Prime Offer",
+        "Price": "Rs. 1740 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1740 incl. tax",
+            "Internet: 300GB",
+            "Onnet: Unlimited mins*"
+        ]
+    },
+    {
+        "name": "Monthly Super Plus",
+        "Price": "Rs. 650 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 650 incl. tax",
+            "Internet: 36GB (18GB 1AM - 9AM)",
+            "Onnet: 500 mins"
+        ]
+    },
+    {
+        "name": "Monthly Ultimate Offer",
+        "Price": "Rs. 1390 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 1390 incl. tax",
+            "Internet: 200GB",
+            "Onnet: Unlimited min"
+        ]
+    },
+    {
+        "name": "4G Weekly Internet Max",
+        "Price": "Rs. 55 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 55 incl. tax",
+            "Internet: 30 GB",
+            "Validity: 7 Days (12AM - 9AM)"
+        ]
+    },
+    {
+        "name": "Weekly 6 to 6 Package",
+        "Price": "Rs. 60 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 60 incl. tax",
+            "Internet: 5000 MB",
+            "Validity: 7 Days (6AM - 6PM)"
+        ]
+    },
+    {
+        "name": "Raat Din Offer",
+        "Price": "Rs. 18 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 18 incl. tax",
+            "Internet: 1.5 GB",
+            "Validity: 12 Hours (12AM - 12PM)"
+        ]
+    },
+    {
+        "name": "Daily YouTube Package",
+        "Price": "Rs. 8 incl. Tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 8 incl. Tax",
+            "Internet: 500 MB",
+            "Validity: 1 day (till midnight)"
+        ]
+    },
+    {
+        "name": "Weekly Music Package",
+        "Price": "Rs. 10 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 10 incl. tax",
+            "Internet: 1000 MB for Soundcloud & Patari",
+            "Validity: 7 days"
+        ]
+    },
+    {
+        "name": "Weekly Video Package",
+        "Price": "Rs. 130 Incl. Tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 130 Incl. Tax",
+            "Internet: 5000 MB for Youtube, TikTok, Likee and SnackVideo",
+            "Validity: 7 days (till midnight)"
+        ]
+    },
+    {
+        "name": "4G 3 Day Bundle",
+        "Price": "Rs. 44 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 44 incl. tax",
+            "Internet: 1000MB (incl. 500MB 12AM - 8AM)",
+            "Validity: 3 Days"
+        ]
+    },
+    {
+        "name": "Monthly SMS Bundle",
+        "Price": "Rs. 60 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 60 incl. tax",
+            "Validity: 30 Days",
+            "SMS: 10,000 + 300MB WhatsApp"
+        ]
+    },
+    {
+        "name": "Weekly SMS Bundle",
+        "Price": "Rs. 17 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 17 incl. tax",
+            "SMS: 2000",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "Daily SMS Bundle",
+        "Price": "Rs. 4.78 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 4.78 incl. tax",
+            "Validity: 1 Day",
+            "SMS: 240"
+        ]
+    },
+    {
+        "name": "15 Day Economy SMS Bundle",
+        "Price": "Rs. 17.00 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 17.00 incl. tax",
+            "Validity: 15 Days",
+            "SMS: 800"
+        ]
+    },
+    {
+        "name": "5 Day SMS Bundle",
+        "Price": "Rs. 9.5 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 9.5 incl. tax",
+            "Validity: 5 Days",
+            "SMS: 300"
+        ]
+    },
+    {
+        "name": "15 Days Extreme",
+        "Price": "Rs. 820 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 820 incl. tax",
+            "Internet: 130GB",
+            "Onnet: 7500"
+        ]
+    },
+    {
+        "name": "15 Days Max",
+        "Price": "Rs. 650 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 650 incl. tax",
+            "Internet: 30GB",
+            "Onnet: 5000"
+        ]
+    },
+    {
+        "name": "15 Days Plus",
+        "Price": "Rs. 350 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 350 incl. tax",
+            "Internet: 5GB",
+            "Onnet: 3500"
+        ]
+    },
+    {
+        "name": "7 Day Hybrid",
+        "Price": "Rs. 87 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 87 incl. tax",
+            "Internet: 3000 MBs",
+            "Onnet: 1500"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 10GBs+10GBs (1am-9am)",
+            "Onnet: 4,000 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard 750",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 8GB+8GB (1am-9am)",
+            "Onnet: 3500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Social All-in-One Package",
+        "Price": "Rs. 210 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 210 incl. tax",
+            "Internet: 12GB (Facebook + WhatsApp) + 100MB",
+            "Onnet: 250 mins"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard",
+        "Price": "Rs. 200 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 200 incl. tax",
+            "Internet: 2GB+2GB (1am-9am)",
+            "Onnet: 1500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Extreme",
+        "Price": "Rs. 320 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 320 incl. tax",
+            "Internet: 20GB+20GB (1am-9am)",
+            "Onnet: 7500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Max",
+        "Price": "Rs. 190 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 190 incl. tax",
+            "Internet: 5 GBs (generic)",
+            "Onnet: 2500 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Weekly Extreme Plus",
+        "Price": "Rs. 400 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 400 incl. tax",
+            "Internet: 40GB+40GB (1am-11am)",
+            "Onnet: 15000 Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Prime Offer",
+        "Price": "Rs. 390 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 390 incl. tax",
+            "Internet: 100GB",
+            "Onnet: Unlimited Telenor minutes"
+        ]
+    },
+    {
+        "name": "Weekly Ultimate Offer",
+        "Price": "Rs. 365 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 365 incl. tax",
+            "Internet: 80GB",
+            "Onnet: Unlimited Telenor minutes"
+        ]
+    },
+    {
+        "name": "Daily SMS Bundle",
+        "Price": "Rs. 4.78 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 4.78 incl. tax",
+            "Validity: 1 Day",
+            "SMS: 240"
+        ]
+    },
+    {
+        "name": "3 Day Hybrid Package",
+        "Price": "Rs. 60 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 60 incl. tax",
+            "Internet: 1GB",
+            "Onnet: 500 Minutes"
+        ]
+    },
+    {
+        "name": "Monthly EasyCard 850",
+        "Price": "Rs. 780 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 780 incl. tax",
+            "Internet: 12GB+12GB(1am-9am)",
+            "Onnet: 5000 Telenor & PTCL minutes"
+        ]
+    },
+    {
+        "name": "Sim Lagao Offer",
+        "Price": "N/A",
+        "Duration": null,
+        "Details": [
+            "Free",
+            "Internet: 10 GB (from 12am to 7pm)",
+            "Onnet: 3000"
+        ]
+    },
+    {
+        "name": "Haftawar Sahulat Offer",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 100 MB+350 MB for WhatsApp, FB & Twitter",
+            "Onnet: 1000 Minutes"
+        ]
+    },
+    {
+        "name": "Haftawar Offpeak Offer",
+        "Price": "Rs. 55 Incl. Tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 55 Incl. Tax",
+            "Onnet: Unlimited on-net minutes from 12 am \u00e2\u20ac\u201c 7pm",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "4G 3 Month Bundle",
+        "Price": "Rs. 4000.00",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 4000.00",
+            "Internet: 108 GB (36 GB/ 30 days)",
+            "Validity: 90 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Lite",
+        "Price": "Rs. 1500.00",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 1500.00",
+            "Internet: 30 GB + 30 GB Free (1AM to 7AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Smart",
+        "Price": "Rs. 2500",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 2500",
+            "Internet: 75 GB + 75 GB Free (1AM to 7AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Unlimited",
+        "Price": "Rs. 6000",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 6000",
+            "Internet: 275 GB",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Value",
+        "Price": "Rs. 3800.00",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 3800.00",
+            "Internet: 150 GB (Limited Time Offer)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Monthly Snapchat Package",
+        "Price": "Rs. 5",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 5",
+            "Internet: 2000 MB Snapchat",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Monthly Social Extreme",
+        "Price": "Rs. 130 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 130 incl. tax",
+            "Facebook & WhatsApp: 8,000 MB"
+        ]
+    },
+    {
+        "name": "Monthly Social Extreme Plus",
+        "Price": "Rs. 173 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 173 incl. tax",
+            "Facebook & WhatsApp: 15,000 MBs"
+        ]
+    },
+    {
+        "name": "Monthly Social Pack",
+        "Price": "Rs. 80",
+        "Duration": null,
+        "Details": [
+            "Rs. 80",
+            "Internet: 2500MB (Facebook & Whatsapp)"
+        ]
+    },
+    {
+        "name": "Monthly Social Pack Plus",
+        "Price": "Rs. 85 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 85 incl. tax",
+            "Facebook & WhatsApp: 3,000 MB",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "Monthly Social Ultra",
+        "Price": "Rs. 104 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 104 incl. tax",
+            "Facebook & WhatsApp: 4,000 MB",
+            "SMS: 1000"
+        ]
+    },
+    {
+        "name": "PUBGM Monthly Offer",
+        "Price": "Rs. 60",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 60",
+            "Internet: 2GB PUBGM+100MBs",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Weekly Social Pack",
+        "Price": "Rs. 113",
+        "Duration": null,
+        "Details": [
+            "Rs. 113",
+            "Internet: 5000MB (Facebook & Whatsapp)"
+        ]
+    },
+    {
+        "name": "4G Weekly Ultra Plus",
+        "Price": "Rs. 240 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 240 incl. tax",
+            "Internet: 20GB (incl. 10GB 1AM \u00e2\u20ac\u201c 9AM)",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "4G Weekly Ultra",
+        "Price": "Rs. 200 inc tax.",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 200 inc tax.",
+            "Internet: 8GB & 100 all-net minutes",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Starter Bundle",
+        "Price": "Rs. 370 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 370 incl. tax",
+            "Internet: 8 GB (incl. 4 GB 1AM - 7AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Super",
+        "Price": "Rs. 350 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 350 incl. tax",
+            "Internet: 12000MB (incl. 6000MB 1AM-11AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Weekly EasyCard Mega",
+        "Price": "Rs. 235 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 235 incl. tax",
+            "Internet: 8000MB (Incl. 4000MB 1AM - 11AM)",
+            "Onnet: 2000 Telenor+PTCL minutes"
+        ]
+    },
+    {
+        "name": "4G Monthly Lite",
+        "Price": "Rs. 190 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 190 incl. tax",
+            "Internet: 4GB (incl. 2GB 1AM \u00e2\u20ac\u201c 11AM)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Ultra Plus",
+        "Price": "Rs. 700 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 700 incl. tax",
+            "Internet: 50 GB (incl. 25 GB 1AM-11AM)",
+            "Dial: *303#"
+        ]
+    },
+    {
+        "name": "4G Weekly Super",
+        "Price": "Rs. 120 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 120 incl. tax",
+            "Internet: 4000MB (incl. 2000MB 1AM to 11AM)",
+            "Validity: 7 Days"
+        ]
+    },
+    {
+        "name": "4G Weekly Internet Max",
+        "Price": "Rs. 55 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 55 incl. tax",
+            "Internet: 30 GB",
+            "Validity: 7 Days (12AM - 9AM)"
+        ]
+    },
+    {
+        "name": "Weekly 6 to 6 Package",
+        "Price": "Rs. 60 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 60 incl. tax",
+            "Internet: 5000 MB",
+            "Validity: 7 Days (6AM - 6PM)"
+        ]
+    },
+    {
+        "name": "Raat Din Offer",
+        "Price": "Rs. 18 incl. tax",
+        "Duration": null,
+        "Details": [
+            "Rs. 18 incl. tax",
+            "Internet: 1.5 GB",
+            "Validity: 12 Hours (12AM - 12PM)"
+        ]
+    },
+    {
+        "name": "4G 3 Day Bundle",
+        "Price": "Rs. 44 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 44 incl. tax",
+            "Internet: 1000MB (incl. 500MB 12AM - 8AM)",
+            "Validity: 3 Days"
+        ]
+    },
+    {
+        "name": "4G Monthly Value",
+        "Price": "Rs. 3800.00",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 3800.00",
+            "Internet: 150 GB (Limited Time Offer)",
+            "Validity: 30 Days"
+        ]
+    },
+    {
+        "name": "Monthly Lite",
+        "Price": "Rs. 1500",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 1500",
+            "Internet: 30 GB + 30 GB Free (1AM to 7AM)",
+            "Validity: 30 days"
+        ]
+    },
+    {
+        "name": "Monthly Smart",
+        "Price": "Rs. 2500",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 2500",
+            "Internet: 75 GB + 75 GB Free (1AM to 7AM)",
+            "Validity: 30 days"
+        ]
+    },
+    {
+        "name": "Monthly Starter",
+        "Price": "Rs. 750 incl. tax",
+        "Duration": "Daily",
+        "Details": [
+            "Rs. 750 incl. tax",
+            "Internet: 15 GB",
+            "Validity: 30 days"
+        ]
+    }
+]

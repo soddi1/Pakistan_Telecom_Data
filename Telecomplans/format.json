@@ -1,0 +1,57 @@
+{
+    "Jazz": [
+        {
+            "name": "Super Duper",
+            "Type": "Monthly",
+            "Price": "Rs.1,000 (Incl. Tax)",
+            "Details": [
+                "10 GB Data",
+                "3000 Jazz Mins",
+                "300 Other Network Mins",
+                "3000 SMS"
+            ]
+        }
+    ]
+}
+
+
+{
+  "Jazz": [
+    {
+      "name": "Super Duper",
+      "url": "https://jazz.com.pk/prepaid/monthly-super-duper",
+      "Type": "Monthly",
+      "Type_url": "https://jazz.com.pk/prepaid/monthly-super-duper",
+      "Price": "Rs.1,000 (Incl. Tax)",
+      "Details": [
+        {
+          "Details": "5000-10000"
+        },
+        {
+          "Details": "1000"
+        },
+        {
+          "Details": "100-200"
+        },
+        {
+          "Details": "1000-3000"
+        },
+        {
+          "Details": "501"
+        },
+        {
+          "Details": "10 GB Data"
+        },
+        {
+          "Details": "3000 Jazz Mins"
+        },
+        {
+          "Details": "300 Other Network Mins"
+        },
+        {
+          "Details": "3000 SMS"
+        }
+      ]
+    }
+]
+}

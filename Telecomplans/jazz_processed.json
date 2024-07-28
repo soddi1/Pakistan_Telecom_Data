@@ -1,0 +1,913 @@
+{
+    "Jazz": [
+        {
+            "name": "Jao Offer",
+            "Duration": null,
+            "Price": "Rs 86 (Incl. Tax)",
+            "Details": [
+                "1000 On net minutes",
+                "200 Off net minutes",
+                "10 GB Data (Facebook & WhatsApp)"
+            ]
+        },
+        {
+            "name": "X",
+            "Duration": "Monthly",
+            "Price": "Rs. 1,826 (Incl. Tax)",
+            "Details": [
+                "200GB (100GB Tamasha, YouTube, TikTok)",
+                "1000 Other Network Min",
+                "3000 Jazz Min & SMS",
+                "Rs.100,000 Handset Insurance"
+            ]
+        },
+        {
+            "name": "X",
+            "Duration": "Weekly",
+            "Price": "Rs. 520 (Incl. Tax)",
+            "Details": [
+                "100GB (50GB Tamasha, YouTube, TikTok)",
+                "500 Other Network Min",
+                "1000 Jazz Min SMS",
+                "Rs.50,000 Handset Insurance"
+            ]
+        },
+        {
+            "name": "Super Duper",
+            "Duration": "Monthly",
+            "Price": "Rs.1,000 (Incl. Tax)",
+            "Details": [
+                "10 GB Data",
+                "3000 Jazz Mins",
+                "300 Other Network Mins",
+                "3000 SMS"
+            ]
+        },
+        {
+            "name": "Super Plus",
+            "Duration": "Weekly",
+            "Price": "Rs.417 (Incl. Tax)",
+            "Details": [
+                "10 GB Data",
+                "1000 Jazz Mins & SM",
+                "120 Other Network Mins",
+                "Dial *505# Subscription"
+            ]
+        },
+        {
+            "name": "Gaming & Social",
+            "Duration": "Monthly",
+            "Price": "(Bal)",
+            "Details": [
+                "10 GB Data (WhatsApp, Facebook & Tamasha)",
+                "GameNow App subscription",
+                "300 Jazz Mins",
+                "50 Other Network Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Bemisaal Offer",
+            "Duration": null,
+            "Price": "Rs.104 (Incl. Tax)",
+            "Details": [
+                "3GB Data",
+                "Free Whatsapp (FUP-10GB)",
+                "1000 Jazz Mins",
+                "1000 SMS",
+                "30 Other Network Mins"
+            ]
+        },
+        {
+            "name": "Plus",
+            "Duration": null,
+            "Price": "Rs.174 (Incl. Tax)",
+            "Details": [
+                "10 GB Data (10PM-7PM)",
+                "1000 Other Network Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "AARZI NUMBER",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Manage & Control your Calls & SMS with Jazz Aarzi Number"
+            ]
+        },
+        {
+            "name": "WhatsApp Bundle",
+            "Duration": "Weekly",
+            "Price": "Rs.34 (Incl. Tax)",
+            "Details": [
+                "25 MB WA",
+                "1500 SMS"
+            ]
+        },
+        {
+            "name": "Bemisaal Offer 2",
+            "Duration": null,
+            "Price": "Rs.104 (Incl. Tax)",
+            "Details": [
+                "3GB Data",
+                "Free Whatsapp(FUP-10GB)",
+                "1000 Jazz Mins",
+                "1000 SMS",
+                "30 Other Network Mins"
+            ]
+        },
+        {
+            "name": "ADVANCE",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Aap ki sahoolat ke liay Jazz Advance ki raqam ab aap ke istemal ke mutabiq dastiyab hua kare ge."
+            ]
+        },
+        {
+            "name": "Social Offer",
+            "Duration": null,
+            "Price": "(Bal)",
+            "Details": [
+                "15GB (YouTube, Facebook, WhatsApp)",
+                "50 Other Network Mins",
+                "300 Jazz Mins",
+                "300 SMS"
+            ]
+        },
+        {
+            "name": "Haftawaar Offer",
+            "Duration": null,
+            "Price": "Rs.191 (Incl. Tax)",
+            "Details": [
+                "10 GB DATA",
+                "1000 Jazz Mins",
+                "1000 SMS",
+                "100 Other Network Mins"
+            ]
+        },
+        {
+            "name": "Aala Offer",
+            "Duration": null,
+            "Price": "Rs.1,478 (Incl. Tax)",
+            "Details": [
+                "50 GB\u00e2\u20ac\u2039 Data",
+                "500 Offnet Mins\u00e2\u20ac\u2039",
+                "3000 Jazz Mins/SMS\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "All Network",
+            "Duration": "Weekly",
+            "Price": "Rs.278 (Incl. Tax)",
+            "Details": [
+                "3 GB DATA",
+                "1000 Jazz Mins",
+                "90 Other Network Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Caller Name",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Always know who is calling you with Jazz Caller Name \u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Freedom",
+            "Duration": "Monthly",
+            "Price": "Rs.1,739 (Incl. Tax)",
+            "Details": [
+                "100 GB Data",
+                "750 Other Network Min",
+                "3000 Jazz Min SMS"
+            ]
+        },
+        {
+            "name": "Freedom",
+            "Duration": "Weekly",
+            "Price": "Rs 504 (Incl. Tax)",
+            "Details": [
+                "50 GB Data",
+                "300 Other Network Mins",
+                "1000 Jazz Min & SMS"
+            ]
+        },
+        {
+            "name": "Extreme",
+            "Duration": "Weekly",
+            "Price": "Rs.100 (Incl. Tax)",
+            "Details": [
+                "50 GB DATA (12AM-9AM)"
+            ]
+        },
+        {
+            "name": "Haafiz Plan",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "A financial inclusion initiative\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Haafiz Plus Plan",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "A financial inclusion initiative\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Karachi Bol",
+            "Duration": null,
+            "Price": "Rs. 139 (Incl. Tax)",
+            "Details": [
+                "1000 All-Net Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "offer",
+            "Duration": null,
+            "Price": "Rs 60 (Incl. Tax)",
+            "Details": [
+                "3 GBs Data"
+            ]
+        },
+        {
+            "name": "Max",
+            "Duration": "Monthly",
+            "Price": "Rs.1,565 (Incl. Tax)",
+            "Details": [
+                "50 GB Data",
+                "3000 Jazz Mins",
+                "500 Other Network Mins",
+                "3000 SMS"
+            ]
+        },
+        {
+            "name": "SMS Bundle",
+            "Duration": null,
+            "Price": "Rs 10 (Incl. Tax)",
+            "Details": [
+                "10 MBs Data WhatsApp",
+                "1800 SMS"
+            ]
+        },
+        {
+            "name": "Tunes",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Jazz up your caller tunes",
+                "Visit Now"
+            ]
+        },
+        {
+            "name": "bachat-offer",
+            "Duration": null,
+            "Price": "Rs 330 (Incl. Tax)",
+            "Details": [
+                "6 GBs (WA/IMO/Tamasha)",
+                "300 Jazz Mins",
+                "50 Off-net Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Premium Plus",
+            "Duration": "Monthly",
+            "Price": "Rs.1,390 (Incl. Tax)",
+            "Details": [
+                "25 GB Data",
+                "3000 Jazz Mins",
+                "500 Other Network Mins",
+                "3000 SMS"
+            ]
+        },
+        {
+            "name": "15 GBs",
+            "Duration": null,
+            "Price": "Rs 869 (Incl. Tax)",
+            "Details": [
+                "15 GBs Data"
+            ]
+        },
+        {
+            "name": "3 GBs",
+            "Duration": null,
+            "Price": "Rs 347 (Incl. Tax)",
+            "Details": [
+                "3 GBs Data"
+            ]
+        },
+        {
+            "name": "Ghanta",
+            "Duration": null,
+            "Price": "Rs 17 (Incl. Tax)",
+            "Details": [
+                "1 GB Data"
+            ]
+        },
+        {
+            "name": "Offer",
+            "Duration": null,
+            "Price": "Rs.156 (Incl. Tax)",
+            "Details": [
+                "3 GB \u00e2\u20ac\u2039DATA",
+                "3000 Jazz Mins",
+                "30 Other Network Mins",
+                "3000 SMS"
+            ]
+        },
+        {
+            "name": "offer",
+            "Duration": null,
+            "Price": "Rs 6 (Incl. Tax)",
+            "Details": [
+                "200 MBs Data (Facebook)"
+            ]
+        },
+        {
+            "name": "Make Your Own Bundle",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Any Value DATA",
+                "Any Value Jazz Mins",
+                "Any Value Other Network Mins",
+                "Any Value SMS",
+                "All Packages"
+            ]
+        },
+        {
+            "name": "hours",
+            "Duration": null,
+            "Price": "Rs 35 (Incl. Tax)",
+            "Details": [
+                "2 GBs Data (12 AM - 12 PM)"
+            ]
+        },
+        {
+            "name": "Weekly Offer",
+            "Duration": null,
+            "Price": "Rs.147 (Incl. Tax)",
+            "Details": [
+                "3000 MB \u00e2\u20ac\u2039DATA",
+                "3000 Jazz Mins",
+                "30 Other Network Mins",
+                "3000 SMS"
+            ]
+        },
+        {
+            "name": "YOUTUBE & SOCIAL",
+            "Duration": null,
+            "Price": "Rs.27 (Incl. Tax)",
+            "Details": [
+                "1.5 GBs Data (YouTube, Facebook, WhatsApp)"
+            ]
+        },
+        {
+            "name": "Sim Offer",
+            "Duration": null,
+            "Price": "Rs.78 (Incl. Tax)",
+            "Details": [
+                "6 GB DATA",
+                "600 Jazz Mins",
+                "30 Other Network Mins",
+                "600 SMS"
+            ]
+        },
+        {
+            "name": "Premium Plus",
+            "Duration": "Weekly",
+            "Price": "Rs 304 (Incl. Tax)",
+            "Details": [
+                "\u00e2\u20ac\u20395 GB Data",
+                "100 Other Network Min",
+                "1000 Jazz Min & SMS"
+            ]
+        },
+        {
+            "name": "All Rounder Offer",
+            "Duration": null,
+            "Price": "Rs.150 (Incl. Tax)",
+            "Details": [
+                "1 GB DATA",
+                "1000 Jazz Mins",
+                "50 Other Others Network Mins\u00e2\u20ac\u2039",
+                "1000 SMS\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Super Data Offer",
+            "Duration": null,
+            "Price": "Rs.30 (Incl. Tax)",
+            "Details": [
+                "5000 MB Data (11 PM - 9 AM)"
+            ]
+        },
+        {
+            "name": "Haftawar Offer",
+            "Duration": null,
+            "Price": "Rs.260 (Incl. Tax)",
+            "Details": [
+                "12 GB Data",
+                "5000 Jazz Mins",
+                "100 Other Network Minutes",
+                "5000 SMS"
+            ]
+        },
+        {
+            "name": "Daily Offer",
+            "Duration": null,
+            "Price": "Rs.30 (Incl. Tax)",
+            "Details": [
+                "1000 MB DATA",
+                "Unlimited Jazz Mins",
+                "50 SMS"
+            ]
+        },
+        {
+            "name": "Harripur & Nowshera Offer",
+            "Duration": null,
+            "Price": "Rs.243 (Incl. Tax)",
+            "Details": [
+                "10 GB",
+                "500 Jazz Mins",
+                "50 Other Network Mins"
+            ]
+        },
+        {
+            "name": "Daily Offer",
+            "Duration": null,
+            "Price": "Rs.12 (Incl. Tax)",
+            "Details": [
+                "250 MB Data",
+                "Unlimited Jazz Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Offer",
+            "Duration": null,
+            "Price": "Rs.130 (Incl. Tax)",
+            "Details": [
+                "\u00e2\u20ac\u2039120 Jazz Mins",
+                "50 Other Network Mins"
+            ]
+        },
+        {
+            "name": "Give-a-Bundle",
+            "Duration": null,
+            "Price": "Rs.35 (Incl. Tax)",
+            "Details": [
+                "Gift 1 GB Data and 100 Jazz Minutes to your loved ones for 3 days"
+            ]
+        },
+        {
+            "name": "Daily Offer",
+            "Duration": null,
+            "Price": "Rs.30 (Incl. Tax)",
+            "Details": [
+                "1000 MB DATA",
+                "Unlimited Jazz Mins",
+                "50 SMS"
+            ]
+        },
+        {
+            "name": "VIP Call",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Connect with who you want!"
+            ]
+        },
+        {
+            "name": "Auto Call Back",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Connect to your Failed calls automatically"
+            ]
+        },
+        {
+            "name": "Family",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Monthly personal, accidental & hospitalization insurance policy"
+            ]
+        },
+        {
+            "name": "Raabta Offer",
+            "Duration": null,
+            "Price": "Rs.130 (Incl. Tax)",
+            "Details": [
+                "1GB Data",
+                "1000 Jazz Mins",
+                "40 Offnet Mins"
+            ]
+        },
+        {
+            "name": "Super Data Offer",
+            "Duration": null,
+            "Price": "Rs.30 (Incl. Tax)",
+            "Details": [
+                "5000 MBs (11PM-9AM)"
+            ]
+        },
+        {
+            "name": "Super Woman Bundle",
+            "Duration": null,
+            "Price": "(Bal)",
+            "Details": [
+                "12 GB DATA",
+                "Unlimited Jazz Mins",
+                "(8AM - 6PM)"
+            ]
+        },
+        {
+            "name": "Haftawar Data Offer",
+            "Duration": null,
+            "Price": "Rs.243 (Incl. Tax)",
+            "Details": [
+                "5 GB Data",
+                "1000 All Network Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Lite",
+            "Duration": null,
+            "Price": "Rs. 1.80 / 30Sec (Incl. Tax)",
+            "Details": [
+                "Jazz Lite is designed to suit your pocket where you want to enjoy the freedom of speaking your heart out with friends and family with 30 second charging."
+            ]
+        },
+        {
+            "name": "Taxila Offer",
+            "Duration": null,
+            "Price": "Rs.217 (Incl. Tax)",
+            "Details": [
+                "500 Jazz Mins",
+                "10 GB Data",
+                "50 Other Network Mins"
+            ]
+        },
+        {
+            "name": "Haftawar Offer",
+            "Duration": null,
+            "Price": "Rs.278 (Incl. Tax)",
+            "Details": [
+                "10 GBs + 10 GBs \u00e2\u20ac\u2039Whatsapp",
+                "1000 All Networks Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Kissan",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Remain informed on everything related to farming"
+            ]
+        },
+        {
+            "name": "Alert",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Get notified about others\u00e2\u20ac\u2122 availability"
+            ]
+        },
+        {
+            "name": "Super Max",
+            "Duration": "Weekly",
+            "Price": "Rs.478 (Incl. Tax)",
+            "Details": [
+                "30 GB \u00e2\u20ac\u2039DATA",
+                "1000 Jazz Mins",
+                "150 Other Network Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "& Jhelum Haftawar Offer",
+            "Duration": null,
+            "Price": "Rs.173 (Incl. Tax)",
+            "Details": [
+                "10 GB Data",
+                "100 All-Net Mins",
+                "1000 SMS"
+            ]
+        },
+        {
+            "name": "Alerts",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Get alerts for local and international jobs"
+            ]
+        },
+        {
+            "name": "Youth Central",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Remain updated on the latest trends"
+            ]
+        },
+        {
+            "name": "Rozgar",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Jobs at your doorstep"
+            ]
+        },
+        {
+            "name": "Menu",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Don\u00e2\u20ac\u2122t be in oblivion, check for the subscribed services"
+            ]
+        },
+        {
+            "name": "SMS Alert",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Never miss any SMS now"
+            ]
+        },
+        {
+            "name": "Accidental Insurance",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Get insured against accidents \u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Mahana Offer",
+            "Duration": null,
+            "Price": "Rs.695 (Incl. Tax)",
+            "Details": [
+                "10 GB Flat",
+                "5000 Jazz Mins",
+                "150 Other Network Mins",
+                "5000 SMS"
+            ]
+        },
+        {
+            "name": "Just 4 You",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "The Best 3 Bundles for You!"
+            ]
+        },
+        {
+            "name": "Balance Call",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Stay connected with your friends & family with Zero Balance."
+            ]
+        },
+        {
+            "name": "Jazz My Status",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Let your loved ones know how you feel with Jazz My Status"
+            ]
+        },
+        {
+            "name": "Power Tools",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Power through the day with updated news and weather alerts"
+            ]
+        },
+        {
+            "name": "Haftawar Offer",
+            "Duration": null,
+            "Price": "Rs.260 (Incl. Tax)",
+            "Details": [
+                "12 GB Data",
+                "120 All Network Mins",
+                "FREE Tamasha App"
+            ]
+        },
+        {
+            "name": "Block Service",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "\u00e2\u20ac\u2039Block all unwanted Calls & SMS!"
+            ]
+        },
+        {
+            "name": "Share",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Share balance with your loved ones"
+            ]
+        },
+        {
+            "name": "Forwarding",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Forward incoming calls to your voice mail"
+            ]
+        },
+        {
+            "name": "Call",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Talk to four people at one time!\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Auto Reply",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Busy and cannot attend a call? Get Jazz Auto Reply now\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Sehat",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "\u00e2\u20ac\u2039Get insured for your medical needs"
+            ]
+        },
+        {
+            "name": "Call",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "No balance, no problem!\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Notify Me",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Always stay updated with Jazz Notify Me"
+            ]
+        },
+        {
+            "name": "Notification",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Know your balance after every call\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Call Alert",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "\u00e2\u20ac\u2039Never miss any call again!"
+            ]
+        },
+        {
+            "name": "3 Day-Max Offer",
+            "Duration": null,
+            "Price": "Rs.78 (Incl. Tax)",
+            "Details": [
+                "1 GB \u00e2\u20ac\u2039DATA",
+                "10 Other Networks Min",
+                "1000 Jazz Mins",
+                "1000 Jazz Sms"
+            ]
+        },
+        {
+            "name": "Calling Rates",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Talk with your loved ones, across the globe!\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Offer (USA/Canada/UK)",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "\u00e2\u20ac\u2039Slashed call rates to the UK, USA and Canada"
+            ]
+        },
+        {
+            "name": "Offer",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Stay connected with your loved ones in the UK"
+            ]
+        },
+        {
+            "name": "Arabia & UAE Offer",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Talk to your loved ones in KSA & UAE"
+            ]
+        },
+        {
+            "name": "Easy",
+            "Duration": null,
+            "Price": "Rs.3.50 / 60Sec (Incl. Tax)",
+            "Details": []
+        },
+        {
+            "name": "Champion",
+            "Duration": null,
+            "Price": "Rs.3.50 / 60sec (Incl. Tax)",
+            "Details": [
+                "Carrying the legacy forward of being a true Jazz Champion, Jazz presents the \u00e2\u20ac\u02dcJazz Champion\u00e2\u20ac\u2122! It is the default package on all new prepaid connections."
+            ]
+        },
+        {
+            "name": "One",
+            "Duration": null,
+            "Price": "Rs.3.50 / 60Sec",
+            "Details": [
+                "Enjoy lowest call rates on friends and family with Jazz One"
+            ]
+        },
+        {
+            "name": "Daily Offer",
+            "Duration": null,
+            "Price": "Rs.30 (Incl. Tax)",
+            "Details": [
+                "1000 MB DATA",
+                "\u00e2\u20ac\u2039Unlimited Jazz Mins",
+                "\u00e2\u20ac\u203950 SMS"
+            ]
+        },
+        {
+            "name": "Control",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Convenience on your fingertips\u00e2\u20ac\u2039"
+            ]
+        },
+        {
+            "name": "Facebook by Jazz",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "\u00e2\u20ac\u2039Enjoy browsing Facebook for Free"
+            ]
+        },
+        {
+            "name": "Me",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "Make calls to anyone at the expense of a Sponsor"
+            ]
+        },
+        {
+            "name": "Smart SMS",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "\u00e2\u20ac\u2039Deliver your SMS to receiving party even if their number is powered off"
+            ]
+        },
+        {
+            "name": "Budget",
+            "Duration": null,
+            "Price": "Rs.3.50 / 60sec (Incl. Tax)",
+            "Details": [
+                "Jazz Budget is designed to suit your socializing needs when you want to enjoy the freedom of speaking your heart out with friends and family, that too at affordable rates!"
+            ]
+        },
+        {
+            "name": "Sale Offer",
+            "Duration": null,
+            "Price": "N/A",
+            "Details": [
+                "3000 MBs Data\n1000 Jazz Mins\n1000 SMS"
+            ]
+        }
+    ]
+}
