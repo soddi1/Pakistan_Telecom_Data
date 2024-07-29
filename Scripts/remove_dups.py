@@ -36,6 +36,6 @@ def remove_duplicate_pdfs(directory):
         print(f"Removing duplicate file: {file_path}")
         os.remove(file_path)
 
-directory = r'C:\Users\Dell\Desktop\A_Project\Flooding\OpenCelliD data\Flooding\telecome_info\PTA-dataset\2024\output'
+directory = r'C:\Users\Dell\Desktop\A_Project\Flooding\OpenCelliD data\Flooding\output\2024'
 remove_duplicate_pdfs(directory)
 
